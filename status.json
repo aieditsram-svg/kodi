@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 11:57 UTC",
-  "fingerprint": "5e3c2ec49ff87231d1114b38ad8c6671",
+  "updated_at": "2026-10-24 12:27 UTC",
+  "fingerprint": "ab0e5076882d89400999828d3c93eba2",
   "total": 1323,
-  "working": 1159,
-  "in_grace_period": 11,
-  "dead": 164,
-  "hd_channels": 612,
+  "working": 1158,
+  "in_grace_period": 14,
+  "dead": 165,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 437,
-      "hd": 229
+      "working": 435,
+      "hd": 231
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 86,
+      "working": 87,
       "hd": 47
     },
     "Santali": {
@@ -282,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -373,6 +373,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -537,12 +542,17 @@
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
       "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
       "reason": "HTTP 511"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -568,11 +578,6 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "World Punjabi TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Mahimai TV (576p)",
