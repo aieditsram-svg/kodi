@@ -1,5 +1,5 @@
 #EXTM3U
-# Working English channels, updated 2026-10-24 08:35 UTC
+# Working English channels, updated 2026-10-24 09:05 UTC
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",ABP News (1080p)
@@ -90,13 +90,13 @@ http://103.151.60.162:2122/play/a00y/index.m3u8?hls
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" x-category="documentary" tvg-logo="https://dtil.tmsimg.com/assets/s143133_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="1080",History TV18 HD Hindi (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/wPzPUrK.png" tvg-language="English" group-title="English" height="576",Hope Channel India (576p)
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/wPzPUrK.png" tvg-language="English" group-title="English" height="720",Hope Channel India (576p)
 https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/wPzPUrK.png" tvg-language="English" group-title="English" height="576",Hope Channel India (576p)
 https://cdn.pishow.tv/ott/live/1385/master.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/7Y4vQnG.png" tvg-language="English" group-title="English" height="396",Hornbill TV (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/hornbilltv/playlist.m3u8
-#EXTINF:-1 tvg-id="HornbillTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/7Y4vQnG.png" tvg-language="English" group-title="English" height="576",Hornbill TV (576p)
+#EXTINF:-1 tvg-id="HornbillTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/7Y4vQnG.png" tvg-language="English" group-title="English" height="720",Hornbill TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-id="HosannaTV.in@Global" x-category="religious" tvg-logo="https://i.imgur.com/VYorU1L.png" tvg-language="English" group-title="English",Hosanna TV Global
 https://ktismaservers.in:3349/live/hosannatvlive.m3u8
@@ -155,7 +155,7 @@ https://mumbai-edge.smartplaytv.in/News9/index.m3u8
 https://vg-tv9yupp.vgcdn.net/vglive-sk-526536/v1/019e01ace8511ea540a871e333268/019e01ad3da31ea55784752988551/main.m3u8
 #EXTINF:-1 tvg-id="News9Live.in@SD" x-category="news" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/News9_Transparent_0ebbb3fe-a786-401a-957d-2c37168aaa22.png" tvg-language="English" group-title="English" height="720",News9Live (720p)
 https://mumt01.tangotv.in/O5aw8Zn3NEWS9/index.m3u8
-#EXTINF:-1 tvg-id="NewsX.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",NewsX (576p)
+#EXTINF:-1 tvg-id="NewsX.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",NewsX (576p)
 https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
 #EXTINF:-1 tvg-id="NewsX.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",NewsX (576p)
 https://cdn.pishow.tv/ott/live/1765/master.m3u8
@@ -165,7 +165,7 @@ https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
 https://cdn.pishow.tv/ott/live/1049/master.m3u8
 #EXTINF:-1 tvg-id="NickJr.in@SD" x-category="kids" tvg-logo="https://img10.hotstar.com/image/upload/sources/r1/cms/prod/1730/1785252911730-h.jpg" tvg-language="English" group-title="English" height="576",Nick Jr. (576p)
 http://103.151.60.162:2122/play/a00s/index.m3u8?hls
-#EXTINF:-1 tvg-id="NortheastLive.in@HD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="576",Northeast Live (576p)
+#EXTINF:-1 tvg-id="NortheastLive.in@HD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",Northeast Live (576p)
 https://mumt01.tangotv.in/O5aw8Zn3NORTHEASTLIVE/index.m3u8
 #EXTINF:-1 tvg-id="NortheastLive.in@HD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143633_ld_h15_aa.png?lock=720x540" tvg-language="English" group-title="English" height="720",Northeast Live (720p)
 #EXTVLCOPT:http-referrer=https://server.thelegitpro.in/northeastlive/northeastlive/embed.html
