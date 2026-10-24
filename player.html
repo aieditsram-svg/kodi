@@ -74,12 +74,19 @@
 <script>
 /* Settings. To change them without editing this file, add them to the page address, for example
    player.html?list=https://example.com/my.m3u&lang=Telugu&hd=1                                  */
-var DEFAULT_LIST = "https://raw.githubusercontent.com/aieditsram-svg/kodi-tv/main/channels_all.m3u";
+var FALLBACK_LIST = "https://raw.githubusercontent.com/aieditsram-svg/kodi/main/channels_all.m3u";
 var HD_MIN = 720;
 var LOAD_TIMEOUT_MS = 12000;
 
+/* Hosted on GitHub Pages (https://OWNER.github.io/REPO/player.html)? Then the playlist is read from the
+   same repository automatically, so this file works unchanged in any repo name. */
+function defaultList() {
+  var m = /^([^.]+)\.github\.io$/i.exec(location.hostname), repo = location.pathname.split("/")[1];
+  if (m && repo && !/\.html?$/i.test(repo)) return "https://raw.githubusercontent.com/" + m[1] + "/" + repo + "/main/channels_all.m3u";
+  return FALLBACK_LIST;
+}
 var params = new URLSearchParams(location.search);
-var LIST_URL = params.get("list") || DEFAULT_LIST;
+var LIST_URL = params.get("list") || defaultList();
 var $ = function (id) { return document.getElementById(id); };
 var video = $("video"), overlay = $("overlay");
 var channels = [];       // [{key, name, logo, langs:Set, category, links:[{url,h}]}]
