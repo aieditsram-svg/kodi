@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 17:46 UTC",
-  "fingerprint": "99e7d0635b400136267c31154321ca32",
+  "updated_at": "2026-10-24 18:07 UTC",
+  "fingerprint": "62ea188d1f40c26cb9411d512675d5f9",
   "total": 1323,
-  "working": 1154,
+  "working": 1153,
   "in_grace_period": 8,
-  "dead": 169,
-  "hd_channels": 614,
+  "dead": 170,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 529,
       "working": 432,
-      "hd": 232
+      "hd": 233
     },
     "Kannada": {
       "total": 69,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 41,
       "working": 31,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 4,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 158,
-      "working": 122,
+      "working": 121,
       "hd": 59
     },
     "Urdu": {
@@ -213,6 +213,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -390,11 +395,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -413,6 +413,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
