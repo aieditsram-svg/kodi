@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 22:29 UTC",
-  "fingerprint": "eeddb3fada924b5ebd50f0c9bca08eec",
+  "updated_at": "2026-10-24 22:56 UTC",
+  "fingerprint": "0a6b7a2a062a2fcea58cc4ff3bf6d755",
   "total": 1323,
-  "working": 1157,
-  "in_grace_period": 14,
-  "dead": 166,
-  "hd_channels": 613,
+  "working": 1156,
+  "in_grace_period": 16,
+  "dead": 167,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 435,
+      "working": 434,
       "hd": 231
     },
     "Kannada": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 158,
@@ -522,12 +522,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
@@ -788,6 +788,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "M Nadu TV (576p)",
