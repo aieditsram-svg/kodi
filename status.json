@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 20:47 UTC",
-  "fingerprint": "a7d64190e2aac62eb622259e53d39a51",
+  "updated_at": "2026-10-24 21:09 UTC",
+  "fingerprint": "6dfbf683052a10e4cdd04059b75fec61",
   "total": 1323,
-  "working": 1155,
-  "in_grace_period": 6,
-  "dead": 168,
-  "hd_channels": 609,
+  "working": 1156,
+  "in_grace_period": 3,
+  "dead": 167,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -30,7 +30,7 @@
     "English": {
       "total": 148,
       "working": 122,
-      "hd": 62
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 173,
-      "working": 137,
+      "working": 138,
       "hd": 74
     },
     "Telugu": {
@@ -537,12 +537,12 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "National Geographic (576p) [Geo-blocked]",
@@ -908,11 +908,6 @@
       "name": "History TV18 HD",
       "url": "https://techtraveleat.in/stream.m3u8?id=historytv18eng",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee Tamil HD (1080p)",
-      "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Sony Max 1",
