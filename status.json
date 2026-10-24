@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 10:32 UTC",
-  "fingerprint": "318fabfe35e96e285a15128137f457fc",
+  "updated_at": "2026-10-24 11:00 UTC",
+  "fingerprint": "cbdf40387526eb5a9949b9ea8973bb1e",
   "total": 1323,
-  "working": 1156,
-  "in_grace_period": 12,
-  "dead": 167,
-  "hd_channels": 576,
+  "working": 1157,
+  "in_grace_period": 7,
+  "dead": 166,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 104,
-      "working": 82,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -30,22 +30,22 @@
     "English": {
       "total": 148,
       "working": 123,
-      "hd": 64
+      "hd": 65
     },
     "Gujarati": {
       "total": 24,
       "working": 23,
-      "hd": 13
+      "hd": 15
     },
     "Hindi": {
       "total": 529,
-      "working": 435,
-      "hd": 218
+      "working": 437,
+      "hd": 231
     },
     "Kannada": {
       "total": 69,
       "working": 53,
-      "hd": 24
+      "hd": 28
     },
     "Konkani": {
       "total": 2,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 104,
       "working": 86,
-      "hd": 35
+      "hd": 44
     },
     "Marathi": {
       "total": 41,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 27,
       "working": 19,
-      "hd": 8
+      "hd": 9
     },
     "Other": {
       "total": 15,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 88,
       "working": 86,
-      "hd": 44
+      "hd": 47
     },
     "Santali": {
       "total": 1,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 173,
       "working": 138,
-      "hd": 70
+      "hd": 74
     },
     "Telugu": {
       "total": 158,
@@ -330,6 +330,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -378,16 +383,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood (576p)",
@@ -547,7 +542,7 @@
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Sony Max (576p) [Geo-blocked]",
@@ -558,11 +553,6 @@
       "name": "National Geographic (576p) [Geo-blocked]",
       "url": "http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla",
       "reason": "HTTP 511"
-    },
-    {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -867,6 +857,11 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Max HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
