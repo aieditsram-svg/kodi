@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-24 16:54 UTC",
-  "fingerprint": "7b61f029445e813be026c4898e2be58d",
+  "updated_at": "2026-10-24 17:17 UTC",
+  "fingerprint": "990d25d40aa93158126624cbb6b5f00c",
   "total": 1323,
-  "working": 1147,
-  "in_grace_period": 5,
-  "dead": 176,
-  "hd_channels": 612,
+  "working": 1151,
+  "in_grace_period": 7,
+  "dead": 172,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 529,
-      "working": 427,
-      "hd": 229
+      "working": 430,
+      "hd": 231
     },
     "Kannada": {
       "total": 69,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 41,
       "working": 31,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 85,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -132,11 +132,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -385,11 +380,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 404"
@@ -405,11 +395,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -422,6 +407,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -580,11 +570,6 @@
       "reason": "HTTP 511"
     },
     {
-      "name": "India Voice (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -593,11 +578,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
