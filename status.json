@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25 12:39 UTC",
-  "fingerprint": "5579b40ea6d89696f174d623eea5f84d",
+  "updated_at": "2026-10-25 13:16 UTC",
+  "fingerprint": "ffc6f2b4c6f49496ed703ec8477a56f4",
   "total": 1314,
-  "working": 1150,
-  "in_grace_period": 16,
-  "dead": 164,
+  "working": 1152,
+  "in_grace_period": 14,
+  "dead": 162,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 120,
-      "hd": 63
+      "working": 121,
+      "hd": 64
     },
     "Gujarati": {
       "total": 24,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
+      "working": 429,
       "hd": 228
     },
     "Kannada": {
@@ -282,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -385,8 +385,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -755,11 +755,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -787,11 +782,6 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
