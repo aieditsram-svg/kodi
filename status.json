@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 00:37 UTC",
-  "fingerprint": "aa582ce973c0e683a2aec9ca0bf12630",
+  "updated_at": "2026-10-25 01:16 UTC",
+  "fingerprint": "b0118c97471d54d2497b3c2006b30172",
   "total": 1314,
-  "working": 1150,
-  "in_grace_period": 7,
-  "dead": 164,
-  "hd_channels": 611,
+  "working": 1152,
+  "in_grace_period": 10,
+  "dead": 162,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 120,
-      "hd": 62
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
+      "working": 431,
       "hd": 230
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
+      "working": 121,
       "hd": 59
     },
     "Urdu": {
@@ -210,11 +210,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -282,7 +277,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -522,12 +517,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -793,11 +788,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "M Nadu TV (576p)",
