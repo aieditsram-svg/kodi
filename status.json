@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-25 19:03 UTC",
-  "fingerprint": "ce18174d2eda27e861d8aa4f3f669249",
+  "updated_at": "2026-10-25 19:29 UTC",
+  "fingerprint": "70f9488d46071f5b5a2933c4af94dd14",
   "total": 1314,
-  "working": 1153,
-  "in_grace_period": 13,
-  "dead": 161,
-  "hd_channels": 613,
+  "working": 1148,
+  "in_grace_period": 10,
+  "dead": 166,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
-      "working": 24,
+      "working": 23,
       "hd": 12
     },
     "Bengali": {
       "total": 100,
-      "working": 81,
+      "working": 80,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 143,
-      "working": 120,
+      "working": 119,
       "hd": 63
     },
     "Gujarati": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
-      "hd": 229
+      "working": 429,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 135,
-      "hd": 73
+      "working": 134,
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -125,6 +125,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -133,6 +138,11 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -245,6 +255,11 @@
       "reason": "URLError"
     },
     {
+      "name": "MNTV (1080p)",
+      "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -258,6 +273,11 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -288,6 +308,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -367,11 +392,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -522,12 +542,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -857,6 +877,11 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee Cinema HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
