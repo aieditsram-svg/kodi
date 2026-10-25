@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-25 22:25 UTC",
-  "fingerprint": "987693e5209299c1649ee82f5a5cbaf6",
+  "updated_at": "2026-10-25 22:50 UTC",
+  "fingerprint": "c02200f0986b611c7efe6b43c165bbe7",
   "total": 1314,
   "working": 1146,
-  "in_grace_period": 28,
+  "in_grace_period": 20,
   "dead": 168,
-  "hd_channels": 611,
+  "hd_channels": 609,
   "languages": {
     "Assamese": {
       "total": 28,
       "working": 24,
-      "hd": 12
+      "hd": 11
     },
     "Bengali": {
       "total": 100,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 426,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -282,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -360,6 +360,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Darshan 24 (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -402,11 +407,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
