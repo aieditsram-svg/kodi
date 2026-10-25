@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-10-25 14:42 UTC",
-  "fingerprint": "8cfcb14fb3b7fe50e691c3bf0db0d9a1",
+  "updated_at": "2026-10-25 15:08 UTC",
+  "fingerprint": "0a427db6b4cab8da6ccbb0525d479962",
   "total": 1314,
   "working": 1146,
-  "in_grace_period": 12,
+  "in_grace_period": 8,
   "dead": 168,
-  "hd_channels": 611,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
       "working": 24,
-      "hd": 11
+      "hd": 12
     },
     "Bengali": {
       "total": 100,
@@ -395,11 +395,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
@@ -418,6 +413,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
