@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 08:16 UTC",
-  "fingerprint": "5ceb7d8b743dc287015c0533a4863859",
+  "updated_at": "2026-10-25 08:51 UTC",
+  "fingerprint": "db7fce4ce9d4d3f3a782f205d488d1fd",
   "total": 1314,
-  "working": 1150,
-  "in_grace_period": 9,
-  "dead": 164,
-  "hd_channels": 613,
+  "working": 1153,
+  "in_grace_period": 7,
+  "dead": 161,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 427,
-      "hd": 229
+      "working": 430,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -385,11 +380,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -432,11 +422,6 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
