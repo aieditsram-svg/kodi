@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-25 15:08 UTC",
-  "fingerprint": "0a427db6b4cab8da6ccbb0525d479962",
+  "updated_at": "2026-10-25 15:38 UTC",
+  "fingerprint": "2d2f8e613ae36ccb0a7c5c52fecb85d9",
   "total": 1314,
-  "working": 1146,
-  "in_grace_period": 8,
-  "dead": 168,
+  "working": 1148,
+  "in_grace_period": 12,
+  "dead": 166,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 424,
-      "hd": 228
+      "working": 427,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 135,
-      "hd": 73
+      "working": 134,
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
@@ -282,7 +282,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -395,18 +395,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -442,11 +432,6 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -558,6 +543,11 @@
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
       "reason": "HTTP 429"
+    },
+    {
+      "name": "Mei Alai TV (576p)",
+      "url": "https://meialai.iptelevishion.com/meialai/2/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p)",
