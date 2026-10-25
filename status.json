@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 17:34 UTC",
-  "fingerprint": "5adc7e57e7ecd04e77031b2c2aaae4d6",
+  "updated_at": "2026-10-25 18:00 UTC",
+  "fingerprint": "18ebeaf1002a85ae2fab1457e6198bee",
   "total": 1314,
-  "working": 1150,
-  "in_grace_period": 12,
-  "dead": 164,
-  "hd_channels": 614,
+  "working": 1151,
+  "in_grace_period": 18,
+  "dead": 163,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 121,
-      "hd": 64
+      "working": 120,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 230
+      "working": 430,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 167,
       "working": 135,
-      "hd": 73
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
+      "working": 119,
       "hd": 59
     },
     "Urdu": {
@@ -215,6 +215,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -282,7 +287,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -377,16 +382,6 @@
     {
       "name": "Bharat Samachar (576p)",
       "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -537,12 +532,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -790,6 +785,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
@@ -867,11 +867,6 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Zee Cinema HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
