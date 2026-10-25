@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 21:36 UTC",
-  "fingerprint": "a6b6001d7fcfdffc3e9c46a0c45d659c",
+  "updated_at": "2026-10-25 22:01 UTC",
+  "fingerprint": "c3ec278cfd2f547791e336db6aa7a796",
   "total": 1314,
-  "working": 1149,
-  "in_grace_period": 15,
-  "dead": 165,
-  "hd_channels": 609,
+  "working": 1144,
+  "in_grace_period": 9,
+  "dead": 170,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 430,
+      "working": 426,
       "hd": 228
     },
     "Kannada": {
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 167,
       "working": 134,
-      "hd": 71
+      "hd": 72
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
+      "working": 119,
       "hd": 59
     },
     "Urdu": {
@@ -218,6 +218,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -390,9 +395,24 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -432,6 +452,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
