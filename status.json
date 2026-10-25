@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-25 06:34 UTC",
-  "fingerprint": "bbb97ba25f51de521d9d546da5b68295",
+  "updated_at": "2026-10-25 07:18 UTC",
+  "fingerprint": "3ae0887e9666713c73049b1a2d6bc55b",
   "total": 1314,
   "working": 1146,
-  "in_grace_period": 4,
+  "in_grace_period": 18,
   "dead": 168,
-  "hd_channels": 612,
+  "hd_channels": 611,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 88,
       "working": 86,
-      "hd": 47
+      "hd": 46
     },
     "Santali": {
       "total": 1,
@@ -372,7 +372,7 @@
     {
       "name": "Dangal TV (576p)",
       "url": "https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Shemaroo TV (576p)",
