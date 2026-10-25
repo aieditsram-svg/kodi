@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-24 23:42 UTC",
-  "fingerprint": "daa8268ed7595cf90c3f040c8fc0645d",
+  "updated_at": "2026-10-25 00:01 UTC",
+  "fingerprint": "df00da976d03d2d145137d96ee677d2e",
   "total": 1323,
   "working": 1149,
-  "in_grace_period": 9,
+  "in_grace_period": 7,
   "dead": 174,
   "hd_channels": 612,
   "languages": {
@@ -415,11 +415,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -428,6 +423,11 @@
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bansal News (576p)",
+      "url": "https://d1msejlow1t3l4.cloudfront.net/fta/bansalnews/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "YET TV (720p)",
