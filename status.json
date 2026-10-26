@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 14:07 UTC",
-  "fingerprint": "8b874d303d26d4912e3813bd17588bc7",
+  "updated_at": "2026-10-26 15:40 UTC",
+  "fingerprint": "0f9ce6dd57fd5d029892f81b273cd7a3",
   "total": 1315,
-  "working": 1162,
-  "in_grace_period": 27,
-  "dead": 153,
-  "hd_channels": 614,
+  "working": 1160,
+  "in_grace_period": 22,
+  "dead": 155,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 435,
-      "hd": 228
+      "working": 434,
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 2,
-      "working": 2,
-      "hd": 2
+      "working": 1,
+      "hd": 1
     },
     "Malayalam": {
       "total": 100,
@@ -128,6 +128,16 @@
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -245,6 +255,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
+    },
+    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -350,24 +365,19 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",

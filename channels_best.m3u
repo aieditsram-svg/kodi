@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-10-26 14:07 UTC
+# Working channels, one best link per channel, updated 2026-10-26 15:40 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Jonack (576p)
@@ -405,8 +405,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142650_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Argus News (576p)
 https://stream.ottlive.co.in/argus/index.m3u8
-#EXTINF:-1 tvg-id="AryanTVNational.in@SD" tvg-logo="https://i.imgur.com/3tePHES.png" tvg-language="Hindi" group-title="Hindi" height="576",Aryan TV National (576p)
-https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8
 #EXTINF:-1 tvg-id="AsianNews.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Asian_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="ATNSamachar.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ATN_Samachar.png" tvg-language="Hindi" group-title="Hindi" height="1080",ATN Samachar (1080p)
@@ -423,8 +421,8 @@ https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
 https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
 #EXTINF:-1 tvg-id="BalleBalle.in@HD" x-category="music" tvg-logo="https://i.imgur.com/oxkkWH5.png" tvg-language="Hindi" group-title="Hindi" height="1080",Balle Balle HD (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-id="BansalNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142702_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Bansal News (720p)
-https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BansalNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142702_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Bansal News (576p)
+https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/index.m3u8
 #EXTINF:-1 tvg-id="BhaktiDhara.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png" tvg-language="Hindi" group-title="Hindi" height="720",Bhakti Dhara (720p)
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 #EXTINF:-1 tvg-id="BhaktiSagar.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" tvg-language="Hindi" group-title="Hindi" height="720",Bhakti Sagar (576p)
@@ -489,7 +487,7 @@ https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Hindi" group-title="Hindi" height="1080",DD Sports SD (576p)
 https://mumbai-edge.smartplaytv.in/DDSports/index.m3u8
-#EXTINF:-1 tvg-id="DeewanaHD.in@SD" x-category="music" tvg-logo="https://i.imgur.com/xIYITQ9.png" tvg-language="Hindi" group-title="Hindi" height="540",Deewana HD (540p)
+#EXTINF:-1 tvg-id="DeewanaHD.in@SD" x-category="music" tvg-logo="https://i.imgur.com/xIYITQ9.png" tvg-language="Hindi" group-title="Hindi" height="720",Deewana HD (540p)
 https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
 #EXTINF:-1 tvg-id="DheeranTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/jSedjXf.png" tvg-language="Hindi" group-title="Hindi" height="576",Dheeran TV (576p)
 https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
@@ -547,7 +545,7 @@ https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
 https://cc-89m9zu7a2upfe.akamaized.net/hls/live/2016145/gnt/gntlive/playlist.m3u8
 #EXTINF:-1 tvg-id="GreenGoldTV.in@India" x-category="kids" tvg-logo="https://i.ibb.co/TDPsPVkT/Greengoldtv.png" tvg-language="Hindi" group-title="Hindi" height="1080",Green Gold TV (1080p)
 https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8
-#EXTINF:-1 tvg-id="Gyandarshan.in@HD" x-category="education" tvg-logo="https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Gyandarshan HD (576p)
+#EXTINF:-1 tvg-id="Gyandarshan.in@HD" x-category="education" tvg-logo="https://dtil.tmsimg.com/assets/s143100_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Gyandarshan HD (576p)
 https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143102_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Hare Krsna TV (1080p)
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
@@ -889,8 +887,8 @@ https://cdn.pishow.tv/ott/live/234/master.m3u8
 https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="1080",Asianet Suvarna News (1080p) [Not 24/7]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Ayush TV (360p) [Not 24/7]
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-id="AyushTV.in@SD" x-category="lifestyle" tvg-logo="https://dtil.tmsimg.com/assets/s142692_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Ayush TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" x-category="animation" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png?lock=720x540" tvg-language="Kannada" group-title="Kannada" height="720",Cartoon Network (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in@HD" x-category="entertainment" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3440/1782291243440-h.jpg" tvg-language="Kannada" group-title="Kannada" height="1080",Colors Kannada HD (1080i)
@@ -951,8 +949,6 @@ https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u
 https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="PrudentMedia.in@SD" x-category="news" tvg-logo="https://i.imgur.com/DG0x4UD.png" tvg-language="Konkani" group-title="Konkani" height="1080",Prudent Media (1080p)
 https://prudentmcdn.rixcast.com/prudentm.m3u8
-#EXTINF:-1 tvg-id="RDXGoa.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/RDX_News.png" tvg-language="Konkani" group-title="Konkani" height="720",RDX Goa (720p) [Geo-blocked]
-https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="24News.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xraizkS.png" tvg-language="Malayalam" group-title="Malayalam" height="720",24 News (576p)
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 tvg-id="AmritaTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142632_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Amrita TV (720p)
