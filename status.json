@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 21:11 UTC",
-  "fingerprint": "07afe420c7221af3e69cec9e01875e19",
+  "updated_at": "2026-10-26 21:43 UTC",
+  "fingerprint": "73a86db47454c9ad6ff5236d4eb2acb2",
   "total": 1315,
   "working": 1150,
-  "in_grace_period": 5,
+  "in_grace_period": 3,
   "dead": 165,
-  "hd_channels": 606,
+  "hd_channels": 607,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -45,7 +45,7 @@
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 26
+      "hd": 27
     },
     "Konkani": {
       "total": 2,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 73
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -132,6 +132,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -553,11 +558,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sahana News (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSAHANANEWS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Gyandarshan HD (576p)",
