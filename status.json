@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 00:39 UTC",
-  "fingerprint": "29b01ea3499517fb89df2ee79b700683",
+  "updated_at": "2026-10-26 01:28 UTC",
+  "fingerprint": "fa2353ec2735e6307ffff1d49dc4ea10",
   "total": 1315,
-  "working": 1140,
-  "in_grace_period": 6,
-  "dead": 175,
-  "hd_channels": 603,
+  "working": 1143,
+  "in_grace_period": 13,
+  "dead": 172,
+  "hd_channels": 601,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 75,
+      "working": 76,
       "hd": 41
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 120,
-      "hd": 63
+      "hd": 61
     },
     "Gujarati": {
       "total": 24,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 427,
+      "working": 428,
       "hd": 226
     },
     "Kannada": {
       "total": 65,
       "working": 51,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 2,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 134,
-      "hd": 72
+      "working": 135,
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -260,11 +260,6 @@
       "reason": "URLError"
     },
     {
-      "name": "MNTV (1080p)",
-      "url": "https://mntv.livebox.co.in/mntvhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -307,7 +302,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -400,8 +395,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -542,17 +537,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "reason": "HTTP 456"
     },
     {
       "name": "Mei Alai TV (576p)",
@@ -568,11 +558,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
