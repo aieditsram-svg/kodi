@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 17:19 UTC",
-  "fingerprint": "bd639519cd9f756614db2e5a4c6b8dd6",
+  "updated_at": "2026-10-26 17:58 UTC",
+  "fingerprint": "9939bcadeacb946dcde435ec9c028ce0",
   "total": 1315,
-  "working": 1146,
-  "in_grace_period": 12,
-  "dead": 169,
-  "hd_channels": 610,
+  "working": 1152,
+  "in_grace_period": 13,
+  "dead": 163,
+  "hd_channels": 613,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 81,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 425,
-      "hd": 225
+      "working": 428,
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 85,
+      "working": 86,
       "hd": 47
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 119,
+      "working": 120,
       "hd": 59
     },
     "Urdu": {
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -210,11 +205,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -228,11 +218,6 @@
       "name": "ETV Telangana (1080p)",
       "url": "https://d37d7pfp7vjqhh.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Fateh TV (1080p) [Not 24/7]",
-      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Good News Today (720p)",
@@ -287,7 +272,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -358,16 +343,6 @@
       "name": "APN (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "IBC 24 (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -590,11 +565,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "BVG (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
@@ -610,11 +580,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "World Punjabi TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "KBP Times (1080p)",
       "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
       "reason": "HTTP 404"
@@ -622,7 +587,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "News Nation 81 (1080p)",
@@ -810,8 +775,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -833,6 +798,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Star Movies HD (1080p)",
