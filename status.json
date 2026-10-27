@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 17:25 UTC",
-  "fingerprint": "a6ba3ecbc874a3e69779ac7276bb86b2",
+  "updated_at": "2026-10-27 18:06 UTC",
+  "fingerprint": "467fff1541f1da25ba859823b0b151f5",
   "total": 1315,
-  "working": 1151,
-  "in_grace_period": 18,
-  "dead": 164,
-  "hd_channels": 609,
+  "working": 1156,
+  "in_grace_period": 12,
+  "dead": 159,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 226
+      "working": 431,
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 37,
       "working": 30,
-      "hd": 18
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 86,
+      "working": 87,
       "hd": 47
     },
     "Santali": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
-      "hd": 72
+      "working": 138,
+      "hd": 74
     },
     "Telugu": {
       "total": 152,
@@ -275,11 +275,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -375,11 +370,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "IBC 24 (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -405,18 +395,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -557,12 +537,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -580,11 +560,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "BVG (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
@@ -598,11 +573,6 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "World Punjabi TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Mahimai TV (576p)",
@@ -813,6 +783,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Star Movies HD (1080p)",
