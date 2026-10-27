@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 10:41 UTC",
-  "fingerprint": "4c4599ff7f96cf2f5d9120e4f23b7807",
+  "updated_at": "2026-10-27 11:19 UTC",
+  "fingerprint": "e485f0acc5ced0f6db3e15541874e75a",
   "total": 1315,
   "working": 1154,
-  "in_grace_period": 16,
+  "in_grace_period": 15,
   "dead": 161,
-  "hd_channels": 614,
+  "hd_channels": 612,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 65,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 168,
       "working": 138,
-      "hd": 74
+      "hd": 73
     },
     "Telugu": {
       "total": 152,
@@ -137,6 +137,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -380,6 +385,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -392,11 +402,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -563,11 +568,6 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -797,7 +797,7 @@
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Star Movies HD (1080p)",
