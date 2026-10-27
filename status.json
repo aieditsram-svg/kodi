@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 13:28 UTC",
-  "fingerprint": "d3d62294060929e2e7b68bfa0f4b9b13",
+  "updated_at": "2026-10-27 14:20 UTC",
+  "fingerprint": "2d4acf78b4da7a2f0fb1ecf3fe9156c1",
   "total": 1315,
-  "working": 1146,
-  "in_grace_period": 8,
-  "dead": 169,
-  "hd_channels": 612,
+  "working": 1149,
+  "in_grace_period": 13,
+  "dead": 166,
+  "hd_channels": 610,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 79,
+      "working": 80,
       "hd": 45
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
-      "hd": 227
+      "working": 429,
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 37,
       "working": 30,
-      "hd": 19
+      "hd": 18
     },
     "Nepali": {
       "total": 4,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 168,
-      "working": 137,
+      "working": 138,
       "hd": 74
     },
     "Telugu": {
@@ -420,11 +420,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -447,6 +442,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -557,12 +557,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -865,11 +865,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Colors Bangla Cinema (576p)",
-      "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Colors Cineplex HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
       "reason": "HTTP 404"
@@ -897,11 +892,6 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Superhitz (576p)",
-      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
@@ -933,11 +923,6 @@
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
