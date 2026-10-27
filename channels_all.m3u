@@ -1,5 +1,5 @@
 #EXTM3U
-# All channels found (links not verified from this server included), updated 2026-10-27 20:45 UTC
+# All channels found (links not verified from this server included), updated 2026-10-27 21:19 UTC
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" x-category="news" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" tvg-language="Assamese" group-title="Assamese" height="576",Asom Live 24 (576p)
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -890,7 +890,7 @@ https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/BEr1r7L.png" tvg-language="Hindi" group-title="Hindi" height="720",Dangal 2 (720p)
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="DangalTV.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",Dangal TV (576p)
+#EXTINF:-1 tvg-id="DangalTV.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Dangal TV (576p)
 https://streams.tangotv.in/DANGAL/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="DangalTV.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s142771_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Dangal TV (576p)
 https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8
@@ -2235,7 +2235,7 @@ https://streams.tangotv.in/CHARDIKALATIMETV/ORIGIN/index.m3u8
 https://mumt07.tangotv.in/zHjX9OFlCHARDIKALATIMETV/index.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" x-category="news" tvg-logo="https://i.imgur.com/IUeMFey.jpg" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV North America (1080p)
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
-#EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Chintpurni Live (360p)
+#EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" tvg-language="Punjabi" group-title="Punjabi" height="360",Chintpurni Live (360p)
 https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8
 #EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Chintpurni Live (720p)
 https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8
@@ -2253,7 +2253,7 @@ https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
 http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="Fast1.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" tvg-language="Punjabi" group-title="Punjabi" height="576",Fast1 (576p)
 https://cdn.pishow.tv/ott/live/10008/master.m3u8
-#EXTINF:-1 tvg-id="Fast1.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Fast1 (576p)
+#EXTINF:-1 tvg-id="Fast1.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/fast1.png" tvg-language="Punjabi" group-title="Punjabi" height="576",Fast1 (576p)
 https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in@SD" x-category="news" tvg-logo="https://i.imgur.com/WDLqcWW.png" tvg-language="Punjabi" group-title="Punjabi" height="1080",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
