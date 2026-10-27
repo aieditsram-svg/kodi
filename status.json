@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 21:55 UTC",
-  "fingerprint": "418df951a30d649e68bc9759f814fe9f",
+  "updated_at": "2026-10-27 22:28 UTC",
+  "fingerprint": "1c4fec5f70e12fc41a29c630dd4fd507",
   "total": 1315,
-  "working": 1154,
-  "in_grace_period": 15,
-  "dead": 161,
-  "hd_channels": 608,
+  "working": 1150,
+  "in_grace_period": 13,
+  "dead": 165,
+  "hd_channels": 605,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 432,
-      "hd": 228
+      "hd": 227
     },
     "Kannada": {
       "total": 65,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 88,
-      "working": 87,
-      "hd": 46
+      "working": 83,
+      "hd": 44
     },
     "Santali": {
       "total": 1,
@@ -425,11 +425,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -535,14 +530,19 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Fast1 (576p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -787,7 +787,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -888,6 +888,26 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Chintpurni Live (360p)",
+      "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Padharo SA (720p)",
+      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi Music HD (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
