@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 08:42 UTC",
-  "fingerprint": "e124250208234cabe0c8c444ddbde38b",
+  "updated_at": "2026-10-27 09:21 UTC",
+  "fingerprint": "92bc562717f484944f1899e8364d5d72",
   "total": 1315,
-  "working": 1156,
-  "in_grace_period": 11,
-  "dead": 159,
+  "working": 1154,
+  "in_grace_period": 9,
+  "dead": 161,
   "hd_channels": 614,
   "languages": {
     "Assamese": {
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 431,
-      "hd": 229
+      "working": 429,
+      "hd": 230
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 2,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 100,
       "working": 86,
-      "hd": 43
+      "hd": 42
     },
     "Marathi": {
       "total": 37,
@@ -137,11 +137,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -247,7 +242,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -390,8 +385,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -537,17 +542,22 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
       "reason": "HTTP 458"
+    },
+    {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Nickelodeon (576p)",
