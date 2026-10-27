@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-26 23:50 UTC",
-  "fingerprint": "027a86102d5014402604a58e7592be81",
+  "updated_at": "2026-10-27 00:13 UTC",
+  "fingerprint": "3b6efb4040f0030a57616e8f3ec2661e",
   "total": 1315,
-  "working": 1153,
-  "in_grace_period": 24,
-  "dead": 162,
-  "hd_channels": 608,
+  "working": 1152,
+  "in_grace_period": 6,
+  "dead": 163,
+  "hd_channels": 607,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 143,
-      "working": 122,
-      "hd": 64
+      "working": 121,
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 431,
-      "hd": 226
+      "hd": 225
     },
     "Kannada": {
       "total": 65,
@@ -75,7 +75,7 @@
     "Other": {
       "total": 15,
       "working": 14,
-      "hd": 12
+      "hd": 13
     },
     "Punjabi": {
       "total": 88,
@@ -253,6 +253,11 @@
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
+    },
+    {
+      "name": "NDTV Profit (1080p)",
+      "url": "https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_5.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
@@ -850,6 +855,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sony Max HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Star Gold HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a01n/index.m3u8?hls",
       "reason": "HTTP 404"
@@ -862,11 +872,6 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Zee Cinema HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a012/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
