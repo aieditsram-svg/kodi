@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-27 02:56 UTC",
-  "fingerprint": "c4b2531e7c6c4c4c96d6efffa6b961d8",
+  "updated_at": "2026-10-27 03:27 UTC",
+  "fingerprint": "a30008418d0fe76866e12dea1da79627",
   "total": 1315,
-  "working": 1151,
-  "in_grace_period": 8,
-  "dead": 164,
-  "hd_channels": 609,
+  "working": 1152,
+  "in_grace_period": 15,
+  "dead": 163,
+  "hd_channels": 604,
   "languages": {
     "Assamese": {
       "total": 28,
@@ -19,8 +19,8 @@
     },
     "Bhojpuri": {
       "total": 23,
-      "working": 21,
-      "hd": 12
+      "working": 22,
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 2,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 123,
-      "hd": 65
+      "hd": 63
     },
     "Gujarati": {
       "total": 24,
@@ -40,12 +40,12 @@
     "Hindi": {
       "total": 519,
       "working": 431,
-      "hd": 229
+      "hd": 226
     },
     "Kannada": {
       "total": 65,
       "working": 52,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 2,
@@ -343,11 +343,6 @@
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Manoranjan Prime (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "APN (576p)",
