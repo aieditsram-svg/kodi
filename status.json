@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 10:03 UTC",
-  "fingerprint": "8936347faf7a8c9155533b4571f32a27",
+  "updated_at": "2026-10-27 10:41 UTC",
+  "fingerprint": "4c4599ff7f96cf2f5d9120e4f23b7807",
   "total": 1315,
-  "working": 1155,
-  "in_grace_period": 30,
-  "dead": 160,
+  "working": 1154,
+  "in_grace_period": 16,
+  "dead": 161,
   "hd_channels": 614,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 519,
       "working": 430,
-      "hd": 230
+      "hd": 229
     },
     "Kannada": {
       "total": 65,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 100,
-      "working": 86,
+      "working": 85,
       "hd": 42
     },
     "Marathi": {
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 152,
       "working": 120,
-      "hd": 58
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -143,6 +143,11 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD National HD (576p)",
@@ -537,12 +542,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -577,7 +582,7 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Mahimai TV (576p)",
@@ -652,7 +657,7 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
-      "reason": "RemoteDisconnected"
+      "reason": "HTTP 404"
     },
     {
       "name": "NewsX (720p)",
@@ -712,7 +717,7 @@
     {
       "name": "Bada Khabar (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
-      "reason": "RemoteDisconnected"
+      "reason": "TimeoutError"
     },
     {
       "name": "MBC TV (576p)",
@@ -787,7 +792,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
