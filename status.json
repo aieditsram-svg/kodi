@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 12:33 UTC",
-  "fingerprint": "a2a3a77cf8a87ea6b2639e82dbe11d65",
+  "updated_at": "2026-10-27 13:28 UTC",
+  "fingerprint": "d3d62294060929e2e7b68bfa0f4b9b13",
   "total": 1315,
-  "working": 1148,
-  "in_grace_period": 13,
-  "dead": 167,
+  "working": 1146,
+  "in_grace_period": 8,
+  "dead": 169,
   "hd_channels": 612,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 100,
-      "working": 80,
+      "working": 79,
       "hd": 45
     },
     "Bhojpuri": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 152,
-      "working": 120,
+      "working": 119,
       "hd": 59
     },
     "Urdu": {
@@ -228,6 +228,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -400,19 +405,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -562,12 +557,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "&xplor HD (1080p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -583,6 +578,11 @@
       "name": "Nick Jr. (576p)",
       "url": "http://202.70.146.135:8000/play/a02n/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Gyandarshan HD (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BVG (576p)",
@@ -865,6 +865,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Colors Bangla Cinema (576p)",
+      "url": "http://103.151.60.162:2122/play/a02m/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Colors Cineplex HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02s/index.m3u8?hls",
       "reason": "HTTP 404"
@@ -892,6 +897,11 @@
     {
       "name": "Star Sports 3 (576p)",
       "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Superhitz (576p)",
+      "url": "http://103.151.60.162:2122/play/a02f/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
