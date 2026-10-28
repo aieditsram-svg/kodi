@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 17:00 UTC",
-  "fingerprint": "7b488ceb64d4ffc0817f726888c80af9",
+  "updated_at": "2026-10-28 17:44 UTC",
+  "fingerprint": "ae173809ccc00cdd722476ebdc018efc",
   "total": 1425,
-  "working": 1253,
-  "in_grace_period": 8,
-  "dead": 172,
-  "hd_channels": 629,
+  "working": 1259,
+  "in_grace_period": 19,
+  "dead": 166,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 149,
-      "working": 127,
-      "hd": 64
+      "working": 128,
+      "hd": 65
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 471,
-      "hd": 237
+      "working": 476,
+      "hd": 241
     },
     "Kannada": {
       "total": 65,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 4,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 113,
-      "working": 108,
+      "working": 109,
       "hd": 50
     },
     "Santali": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 145,
-      "hd": 73
+      "working": 146,
+      "hd": 74
     },
     "Telugu": {
       "total": 160,
-      "working": 128,
-      "hd": 58
+      "working": 129,
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -385,11 +385,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "IBC 24 (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -428,6 +423,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -580,11 +580,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "BVG (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
@@ -600,14 +595,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "World Punjabi TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -812,7 +802,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -862,11 +852,6 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
@@ -920,11 +905,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Pratham News (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -938,16 +918,6 @@
       "name": "India News Punjab/Himachal (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "News Hour (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Sadhna Plus News (576p)",
-      "url": "https://mumt03.tangotv.in/Dsly5z3HSADHNAPLUSNEWS/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Ind 24 (576p)",
