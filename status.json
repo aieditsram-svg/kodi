@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-27 23:35 UTC",
-  "fingerprint": "556a7b50b52eec917ca99e8b96a513f4",
+  "updated_at": "2026-10-28 00:07 UTC",
+  "fingerprint": "3780cb57a30686d9d6b0306e0a42cbc5",
   "total": 1315,
-  "working": 1144,
-  "in_grace_period": 1,
-  "dead": 171,
+  "working": 1145,
+  "in_grace_period": 6,
+  "dead": 170,
   "hd_channels": 608,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 519,
-      "working": 428,
+      "working": 429,
       "hd": 227
     },
     "Kannada": {
@@ -877,11 +877,6 @@
     {
       "name": "Sony Entertainment Television (576p)",
       "url": "http://103.151.60.162:2122/play/a01o/index.m3u8?hls",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a014/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
