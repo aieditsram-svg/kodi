@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 16:11 UTC",
-  "fingerprint": "2c2c055e8944bc7336785eba2905afe7",
+  "updated_at": "2026-10-28 17:00 UTC",
+  "fingerprint": "7b488ceb64d4ffc0817f726888c80af9",
   "total": 1425,
-  "working": 1254,
-  "in_grace_period": 17,
-  "dead": 171,
-  "hd_channels": 631,
+  "working": 1253,
+  "in_grace_period": 8,
+  "dead": 172,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 149,
-      "working": 128,
-      "hd": 65
+      "working": 127,
+      "hd": 64
     },
     "Gujarati": {
       "total": 27,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 470,
+      "working": 471,
       "hd": 237
     },
     "Kannada": {
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 4,
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 147,
-      "hd": 75
+      "working": 145,
+      "hd": 73
     },
     "Telugu": {
       "total": 160,
-      "working": 130,
-      "hd": 59
+      "working": 128,
+      "hd": 58
     },
     "Urdu": {
       "total": 13,
@@ -220,6 +220,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -248,6 +253,11 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Life TV (720p)",
+      "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "MTV HD (396p)",
@@ -375,11 +385,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 404"
@@ -410,11 +415,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -422,11 +422,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -457,6 +452,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -580,14 +580,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Gyandarshan HD (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "BVG (576p)",
       "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -795,6 +790,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -812,7 +812,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -862,6 +862,11 @@
     {
       "name": "Sonic (576p)",
       "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sony Pix HD (1080p)",
+      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
       "reason": "HTTP 404"
     },
     {
