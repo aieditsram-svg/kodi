@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 13:29 UTC",
-  "fingerprint": "3ca0f03af2dc6e27de4cfbcfa1bc2f40",
+  "updated_at": "2026-10-28 14:24 UTC",
+  "fingerprint": "db8b296cb5a9fbb325064c53334725f0",
   "total": 1425,
-  "working": 1253,
-  "in_grace_period": 47,
-  "dead": 172,
-  "hd_channels": 616,
+  "working": 1254,
+  "in_grace_period": 46,
+  "dead": 171,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 81,
-      "hd": 45
+      "working": 82,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 23,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 471,
+      "working": 472,
       "hd": 231
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 148,
+      "working": 147,
       "hd": 74
     },
     "Telugu": {
@@ -270,14 +270,14 @@
       "reason": "URLError"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "Sai TV",
+      "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -343,11 +343,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -462,6 +457,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -607,7 +607,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -792,11 +792,6 @@
     {
       "name": "Sangeet Bangla (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
