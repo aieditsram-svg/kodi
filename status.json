@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 20:44 UTC",
-  "fingerprint": "500d9c70c3d34a9493b29c5a49d7fe7b",
+  "updated_at": "2026-10-28 21:21 UTC",
+  "fingerprint": "7d8c6658d4af73f864965ffbcbb1a3cd",
   "total": 1425,
-  "working": 1230,
-  "in_grace_period": 4,
-  "dead": 195,
-  "hd_channels": 623,
+  "working": 1228,
+  "in_grace_period": 12,
+  "dead": 197,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 564,
       "working": 463,
-      "hd": 237
+      "hd": 236
     },
     "Kannada": {
       "total": 65,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 88,
-      "hd": 41
+      "working": 86,
+      "hd": 40
     },
     "Marathi": {
       "total": 39,
@@ -133,6 +133,11 @@
       "name": "Bansal News (720p)",
       "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD National HD (576p)",
@@ -297,7 +302,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -328,6 +333,11 @@
       "name": "Unite8 Sports 2",
       "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "VIP News (360p)",
