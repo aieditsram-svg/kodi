@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 14:24 UTC",
-  "fingerprint": "db8b296cb5a9fbb325064c53334725f0",
+  "updated_at": "2026-10-28 15:19 UTC",
+  "fingerprint": "4fdb630a43e3515bbee38b15f5385ac4",
   "total": 1425,
-  "working": 1254,
-  "in_grace_period": 46,
-  "dead": 171,
-  "hd_channels": 617,
+  "working": 1252,
+  "in_grace_period": 16,
+  "dead": 173,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 103,
       "working": 82,
-      "hd": 46
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 23,
@@ -30,7 +30,7 @@
     "English": {
       "total": 149,
       "working": 128,
-      "hd": 64
+      "hd": 65
     },
     "Gujarati": {
       "total": 27,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 472,
-      "hd": 231
+      "working": 470,
+      "hd": 238
     },
     "Kannada": {
       "total": 65,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 39,
       "working": 32,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 4,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 113,
       "working": 107,
-      "hd": 47
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 176,
       "working": 147,
-      "hd": 74
+      "hd": 75
     },
     "Telugu": {
       "total": 160,
       "working": 130,
-      "hd": 58
+      "hd": 59
     },
     "Urdu": {
       "total": 13,
@@ -410,6 +410,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood (576p)",
       "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
@@ -420,14 +425,19 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
