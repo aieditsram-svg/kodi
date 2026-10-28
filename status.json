@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 08:51 UTC",
-  "fingerprint": "b4b0a7da7cad51ac5d84ef2f7d1507d1",
+  "updated_at": "2026-10-28 09:32 UTC",
+  "fingerprint": "8c2f16b5dc66b4449b29535ef596fc43",
   "total": 1425,
-  "working": 1269,
-  "in_grace_period": 15,
-  "dead": 156,
-  "hd_channels": 636,
+  "working": 1270,
+  "in_grace_period": 18,
+  "dead": 155,
+  "hd_channels": 635,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 564,
       "working": 482,
-      "hd": 244
+      "hd": 242
     },
     "Kannada": {
       "total": 65,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 105,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Marathi": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 146,
-      "hd": 74
+      "working": 148,
+      "hd": 75
     },
     "Telugu": {
       "total": 160,
@@ -255,16 +255,6 @@
       "reason": "HTTP 401"
     },
     {
-      "name": "Sana Plus (1080p) [Not 24/7]",
-      "url": "https://galaxyott.live/hls/sanaplus.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sana Plus (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -320,6 +310,11 @@
       "reason": "HTTP 401"
     },
     {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -365,6 +360,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -383,11 +383,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -512,12 +507,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 403"
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -752,7 +747,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
