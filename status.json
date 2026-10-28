@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 07:05 UTC",
-  "fingerprint": "e8194246d868cbee45bdaf83fd6144bb",
+  "updated_at": "2026-10-28 08:01 UTC",
+  "fingerprint": "f309eb41f12e1a240762b6a9baa938e2",
   "total": 1425,
   "working": 1266,
-  "in_grace_period": 9,
+  "in_grace_period": 16,
   "dead": 159,
-  "hd_channels": 634,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 564,
-      "working": 477,
+      "working": 479,
       "hd": 240
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 176,
-      "working": 148,
-      "hd": 75
+      "working": 146,
+      "hd": 74
     },
     "Telugu": {
       "total": 160,
@@ -260,6 +260,16 @@
       "reason": "HTTP 401"
     },
     {
+      "name": "Sana Plus (1080p) [Not 24/7]",
+      "url": "https://galaxyott.live/hls/sanaplus.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sana Plus (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shekinah TV (1080p)",
       "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -377,16 +387,6 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -530,6 +530,11 @@
       "reason": "HTTP 458"
     },
     {
+      "name": "India Voice (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4INDIAVOICE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -542,7 +547,7 @@
     {
       "name": "Gyandarshan HD (576p)",
       "url": "https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Asom Live 24 (576p)",
@@ -767,11 +772,6 @@
     {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "UP NOW (720p)",
-      "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
       "reason": "TimeoutError"
     },
     {
