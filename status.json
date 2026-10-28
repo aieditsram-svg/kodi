@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-28 21:21 UTC",
-  "fingerprint": "7d8c6658d4af73f864965ffbcbb1a3cd",
+  "updated_at": "2026-10-28 22:01 UTC",
+  "fingerprint": "2110d94a4b0601c7a3fbd36bceb528ad",
   "total": 1425,
   "working": 1228,
-  "in_grace_period": 12,
+  "in_grace_period": 14,
   "dead": 197,
-  "hd_channels": 621,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 564,
       "working": 463,
-      "hd": 236
+      "hd": 235
     },
     "Kannada": {
       "total": 65,
@@ -395,13 +395,13 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -777,7 +777,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
