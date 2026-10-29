@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 21:06 UTC",
-  "fingerprint": "8609bd0aee4399a741a0d528f8ab5f86",
+  "updated_at": "2026-10-29 21:45 UTC",
+  "fingerprint": "d3448db1f84e9a4248e82f0379789128",
   "total": 1657,
-  "working": 1409,
-  "in_grace_period": 7,
-  "dead": 248,
+  "working": 1416,
+  "in_grace_period": 8,
+  "dead": 241,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -14,12 +14,12 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 78,
+      "working": 79,
       "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
-      "working": 27,
+      "working": 28,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 125,
-      "hd": 61
+      "working": 124,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 572,
+      "working": 574,
       "hd": 239
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
+      "working": 125,
       "hd": 51
     },
     "Santali": {
@@ -94,12 +94,12 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 128,
+      "working": 129,
       "hd": 58
     },
     "Urdu": {
       "total": 16,
-      "working": 14,
+      "working": 15,
       "hd": 6
     }
   },
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -402,11 +397,6 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -765,6 +755,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
@@ -1070,11 +1065,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Manoranjan Movies (576p)",
-      "url": "https://fta.ektv.in/live/47/47_0.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Unique TV (576p)",
       "url": "https://fta.ektv.in/live/688/master.m3u8",
       "reason": "HTTP 404"
@@ -1115,18 +1105,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Subhavaartha TV (576p)",
-      "url": "https://fta.ektv.in/live/301/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/332/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Manoranjan Prime (576p)",
-      "url": "https://fta.ektv.in/live/345/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1235,11 +1215,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Raftaar Media (576p)",
-      "url": "https://fta.ektv.in/live/306/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Samachar Plus 24x7 (576p)",
       "url": "https://fta.ektv.in/live/589/master.m3u8",
       "reason": "HTTP 404"
@@ -1255,18 +1230,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "4TV News (576p)",
-      "url": "https://fta.ektv.in/live/647/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "R Plus (576p)",
-      "url": "https://fta.ektv.in/live/662/master.m3u8",
       "reason": "HTTP 404"
     },
     {
