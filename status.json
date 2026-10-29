@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 11:07 UTC",
-  "fingerprint": "bed77f2091690046203b59c7e7e9b27e",
+  "updated_at": "2026-10-29 11:49 UTC",
+  "fingerprint": "3d345f237d0219eda11001c03c70ddf0",
   "total": 1657,
   "working": 1450,
-  "in_grace_period": 9,
+  "in_grace_period": 24,
   "dead": 207,
-  "hd_channels": 631,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 581,
-      "hd": 241
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -375,14 +375,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
