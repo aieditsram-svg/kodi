@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 18:46 UTC",
-  "fingerprint": "444274b92f25f99aa33741eed4083560",
+  "updated_at": "2026-10-29 19:34 UTC",
+  "fingerprint": "8e8bf989b7d2f173a334010b57649e85",
   "total": 1657,
-  "working": 1421,
-  "in_grace_period": 25,
-  "dead": 236,
-  "hd_channels": 630,
+  "working": 1422,
+  "in_grace_period": 28,
+  "dead": 235,
+  "hd_channels": 629,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 113,
       "working": 83,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 31,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 576,
+      "working": 577,
       "hd": 240
     },
     "Kannada": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -388,11 +393,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood (576p)",
@@ -748,11 +748,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
