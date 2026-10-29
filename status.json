@@ -1,85 +1,85 @@
 {
-  "updated_at": "2026-10-29 00:25 UTC",
-  "fingerprint": "1d50462cf548ee0cda1496ef69e44ac7",
-  "total": 1439,
-  "working": 1244,
-  "in_grace_period": 9,
-  "dead": 195,
+  "updated_at": "2026-10-29 01:29 UTC",
+  "fingerprint": "4b8a81db13ee2c96cd8a449c6231c423",
+  "total": 1657,
+  "working": 1441,
+  "in_grace_period": 18,
+  "dead": 216,
   "hd_channels": 621,
   "languages": {
     "Assamese": {
-      "total": 31,
-      "working": 28,
+      "total": 39,
+      "working": 34,
       "hd": 12
     },
     "Bengali": {
-      "total": 102,
-      "working": 71,
+      "total": 113,
+      "working": 82,
       "hd": 43
     },
     "Bhojpuri": {
-      "total": 23,
-      "working": 22,
+      "total": 31,
+      "working": 29,
       "hd": 13
     },
     "Chhattisgarhi": {
-      "total": 2,
-      "working": 2,
+      "total": 3,
+      "working": 3,
       "hd": 0
     },
     "English": {
-      "total": 148,
-      "working": 114,
+      "total": 165,
+      "working": 128,
       "hd": 60
     },
     "Gujarati": {
-      "total": 26,
-      "working": 26,
+      "total": 34,
+      "working": 34,
       "hd": 17
     },
     "Hindi": {
-      "total": 579,
-      "working": 479,
-      "hd": 235
+      "total": 686,
+      "working": 576,
+      "hd": 234
     },
     "Kannada": {
-      "total": 64,
-      "working": 51,
+      "total": 70,
+      "working": 57,
       "hd": 27
     },
     "Konkani": {
-      "total": 2,
-      "working": 1,
+      "total": 3,
+      "working": 2,
       "hd": 1
     },
     "Malayalam": {
-      "total": 104,
-      "working": 86,
+      "total": 113,
+      "working": 95,
       "hd": 40
     },
     "Marathi": {
-      "total": 38,
-      "working": 31,
+      "total": 46,
+      "working": 38,
       "hd": 20
     },
     "Nepali": {
-      "total": 4,
-      "working": 4,
+      "total": 5,
+      "working": 5,
       "hd": 2
     },
     "Odia": {
-      "total": 26,
-      "working": 19,
-      "hd": 9
+      "total": 31,
+      "working": 23,
+      "hd": 10
     },
     "Other": {
-      "total": 15,
-      "working": 14,
+      "total": 19,
+      "working": 16,
       "hd": 12
     },
     "Punjabi": {
-      "total": 113,
-      "working": 109,
+      "total": 132,
+      "working": 126,
       "hd": 50
     },
     "Santali": {
@@ -88,18 +88,18 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 173,
-      "working": 139,
+      "total": 181,
+      "working": 147,
       "hd": 71
     },
     "Telugu": {
-      "total": 159,
-      "working": 125,
+      "total": 171,
+      "working": 137,
       "hd": 58
     },
     "Urdu": {
-      "total": 13,
-      "working": 12,
+      "total": 16,
+      "working": 15,
       "hd": 6
     }
   },
@@ -307,7 +307,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -398,6 +398,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -767,7 +772,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -792,11 +797,6 @@
     {
       "name": "Sony BBC Earth HD (1080p)",
       "url": "http://103.185.24.134:3001/SONY-BBC/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Jalsha Movies HD (1080p)",
-      "url": "http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1067,6 +1067,111 @@
     {
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "https://fta.ektv.in/live/144/144_0.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://fta.ektv.in/live/179/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Anmol TV (576p)",
+      "url": "https://fta.ektv.in/live/256/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Anmol Cinema 2 (576p)",
+      "url": "https://fta.ektv.in/live/257/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee Action (576p)",
+      "url": "https://fta.ektv.in/live/270/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Anmol Cinema (576p)",
+      "url": "https://fta.ektv.in/live/271/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "https://fta.ektv.in/live/332/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Bhojpuri Cinema (576p)",
+      "url": "https://fta.ektv.in/live/646/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Sangeet Marathi (576p)",
+      "url": "https://fta.ektv.in/live/712/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Hi Dost! (576p)",
+      "url": "https://fta.ektv.in/live/713/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Jonack (576p)",
+      "url": "https://fta.ektv.in/live/676/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Punjabi (576p)",
+      "url": "https://fta.ektv.in/live/177/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee Bharat (576p)",
+      "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Kashish News (576p)",
+      "url": "https://fta.ektv.in/live/597/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "STV Haryana News (576p)",
+      "url": "https://fta.ektv.in/live/607/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Tripura (576p)",
+      "url": "https://fta.ektv.in/live/661/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Naxatra News (576p)",
+      "url": "https://fta.ektv.in/live/668/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Nagaland (576p)",
+      "url": "https://fta.ektv.in/live/670/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Manipur (576p)",
+      "url": "https://fta.ektv.in/live/671/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Assam (576p)",
+      "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
     },
     {
