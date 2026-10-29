@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 15:23 UTC",
-  "fingerprint": "529eb7b3ddd7af0ec7a245b22945f228",
+  "updated_at": "2026-10-29 16:19 UTC",
+  "fingerprint": "32109e0389908e6216721f0cdd4749ab",
   "total": 1657,
-  "working": 1445,
-  "in_grace_period": 43,
-  "dead": 212,
-  "hd_channels": 626,
+  "working": 1442,
+  "in_grace_period": 36,
+  "dead": 215,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 582,
-      "hd": 239
+      "working": 579,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 146,
+      "working": 145,
       "hd": 71
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
@@ -213,11 +213,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -395,8 +390,23 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1027,6 +1037,11 @@
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 403"
     },
     {
