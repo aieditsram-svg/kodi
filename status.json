@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-29 12:25 UTC",
-  "fingerprint": "a412fc51231e1da4104a0f2ed016ae49",
+  "updated_at": "2026-10-29 13:34 UTC",
+  "fingerprint": "b1afdd1ed208963f1493faa5540ea4e5",
   "total": 1657,
   "working": 1446,
-  "in_grace_period": 23,
+  "in_grace_period": 26,
   "dead": 211,
   "hd_channels": 626,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 82,
+      "working": 83,
       "hd": 44
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 686,
       "working": 580,
-      "hd": 238
+      "hd": 236
     },
     "Kannada": {
       "total": 70,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 5,
@@ -69,8 +69,8 @@
     },
     "Odia": {
       "total": 31,
-      "working": 22,
-      "hd": 9
+      "working": 23,
+      "hd": 10
     },
     "Other": {
       "total": 19,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 124,
       "hd": 50
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 138,
+      "working": 137,
       "hd": 58
     },
     "Urdu": {
@@ -218,6 +218,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -370,6 +375,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -390,8 +400,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -512,7 +522,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -542,7 +552,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -723,11 +733,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -1107,11 +1112,6 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Odia (576p)",
-      "url": "https://fta.ektv.in/live/384/master.m3u8",
       "reason": "HTTP 404"
     },
     {
