@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-10-28 23:52 UTC",
-  "fingerprint": "c3d2644f394c9537926d2d357e564c93",
-  "total": 1423,
-  "working": 1224,
-  "in_grace_period": 8,
-  "dead": 199,
-  "hd_channels": 620,
+  "updated_at": "2026-10-29 00:25 UTC",
+  "fingerprint": "1d50462cf548ee0cda1496ef69e44ac7",
+  "total": 1439,
+  "working": 1244,
+  "in_grace_period": 9,
+  "dead": 195,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
-      "total": 32,
+      "total": 31,
       "working": 28,
       "hd": 12
     },
     "Bengali": {
-      "total": 103,
+      "total": 102,
       "working": 71,
       "hd": 43
     },
@@ -28,22 +28,22 @@
       "hd": 0
     },
     "English": {
-      "total": 149,
+      "total": 148,
       "working": 114,
-      "hd": 59
+      "hd": 60
     },
     "Gujarati": {
-      "total": 27,
+      "total": 26,
       "working": 26,
       "hd": 17
     },
     "Hindi": {
-      "total": 564,
-      "working": 462,
-      "hd": 236
+      "total": 579,
+      "working": 479,
+      "hd": 235
     },
     "Kannada": {
-      "total": 65,
+      "total": 64,
       "working": 51,
       "hd": 27
     },
@@ -53,12 +53,12 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 105,
+      "total": 104,
       "working": 86,
       "hd": 40
     },
     "Marathi": {
-      "total": 39,
+      "total": 38,
       "working": 31,
       "hd": 20
     },
@@ -68,7 +68,7 @@
       "hd": 2
     },
     "Odia": {
-      "total": 27,
+      "total": 26,
       "working": 19,
       "hd": 9
     },
@@ -88,13 +88,13 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 174,
-      "working": 137,
-      "hd": 70
+      "total": 173,
+      "working": 139,
+      "hd": 71
     },
     "Telugu": {
-      "total": 160,
-      "working": 124,
+      "total": 159,
+      "working": 125,
       "hd": 58
     },
     "Urdu": {
@@ -137,6 +137,11 @@
     {
       "name": "CCV (480p)",
       "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Chardikla Time TV (1080p)",
+      "url": "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -208,11 +213,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -287,16 +287,6 @@
     {
       "name": "Sai TV",
       "url": "https://account31.livebox.co.in/saitvhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sana Plus (1080p) [Not 24/7]",
-      "url": "https://galaxyott.live/hls/sanaplus.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Sana Plus (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -410,11 +400,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
@@ -453,11 +438,6 @@
       "name": "Zee TV HD (720p) [Geo-blocked]",
       "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Bal Bharat (576p)",
-      "url": "http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -787,7 +767,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 504"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
