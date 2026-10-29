@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-29 08:36 UTC",
-  "fingerprint": "8984188a568d2d79b4349f089d20479c",
+  "updated_at": "2026-10-29 09:28 UTC",
+  "fingerprint": "57b37b95cb91678a200ea241c14ed5f3",
   "total": 1657,
-  "working": 1444,
-  "in_grace_period": 14,
-  "dead": 213,
-  "hd_channels": 625,
+  "working": 1445,
+  "in_grace_period": 12,
+  "dead": 212,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 574,
-      "hd": 235
+      "working": 576,
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 31,
-      "working": 23,
+      "working": 22,
       "hd": 9
     },
     "Other": {
@@ -127,11 +127,6 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -237,7 +232,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Joy TV (576p)",
@@ -375,14 +370,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines (576p)",
@@ -390,19 +385,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -417,6 +402,11 @@
     {
       "name": "6 TV Telugu (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H6TVTELUGU/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1122,6 +1112,11 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Odia (576p)",
+      "url": "https://fta.ektv.in/live/384/master.m3u8",
       "reason": "HTTP 404"
     },
     {
