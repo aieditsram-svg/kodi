@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 03:52 UTC",
-  "fingerprint": "b2c583072283d9c7a946d33a3b928203",
+  "updated_at": "2026-10-29 04:32 UTC",
+  "fingerprint": "be60f2691760ebeaa8d74de7372d365f",
   "total": 1657,
-  "working": 1440,
-  "in_grace_period": 15,
-  "dead": 217,
+  "working": 1437,
+  "in_grace_period": 13,
+  "dead": 220,
   "hd_channels": 620,
   "languages": {
     "Assamese": {
@@ -34,18 +34,18 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 34,
-      "hd": 17
+      "working": 33,
+      "hd": 16
     },
     "Hindi": {
       "total": 686,
-      "working": 573,
+      "working": 571,
       "hd": 233
     },
     "Kannada": {
       "total": 70,
-      "working": 56,
-      "hd": 26
+      "working": 57,
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 96,
+      "working": 95,
       "hd": 40
     },
     "Marathi": {
@@ -292,7 +292,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -397,6 +397,11 @@
     {
       "name": "Manoranjan TV (576p)",
       "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -567,6 +572,11 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -755,6 +765,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -772,7 +787,7 @@
     {
       "name": "HSTV (720p)",
       "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
-      "reason": "HTTP 504"
+      "reason": "TimeoutError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -1040,8 +1055,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Ashwaveega News 24x7 (720p)",
-      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
+      "name": "Asianet Movies (396p)",
+      "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies.smil/chunklist_b1928000.m3u8",
       "reason": "HTTP 404"
     },
     {
