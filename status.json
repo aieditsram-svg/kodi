@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-29 23:03 UTC",
-  "fingerprint": "489516483266f951f918c297d1285f49",
+  "updated_at": "2026-10-29 23:39 UTC",
+  "fingerprint": "5d61ac1dfeb1061a1b4dcc1f52bff6b4",
   "total": 1657,
-  "working": 1417,
-  "in_grace_period": 3,
-  "dead": 240,
+  "working": 1416,
+  "in_grace_period": 9,
+  "dead": 241,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 686,
-      "working": 575,
+      "working": 574,
       "hd": 238
     },
     "Kannada": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
