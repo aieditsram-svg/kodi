@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 21:35 UTC",
-  "fingerprint": "77822cfc0c861942a2aa850260ed5c4a",
+  "updated_at": "2026-10-30 22:14 UTC",
+  "fingerprint": "11aee9401636596c54a688fe6d802278",
   "total": 1655,
-  "working": 1434,
-  "in_grace_period": 12,
-  "dead": 221,
-  "hd_channels": 627,
+  "working": 1431,
+  "in_grace_period": 5,
+  "dead": 224,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 80,
+      "working": 79,
       "hd": 40
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 684,
       "working": 572,
-      "hd": 239
+      "hd": 237
     },
     "Kannada": {
       "total": 70,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 126,
+      "working": 125,
       "hd": 51
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 138,
+      "working": 137,
       "hd": 58
     },
     "Urdu": {
@@ -228,6 +228,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -420,11 +425,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -557,7 +557,7 @@
     {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Nick Jr. (576p)",
@@ -583,6 +583,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -770,11 +775,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Q TV (576p) [Geo-blocked]",
       "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
@@ -832,7 +832,7 @@
     {
       "name": "Unite8 Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Colors Bangla Cinema (576p)",
@@ -862,7 +862,7 @@
     {
       "name": "Disney International HD (576p)",
       "url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Disney Junior (576p)",
@@ -1125,8 +1125,18 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Dhoom Music (576p)",
+      "url": "https://fta.ektv.in/live/378/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhojpuri Cinema (576p)",
       "url": "https://fta.ektv.in/live/646/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "GTC Punjabi (576p)",
+      "url": "https://fta.ektv.in/live/772/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1137,6 +1147,11 @@
     {
       "name": "Hi Dost! (576p)",
       "url": "https://fta.ektv.in/live/713/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Rupasi Bangla (576p)",
+      "url": "https://fta.ektv.in/live/664/master.m3u8",
       "reason": "HTTP 404"
     },
     {
