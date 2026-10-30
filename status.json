@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 01:18 UTC",
-  "fingerprint": "05e648ca43e0876b66243dc2ca3cd512",
+  "updated_at": "2026-10-30 02:11 UTC",
+  "fingerprint": "75ece5bf15d387c377243535465a7e99",
   "total": 1655,
-  "working": 1419,
-  "in_grace_period": 6,
-  "dead": 236,
+  "working": 1420,
+  "in_grace_period": 18,
+  "dead": 235,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 146,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
@@ -377,11 +377,6 @@
     {
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
       "reason": "HTTP 403"
     },
     {
