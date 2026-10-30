@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 12:19 UTC",
-  "fingerprint": "1db447eb9a17d499eb871afd106e1328",
+  "updated_at": "2026-10-30 13:22 UTC",
+  "fingerprint": "c0aa7325dc444fc6f449da884e8f4bdf",
   "total": 1655,
-  "working": 1442,
-  "in_grace_period": 15,
-  "dead": 213,
-  "hd_channels": 633,
+  "working": 1439,
+  "in_grace_period": 13,
+  "dead": 216,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 81,
+      "working": 82,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 578,
-      "hd": 241
+      "working": 576,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 113,
-      "working": 98,
-      "hd": 42
+      "working": 97,
+      "hd": 41
     },
     "Marathi": {
       "total": 46,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
@@ -242,6 +242,11 @@
     {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest TV Keralam (720p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -560,6 +565,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
@@ -743,11 +753,6 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -1040,6 +1045,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -1058,6 +1068,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Jalwa (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "9X Tashan (576p)",
