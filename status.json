@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 06:00 UTC",
-  "fingerprint": "9eea653a82648a74a34af07caae2d2dd",
+  "updated_at": "2026-10-30 06:51 UTC",
+  "fingerprint": "7cdd92a1b1404152854e5e37f78c3409",
   "total": 1655,
-  "working": 1444,
-  "in_grace_period": 13,
-  "dead": 211,
-  "hd_channels": 635,
+  "working": 1445,
+  "in_grace_period": 41,
+  "dead": 210,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 62
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 576,
+      "working": 577,
       "hd": 241
     },
     "Kannada": {
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 72
+      "hd": 71
     },
     "Telugu": {
       "total": 171,
@@ -100,7 +100,7 @@
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 7
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -400,11 +400,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
@@ -527,7 +522,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
