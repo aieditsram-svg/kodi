@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 15:14 UTC",
-  "fingerprint": "66aba7f825e3ee3eb65a030bbd1c0320",
+  "updated_at": "2026-10-30 16:02 UTC",
+  "fingerprint": "a42cbabe3f0ddb9510c601f368122002",
   "total": 1655,
   "working": 1440,
-  "in_grace_period": 12,
+  "in_grace_period": 15,
   "dead": 215,
-  "hd_channels": 629,
+  "hd_channels": 630,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 684,
       "working": 575,
-      "hd": 240
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -410,11 +410,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -452,6 +447,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -572,11 +572,6 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1132,6 +1127,11 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
