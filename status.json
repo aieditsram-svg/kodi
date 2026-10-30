@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-30 23:21 UTC",
-  "fingerprint": "8a58bb764c0d40f27d5bbc671c165a23",
+  "updated_at": "2026-10-30 23:55 UTC",
+  "fingerprint": "6ba7a0a5b56bd8a8483788efa09efba0",
   "total": 1655,
-  "working": 1434,
+  "working": 1437,
   "in_grace_period": 1,
-  "dead": 221,
+  "dead": 218,
   "hd_channels": 626,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 574,
+      "working": 577,
       "hd": 238
     },
     "Kannada": {
@@ -410,19 +410,9 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -763,11 +753,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
