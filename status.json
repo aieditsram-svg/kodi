@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 16:02 UTC",
-  "fingerprint": "a42cbabe3f0ddb9510c601f368122002",
+  "updated_at": "2026-10-30 16:48 UTC",
+  "fingerprint": "be788e5e5aadeab34a4b654a640a0946",
   "total": 1655,
-  "working": 1440,
-  "in_grace_period": 15,
-  "dead": 215,
-  "hd_channels": 630,
+  "working": 1434,
+  "in_grace_period": 17,
+  "dead": 221,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 113,
-      "working": 82,
-      "hd": 42
+      "working": 81,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 61
+      "working": 127,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,18 +39,18 @@
     },
     "Hindi": {
       "total": 684,
-      "working": 575,
+      "working": 573,
       "hd": 241
     },
     "Kannada": {
       "total": 70,
-      "working": 56,
+      "working": 55,
       "hd": 26
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 1,
+      "hd": 0
     },
     "Malayalam": {
       "total": 113,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 138,
+      "working": 137,
       "hd": 58
     },
     "Urdu": {
@@ -225,6 +225,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -298,6 +303,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Prudent Media (1080p)",
+      "url": "https://prudentmcdn.rixcast.com/prudentm.m3u8",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -375,6 +385,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Zee Cine Classic (1080p)",
       "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
@@ -400,6 +415,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Raj News Kannada (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8",
       "reason": "HTTP 404"
@@ -415,8 +435,18 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
