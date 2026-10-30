@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-30 22:14 UTC",
-  "fingerprint": "11aee9401636596c54a688fe6d802278",
+  "updated_at": "2026-10-30 22:51 UTC",
+  "fingerprint": "0aea0139259e88701b4f5906a3311af6",
   "total": 1655,
   "working": 1431,
-  "in_grace_period": 5,
+  "in_grace_period": 7,
   "dead": 224,
-  "hd_channels": 625,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 39,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 684,
       "working": 572,
-      "hd": 237
+      "hd": 238
     },
     "Kannada": {
       "total": 70,
@@ -410,18 +410,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -557,7 +552,7 @@
     {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Nick Jr. (576p)",
@@ -832,7 +827,7 @@
     {
       "name": "Unite8 Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Colors Bangla Cinema (576p)",
@@ -862,7 +857,7 @@
     {
       "name": "Disney International HD (576p)",
       "url": "http://103.151.60.162:2122/play/a018/index.m3u8?hls",
-      "reason": "URLError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Disney Junior (576p)",
@@ -1098,6 +1093,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Jalwa (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "FashionTV (576p)",
