@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-10-30 08:35 UTC",
-  "fingerprint": "bf3dbae130ef7d31b9adab907e761e54",
+  "updated_at": "2026-10-30 09:27 UTC",
+  "fingerprint": "692b2dc50fd8ad62fd5eea46e4ae4652",
   "total": 1655,
-  "working": 1441,
-  "in_grace_period": 8,
-  "dead": 214,
-  "hd_channels": 635,
+  "working": 1443,
+  "in_grace_period": 74,
+  "dead": 212,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 39,
       "working": 32,
-      "hd": 12
+      "hd": 8
     },
     "Bengali": {
       "total": 113,
       "working": 83,
-      "hd": 43
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 31,
       "working": 29,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -30,22 +30,22 @@
     "English": {
       "total": 165,
       "working": 129,
-      "hd": 62
+      "hd": 61
     },
     "Gujarati": {
       "total": 34,
       "working": 34,
-      "hd": 18
+      "hd": 17
     },
     "Hindi": {
       "total": 684,
-      "working": 575,
-      "hd": 242
+      "working": 576,
+      "hd": 225
     },
     "Kannada": {
       "total": 70,
       "working": 56,
-      "hd": 27
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -60,17 +60,17 @@
     "Marathi": {
       "total": 46,
       "working": 38,
-      "hd": 20
+      "hd": 19
     },
     "Nepali": {
       "total": 5,
       "working": 5,
-      "hd": 2
+      "hd": 1
     },
     "Odia": {
       "total": 31,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 19,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 132,
       "working": 125,
-      "hd": 51
+      "hd": 50
     },
     "Santali": {
       "total": 1,
@@ -90,17 +90,17 @@
     "Tamil": {
       "total": 181,
       "working": 148,
-      "hd": 72
+      "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 137,
+      "working": 138,
       "hd": 58
     },
     "Urdu": {
       "total": 16,
       "working": 15,
-      "hd": 6
+      "hd": 5
     }
   },
   "dead_channels": [
@@ -218,11 +218,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -410,13 +405,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
