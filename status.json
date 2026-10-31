@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 11:28 UTC",
-  "fingerprint": "543f56ec85a1ee8667daf9c56bc563b6",
+  "updated_at": "2026-10-31 12:04 UTC",
+  "fingerprint": "ca0232b5a8712cac873d37739d4bb3e2",
   "total": 1677,
-  "working": 1452,
-  "in_grace_period": 17,
-  "dead": 225,
-  "hd_channels": 631,
+  "working": 1457,
+  "in_grace_period": 13,
+  "dead": 220,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 80,
+      "working": 81,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 587,
+      "working": 590,
       "hd": 240
     },
     "Kannada": {
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 147,
-      "hd": 71
+      "working": 148,
+      "hd": 72
     },
     "Telugu": {
       "total": 173,
@@ -263,11 +263,6 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Life TV (720p)",
-      "url": "https://lifetv.livebox.co.in/lifetvhls/lifetv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MTV HD (396p)",
@@ -455,11 +450,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -553,11 +543,6 @@
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
       "reason": "HTTP 456"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -775,11 +760,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -798,11 +778,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
