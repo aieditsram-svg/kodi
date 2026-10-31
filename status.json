@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 10:57 UTC",
-  "fingerprint": "65474e8f1bf6cfc0d1c158232e6456c7",
+  "updated_at": "2026-10-31 11:28 UTC",
+  "fingerprint": "543f56ec85a1ee8667daf9c56bc563b6",
   "total": 1677,
-  "working": 1453,
-  "in_grace_period": 13,
-  "dead": 224,
-  "hd_channels": 630,
+  "working": 1452,
+  "in_grace_period": 17,
+  "dead": 225,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
-      "hd": 239
+      "working": 587,
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -420,8 +420,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -775,6 +775,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bhagyam TV (576p) [Not 24/7]",
       "url": "https://bhagyam.iptv.pics/bhagyam/index.m3u8",
       "reason": "HTTP 404"
@@ -793,6 +798,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1053,11 +1063,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Sindh TV (720p)",
-      "url": "https://samitaorigin.tangotv.in/SINDHTV/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
