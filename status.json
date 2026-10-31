@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 21:47 UTC",
-  "fingerprint": "d9a251c63806428ccc1e3b8c4053fc6f",
+  "updated_at": "2026-10-31 22:19 UTC",
+  "fingerprint": "0a1f144594d064b1a4bd1ec7ff8af26e",
   "total": 1677,
-  "working": 1452,
-  "in_grace_period": 8,
-  "dead": 225,
+  "working": 1455,
+  "in_grace_period": 6,
+  "dead": 222,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 588,
+      "working": 589,
       "hd": 238
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 139,
+      "working": 141,
       "hd": 58
     },
     "Urdu": {
@@ -230,19 +230,9 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -430,8 +420,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Manoranjan TV (576p)",
+      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -778,11 +768,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
