@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-31 23:24 UTC",
-  "fingerprint": "31da868673ee57ab120dc655a7c0b07d",
+  "updated_at": "2026-10-31 23:57 UTC",
+  "fingerprint": "151617aa05ae62c7a7d3a9e8bb4131a3",
   "total": 1677,
   "working": 1459,
-  "in_grace_period": 12,
+  "in_grace_period": 9,
   "dead": 218,
   "hd_channels": 629,
   "languages": {
@@ -517,12 +517,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 403"
+      "reason": "HTTP 458"
     },
     {
       "name": "Nickelodeon (576p)",
