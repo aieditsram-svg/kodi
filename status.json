@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-31 16:29 UTC",
-  "fingerprint": "9272bd6d63fba710ec11ef47c8521a7c",
+  "updated_at": "2026-10-31 17:08 UTC",
+  "fingerprint": "256a0ac21b96df5df5beac7e58d086a6",
   "total": 1677,
   "working": 1455,
-  "in_grace_period": 11,
+  "in_grace_period": 13,
   "dead": 222,
   "hd_channels": 632,
   "languages": {
@@ -545,11 +545,6 @@
       "reason": "HTTP 456"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -768,6 +763,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
