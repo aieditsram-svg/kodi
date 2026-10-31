@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 18:11 UTC",
-  "fingerprint": "fd856b3b43f9c577ac475c312b9e2a1c",
+  "updated_at": "2026-10-31 18:53 UTC",
+  "fingerprint": "a6cd859a8948bb7c3e3d1187c3a23e15",
   "total": 1677,
   "working": 1460,
-  "in_grace_period": 27,
+  "in_grace_period": 24,
   "dead": 217,
-  "hd_channels": 633,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 590,
+      "working": 589,
       "hd": 239
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 99,
-      "hd": 42
+      "working": 98,
+      "hd": 41
     },
     "Marathi": {
       "total": 46,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 147,
+      "working": 148,
       "hd": 72
     },
     "Telugu": {
       "total": 173,
-      "working": 139,
+      "working": 140,
       "hd": 58
     },
     "Urdu": {
@@ -117,7 +117,7 @@
     {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Aaj Tak (1080p)",
@@ -220,11 +220,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -248,6 +243,11 @@
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "MTV HD (396p)",
@@ -302,7 +302,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -388,6 +388,11 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Movies (576p)",
@@ -548,11 +553,6 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Suriyan TV (576p)",
-      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Mahimai TV (576p)",
