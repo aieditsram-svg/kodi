@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 14:15 UTC",
-  "fingerprint": "e3543cd9c765a9a1db0e272991236174",
+  "updated_at": "2026-10-31 14:52 UTC",
+  "fingerprint": "2af09a1d63f9e7c5ae2b664356d1f0c4",
   "total": 1677,
-  "working": 1456,
-  "in_grace_period": 9,
-  "dead": 221,
-  "hd_channels": 633,
+  "working": 1457,
+  "in_grace_period": 16,
+  "dead": 220,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 589,
-      "hd": 241
+      "working": 590,
+      "hd": 242
     },
     "Kannada": {
       "total": 70,
@@ -415,11 +415,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -537,7 +532,7 @@
     {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-      "reason": "RemoteDisconnected"
+      "reason": "HTTP 403"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -547,7 +542,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Nickelodeon (576p)",
