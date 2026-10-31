@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-31 22:54 UTC",
-  "fingerprint": "6ab8412c78963ab24c4ab1b30e42068b",
+  "updated_at": "2026-10-31 23:24 UTC",
+  "fingerprint": "31da868673ee57ab120dc655a7c0b07d",
   "total": 1677,
   "working": 1459,
-  "in_grace_period": 2,
+  "in_grace_period": 12,
   "dead": 218,
   "hd_channels": 629,
   "languages": {
@@ -312,7 +312,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -517,12 +517,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "reason": "HTTP 403"
     },
     {
       "name": "Nickelodeon (576p)",
