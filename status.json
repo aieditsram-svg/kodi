@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 13:34 UTC",
-  "fingerprint": "51bbecb5e84931b14e3415efc8566c42",
+  "updated_at": "2026-10-31 14:15 UTC",
+  "fingerprint": "e3543cd9c765a9a1db0e272991236174",
   "total": 1677,
-  "working": 1457,
-  "in_grace_period": 10,
-  "dead": 220,
-  "hd_channels": 634,
+  "working": 1456,
+  "in_grace_period": 9,
+  "dead": 221,
+  "hd_channels": 633,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 699,
       "working": 589,
-      "hd": 242
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 124,
       "hd": 51
     },
     "Santali": {
@@ -400,18 +400,23 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -532,7 +537,7 @@
     {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -542,7 +547,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -778,6 +783,11 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1142,11 +1152,6 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
