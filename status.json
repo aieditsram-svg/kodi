@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 15:57 UTC",
-  "fingerprint": "f6035ce01c1d4abfeed4765860f500cf",
+  "updated_at": "2026-10-31 16:29 UTC",
+  "fingerprint": "9272bd6d63fba710ec11ef47c8521a7c",
   "total": 1677,
-  "working": 1456,
-  "in_grace_period": 8,
-  "dead": 221,
-  "hd_channels": 633,
+  "working": 1455,
+  "in_grace_period": 11,
+  "dead": 222,
+  "hd_channels": 632,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 80,
+      "working": 79,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 699,
       "working": 591,
-      "hd": 241
+      "hd": 240
     },
     "Kannada": {
       "total": 70,
@@ -430,11 +430,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -550,6 +545,11 @@
       "reason": "HTTP 456"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
@@ -578,6 +578,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
