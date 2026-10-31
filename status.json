@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-10-31 21:12 UTC",
-  "fingerprint": "fec0e3f626d7f7552ff9e2568ec178e7",
+  "updated_at": "2026-10-31 21:47 UTC",
+  "fingerprint": "d9a251c63806428ccc1e3b8c4053fc6f",
   "total": 1677,
-  "working": 1454,
-  "in_grace_period": 7,
-  "dead": 223,
+  "working": 1452,
+  "in_grace_period": 8,
+  "dead": 225,
   "hd_channels": 630,
   "languages": {
     "Assamese": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 100,
+      "working": 99,
       "hd": 42
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 139,
       "hd": 58
     },
     "Urdu": {
@@ -228,6 +228,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -373,6 +378,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
+    },
+    {
+      "name": "Vision (576p)",
+      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
