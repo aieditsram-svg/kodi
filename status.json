@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-31 17:08 UTC",
-  "fingerprint": "256a0ac21b96df5df5beac7e58d086a6",
+  "updated_at": "2026-10-31 17:39 UTC",
+  "fingerprint": "03fb0cc8ea024a9094f4c289a71c3710",
   "total": 1677,
   "working": 1455,
-  "in_grace_period": 13,
+  "in_grace_period": 9,
   "dead": 222,
-  "hd_channels": 632,
+  "hd_channels": 631,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 114,
-      "working": 79,
+      "working": 80,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 166,
-      "working": 129,
-      "hd": 61
+      "working": 128,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 699,
-      "working": 591,
-      "hd": 240
+      "working": 590,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
+      "working": 125,
       "hd": 51
     },
     "Santali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 182,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
@@ -410,18 +410,18 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -568,6 +568,11 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Mahimai TV (576p)",
@@ -765,11 +770,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -785,14 +785,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sarv Dharam Sangam (720p)",
-      "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
+      "name": "Sarv Dharam Sangam (720p)",
+      "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "StarPlus HD (1080p)",
