@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-01 17:18 UTC",
-  "fingerprint": "092ef0aace196f93514e35b5fb4958c2",
+  "updated_at": "2026-11-01 17:52 UTC",
+  "fingerprint": "dcef98f97a72402262de41f52001f2b3",
   "total": 1672,
   "working": 1457,
-  "in_grace_period": 8,
+  "in_grace_period": 9,
   "dead": 215,
   "hd_channels": 628,
   "languages": {
@@ -127,6 +127,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1057,11 +1062,6 @@
     {
       "name": "9XM (576p)",
       "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9X Jalwa (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjalwa.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
     },
     {
