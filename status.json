@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 12:13 UTC",
-  "fingerprint": "b4726ece1dd4be778b257ad71dff226c",
+  "updated_at": "2026-11-01 13:06 UTC",
+  "fingerprint": "4da1fb98b1f4e824fef168c2a32c5fc6",
   "total": 1672,
-  "working": 1456,
-  "in_grace_period": 7,
-  "dead": 216,
-  "hd_channels": 626,
+  "working": 1457,
+  "in_grace_period": 16,
+  "dead": 215,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 81,
+      "working": 80,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 165,
-      "working": 128,
-      "hd": 59
+      "working": 129,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 591,
-      "hd": 238
+      "working": 593,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -735,6 +735,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -747,11 +752,6 @@
     {
       "name": "Prarthana Bhawan TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHANABHAWAN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1008,11 +1008,6 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Colors HD (1080p)",
-      "url": "http://103.135.253.32:8080/Color-HD/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "India Talkies (360p)",
