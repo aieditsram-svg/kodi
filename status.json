@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 00:47 UTC",
-  "fingerprint": "e6d7fea71a6ae5ab9f2e2e7adc7dff1d",
+  "updated_at": "2026-11-01 01:48 UTC",
+  "fingerprint": "b07eb36565da8e62c267d09985c8a3b3",
   "total": 1672,
-  "working": 1453,
-  "in_grace_period": 9,
-  "dead": 219,
-  "hd_channels": 628,
+  "working": 1454,
+  "in_grace_period": 22,
+  "dead": 218,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -30,7 +30,7 @@
     "English": {
       "total": 165,
       "working": 128,
-      "hd": 60
+      "hd": 59
     },
     "Gujarati": {
       "total": 34,
@@ -44,7 +44,7 @@
     },
     "Kannada": {
       "total": 69,
-      "working": 56,
+      "working": 57,
       "hd": 27
     },
     "Konkani": {
@@ -70,12 +70,12 @@
     "Odia": {
       "total": 30,
       "working": 23,
-      "hd": 10
+      "hd": 9
     },
     "Other": {
       "total": 19,
       "working": 16,
-      "hd": 13
+      "hd": 12
     },
     "Punjabi": {
       "total": 132,
@@ -142,11 +142,6 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Ayush TV (360p) [Not 24/7]",
-      "url": "https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8",
       "reason": "URLError"
     },
     {
