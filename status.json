@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 11:04 UTC",
-  "fingerprint": "ca2fc1d5b9a2e13412ffc677f5670936",
+  "updated_at": "2026-11-01 11:38 UTC",
+  "fingerprint": "00850c84a346be73018588e73905912e",
   "total": 1672,
-  "working": 1461,
-  "in_grace_period": 17,
-  "dead": 211,
-  "hd_channels": 628,
+  "working": 1459,
+  "in_grace_period": 15,
+  "dead": 213,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 594,
-      "hd": 239
+      "working": 592,
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -390,6 +390,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
@@ -718,6 +723,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
