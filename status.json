@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 02:31 UTC",
-  "fingerprint": "c0b9ccd8fffd8d7427c1fc5f8c66dfe0",
+  "updated_at": "2026-11-01 03:21 UTC",
+  "fingerprint": "2121d5fa9bc6b91cf7b11626e642745e",
   "total": 1672,
-  "working": 1458,
-  "in_grace_period": 25,
-  "dead": 214,
-  "hd_channels": 627,
+  "working": 1444,
+  "in_grace_period": 17,
+  "dead": 228,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 82,
+      "working": 81,
       "hd": 42
     },
     "Bhojpuri": {
@@ -29,17 +29,17 @@
     },
     "English": {
       "total": 165,
-      "working": 129,
+      "working": 128,
       "hd": 60
     },
     "Gujarati": {
       "total": 34,
-      "working": 34,
+      "working": 33,
       "hd": 18
     },
     "Hindi": {
       "total": 696,
-      "working": 590,
+      "working": 585,
       "hd": 238
     },
     "Kannada": {
@@ -49,17 +49,17 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
+      "working": 1,
       "hd": 1
     },
     "Malayalam": {
       "total": 113,
-      "working": 97,
+      "working": 96,
       "hd": 41
     },
     "Marathi": {
       "total": 45,
-      "working": 38,
+      "working": 36,
       "hd": 20
     },
     "Nepali": {
@@ -69,12 +69,12 @@
     },
     "Odia": {
       "total": 30,
-      "working": 23,
+      "working": 22,
       "hd": 9
     },
     "Other": {
       "total": 19,
-      "working": 16,
+      "working": 15,
       "hd": 12
     },
     "Punjabi": {
@@ -89,13 +89,13 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 148,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
       "total": 170,
-      "working": 140,
-      "hd": 58
+      "working": 139,
+      "hd": 57
     },
     "Urdu": {
       "total": 17,
@@ -422,11 +422,6 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1105,8 +1100,28 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Bihar (576p)",
+      "url": "https://fta.ektv.in/live/172/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Sahyadri (576p)",
+      "url": "https://fta.ektv.in/live/187/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Bangla (576p)",
+      "url": "https://fta.ektv.in/live/197/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Arun Prabha (576p)",
+      "url": "https://fta.ektv.in/live/203/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1117,6 +1132,46 @@
     {
       "name": "Zee Bharat (576p)",
       "url": "https://fta.ektv.in/live/244/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Uttar Pradesh (576p)",
+      "url": "https://fta.ektv.in/live/263/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Goa (576p)",
+      "url": "https://fta.ektv.in/live/367/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Girnar (576p)",
+      "url": "https://fta.ektv.in/live/368/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Mizoram (576p)",
+      "url": "https://fta.ektv.in/live/381/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Odia (576p)",
+      "url": "https://fta.ektv.in/live/384/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Himachal Pradesh (576p)",
+      "url": "https://fta.ektv.in/live/575/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Madhya Pradesh (576p)",
+      "url": "https://fta.ektv.in/live/578/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1152,6 +1207,21 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Yadagiri (576p)",
+      "url": "https://fta.ektv.in/live/678/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Tamil (576p)",
+      "url": "https://fta.ektv.in/live/679/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Malayalam (576p)",
+      "url": "https://fta.ektv.in/live/680/master.m3u8",
       "reason": "HTTP 404"
     },
     {
