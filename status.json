@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01 21:28 UTC",
-  "fingerprint": "7711e138a8b4cc9e9ca5e6eccae0b179",
+  "updated_at": "2026-11-01 22:06 UTC",
+  "fingerprint": "617df9b0d94a000abe346e59d1f048df",
   "total": 1672,
-  "working": 1454,
-  "in_grace_period": 2,
-  "dead": 218,
+  "working": 1457,
+  "in_grace_period": 9,
+  "dead": 215,
   "hd_channels": 625,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 589,
+      "working": 591,
       "hd": 239
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 144,
+      "working": 145,
       "hd": 70
     },
     "Telugu": {
@@ -272,7 +272,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Peques TV (720p)",
@@ -282,11 +282,6 @@
     {
       "name": "Raj Digital Plus (1080p)",
       "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Raj TV (1080p)",
-      "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -425,11 +420,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -532,12 +522,12 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?mac=00:1A:79:99:54:11&stream=225805&extension=ts&play_token=o1cczsG9wV",
-      "reason": "HTTP 458"
+      "reason": "HTTP 403"
     },
     {
       "name": "Nickelodeon (576p)",
@@ -758,11 +748,6 @@
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Balle Balle (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
