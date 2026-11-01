@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 09:10 UTC",
-  "fingerprint": "20a4feaf862361e1a97b02bc7db831a1",
+  "updated_at": "2026-11-01 09:51 UTC",
+  "fingerprint": "103b16c08eefff5c4d8735a844757f6a",
   "total": 1672,
-  "working": 1460,
-  "in_grace_period": 11,
-  "dead": 212,
-  "hd_channels": 629,
+  "working": 1461,
+  "in_grace_period": 9,
+  "dead": 211,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 593,
-      "hd": 240
+      "working": 594,
+      "hd": 239
     },
     "Kannada": {
       "total": 69,
@@ -267,7 +267,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -388,11 +388,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Rupasi Bangla (576p)",
