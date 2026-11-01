@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-10-31 23:57 UTC",
-  "fingerprint": "151617aa05ae62c7a7d3a9e8bb4131a3",
-  "total": 1677,
-  "working": 1459,
+  "updated_at": "2026-11-01 00:47 UTC",
+  "fingerprint": "e6d7fea71a6ae5ab9f2e2e7adc7dff1d",
+  "total": 1672,
+  "working": 1453,
   "in_grace_period": 9,
-  "dead": 218,
-  "hd_channels": 629,
+  "dead": 219,
+  "hd_channels": 628,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 31,
+      "working": 30,
       "hd": 12
     },
     "Bengali": {
-      "total": 114,
-      "working": 81,
+      "total": 111,
+      "working": 80,
       "hd": 42
     },
     "Bhojpuri": {
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 166,
-      "working": 129,
-      "hd": 61
+      "total": 165,
+      "working": 128,
+      "hd": 60
     },
     "Gujarati": {
       "total": 34,
@@ -38,12 +38,12 @@
       "hd": 18
     },
     "Hindi": {
-      "total": 699,
-      "working": 592,
+      "total": 696,
+      "working": 591,
       "hd": 238
     },
     "Kannada": {
-      "total": 70,
+      "total": 69,
       "working": 56,
       "hd": 27
     },
@@ -53,12 +53,12 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 114,
+      "total": 113,
       "working": 97,
       "hd": 41
     },
     "Marathi": {
-      "total": 46,
+      "total": 45,
       "working": 38,
       "hd": 20
     },
@@ -68,7 +68,7 @@
       "hd": 2
     },
     "Odia": {
-      "total": 31,
+      "total": 30,
       "working": 23,
       "hd": 10
     },
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 125,
+      "working": 124,
       "hd": 51
     },
     "Santali": {
@@ -88,13 +88,13 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 182,
+      "total": 179,
       "working": 148,
       "hd": 72
     },
     "Telugu": {
-      "total": 173,
-      "working": 140,
+      "total": 170,
+      "working": 139,
       "hd": 58
     },
     "Urdu": {
@@ -125,6 +125,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -133,6 +138,11 @@
       "name": "Aryan TV National (576p)",
       "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Ayush TV (360p) [Not 24/7]",
@@ -225,6 +235,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -268,6 +283,11 @@
       "name": "News 24 (720p)",
       "url": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -318,6 +338,11 @@
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -455,11 +480,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Super Hungama (576p)",
-      "url": "http://103.185.24.134:3001/SUPER-HUNGAMA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Zee Bangla Sonar (576p)",
       "url": "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8",
       "reason": "URLError"
@@ -467,11 +487,6 @@
     {
       "name": "Sony Aath (576p)",
       "url": "http://103.165.93.31:8095/sonyAath/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Yay! (576p)",
-      "url": "http://103.165.93.31:8095/sonyYay/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -497,11 +512,6 @@
     {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Hungama TV (576p)",
-      "url": "http://66.102.126.10:8000/play/a023/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -547,6 +557,11 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -835,11 +850,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Jalsha Movies HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a00x/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Movies Now HD (1080p)",
       "url": "http://103.151.60.162:2122/play/a02w/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -967,11 +977,6 @@
     {
       "name": "Zee Bangla (576p)",
       "url": "http://103.151.60.162:2122/play/a011/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee Bangla HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a02p/index.m3u8?hls",
       "reason": "HTTP 403"
     },
     {
