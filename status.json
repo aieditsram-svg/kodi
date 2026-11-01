@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-01 09:51 UTC",
-  "fingerprint": "103b16c08eefff5c4d8735a844757f6a",
+  "updated_at": "2026-11-01 10:25 UTC",
+  "fingerprint": "ec66265f7be08ec9b361f2c11e727c8b",
   "total": 1672,
   "working": 1461,
-  "in_grace_period": 9,
+  "in_grace_period": 13,
   "dead": 211,
-  "hd_channels": 628,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 696,
       "working": 594,
-      "hd": 239
+      "hd": 238
     },
     "Kannada": {
       "total": 69,
@@ -267,7 +267,7 @@
     {
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -417,6 +417,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -733,11 +738,6 @@
       "name": "Sarv Dharam Sangam (720p)",
       "url": "https://live.castmaxcloud.com/live/sdsangam2.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
