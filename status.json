@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-01 13:06 UTC",
-  "fingerprint": "4da1fb98b1f4e824fef168c2a32c5fc6",
+  "updated_at": "2026-11-01 13:50 UTC",
+  "fingerprint": "d4f5aa11cb4b383174f812f9c53e55b0",
   "total": 1672,
-  "working": 1457,
-  "in_grace_period": 16,
-  "dead": 215,
+  "working": 1462,
+  "in_grace_period": 13,
+  "dead": 210,
   "hd_channels": 627,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 80,
+      "working": 82,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 696,
-      "working": 593,
+      "working": 595,
       "hd": 239
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 132,
-      "working": 124,
+      "working": 125,
       "hd": 50
     },
     "Santali": {
@@ -402,11 +402,6 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1075,18 +1070,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Dhoom Music (576p)",
-      "url": "https://fta.ektv.in/live/378/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Bhojpuri Cinema (576p)",
       "url": "https://fta.ektv.in/live/646/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "GTC Punjabi (576p)",
-      "url": "https://fta.ektv.in/live/772/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1097,11 +1082,6 @@
     {
       "name": "Hi Dost! (576p)",
       "url": "https://fta.ektv.in/live/713/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Rupasi Bangla (576p)",
-      "url": "https://fta.ektv.in/live/664/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1157,11 +1137,6 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Prarthana Bhawan TV (576p)",
-      "url": "https://fta.ektv.in/live/623/master.m3u8",
       "reason": "HTTP 404"
     },
     {
