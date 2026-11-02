@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 01:34 UTC",
-  "fingerprint": "74da2f8083d41b93e582ab5b86f2d8ad",
+  "updated_at": "2026-11-02 02:28 UTC",
+  "fingerprint": "bd32914fa5dac0746ed6da87fd24c263",
   "total": 1675,
-  "working": 1432,
-  "in_grace_period": 5,
-  "dead": 243,
+  "working": 1433,
+  "in_grace_period": 15,
+  "dead": 242,
   "hd_channels": 604,
   "languages": {
     "Assamese": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 138,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -213,11 +213,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
