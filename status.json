@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 10:42 UTC",
-  "fingerprint": "d70d201365105cfa4a023d7716962a70",
+  "updated_at": "2026-11-02 11:35 UTC",
+  "fingerprint": "b4a27a4e686c34d6edd2da67c7a202c5",
   "total": 1675,
-  "working": 1353,
-  "in_grace_period": 16,
-  "dead": 322,
+  "working": 1352,
+  "in_grace_period": 13,
+  "dead": 323,
   "hd_channels": 577,
   "languages": {
     "Assamese": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
@@ -258,6 +258,11 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
