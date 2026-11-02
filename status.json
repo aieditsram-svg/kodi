@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 02:28 UTC",
-  "fingerprint": "bd32914fa5dac0746ed6da87fd24c263",
+  "updated_at": "2026-11-02 03:22 UTC",
+  "fingerprint": "b9d1a1a8ed0d0a623fafbb550bab5b50",
   "total": 1675,
-  "working": 1433,
+  "working": 1435,
   "in_grace_period": 15,
-  "dead": 242,
+  "dead": 240,
   "hd_channels": 604,
   "languages": {
     "Assamese": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 581,
-      "hd": 229
+      "working": 582,
+      "hd": 228
     },
     "Kannada": {
       "total": 69,
@@ -89,8 +89,8 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 143,
-      "hd": 69
+      "working": 144,
+      "hd": 70
     },
     "Telugu": {
       "total": 170,
@@ -270,11 +270,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "RDX Goa (720p) [Geo-blocked]",
       "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "HTTP 401"
@@ -393,11 +388,6 @@
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood (576p)",
