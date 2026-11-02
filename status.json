@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-02 16:40 UTC",
-  "fingerprint": "229663b486d613d78553c3aceab8b799",
+  "updated_at": "2026-11-02 17:35 UTC",
+  "fingerprint": "d7b0015047f1ed1d0dd7a968bc388d67",
   "total": 1675,
-  "working": 1351,
-  "in_grace_period": 16,
-  "dead": 324,
+  "working": 1350,
+  "in_grace_period": 14,
+  "dead": 325,
   "hd_channels": 576,
   "languages": {
     "Assamese": {
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 29,
-      "hd": 13
+      "working": 28,
+      "hd": 12
     },
     "Hindi": {
       "total": 697,
-      "working": 555,
-      "hd": 221
+      "working": 554,
+      "hd": 222
     },
     "Kannada": {
       "total": 69,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 179,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
@@ -535,11 +535,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Angel TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8",
       "reason": "HTTP 403"
@@ -938,6 +933,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "News Capital Gujarat (1080p)",
+      "url": "https://newscapital.com/hls/main4/stream.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "NH BollyGold (1080p)",
@@ -1598,6 +1598,11 @@
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "9XM (576p)",
+      "url": "https://yupplivegcp2.yuppcdn.net/28072023/9xmusic_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "9X Jalwa (576p)",
