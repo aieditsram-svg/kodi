@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 09:49 UTC",
-  "fingerprint": "f57bb84ad85d52fcf487490afab6d34a",
+  "updated_at": "2026-11-02 10:42 UTC",
+  "fingerprint": "d70d201365105cfa4a023d7716962a70",
   "total": 1675,
   "working": 1353,
-  "in_grace_period": 15,
+  "in_grace_period": 16,
   "dead": 322,
-  "hd_channels": 576,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
+      "working": 76,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 553,
-      "hd": 220
+      "working": 554,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -745,11 +745,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
       "reason": "HTTP 404"
@@ -1128,6 +1123,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
