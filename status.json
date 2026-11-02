@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-02 00:20 UTC",
-  "fingerprint": "a14ec039558ace8b45fce594dbe094e5",
+  "updated_at": "2026-11-02 01:34 UTC",
+  "fingerprint": "74da2f8083d41b93e582ab5b86f2d8ad",
   "total": 1675,
-  "working": 1430,
+  "working": 1432,
   "in_grace_period": 5,
-  "dead": 245,
-  "hd_channels": 603,
+  "dead": 243,
+  "hd_channels": 604,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 33,
-      "hd": 16
+      "working": 34,
+      "hd": 17
     },
     "Hindi": {
       "total": 697,
-      "working": 579,
+      "working": 581,
       "hd": 229
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 139,
+      "working": 138,
       "hd": 57
     },
     "Urdu": {
@@ -215,6 +215,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -262,12 +267,12 @@
     {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Oli TV (1080p)",
@@ -302,7 +307,7 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 HD (720p)",
@@ -395,18 +400,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -552,11 +547,6 @@
     {
       "name": "NH BollyGold (1080p)",
       "url": "https://0dc330e6408b4c3b9ac31fd37b121368.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollygold-airtel/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
