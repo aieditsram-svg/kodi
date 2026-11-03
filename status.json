@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-03 16:14 UTC",
-  "fingerprint": "5608d08eefdc5130fa84856b11cd735e",
+  "updated_at": "2026-11-03 17:14 UTC",
+  "fingerprint": "a0f229c473b390e01da649feb1bbd7d9",
   "total": 1676,
-  "working": 1355,
-  "in_grace_period": 16,
-  "dead": 321,
-  "hd_channels": 578,
+  "working": 1354,
+  "in_grace_period": 13,
+  "dead": 322,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 26,
+      "working": 27,
       "hd": 10
     },
     "Bengali": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 552,
+      "working": 551,
       "hd": 221
     },
     "Kannada": {
@@ -49,12 +49,12 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 3,
-      "hd": 2
+      "working": 2,
+      "hd": 1
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
+      "working": 88,
       "hd": 34
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 131,
+      "working": 130,
       "hd": 55
     },
     "Urdu": {
@@ -170,9 +170,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "Bansal News (720p)",
+      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "DD National HD (576p)",
@@ -255,6 +255,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -297,7 +302,7 @@
     {
       "name": "Jonack TV (360p) [Not 24/7]",
       "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 403"
     },
     {
       "name": "Joy TV (576p)",
@@ -345,6 +350,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "HTTP 404"
@@ -363,6 +373,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "RDX Goa (720p) [Geo-blocked]",
+      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+      "reason": "HTTP 401"
     },
     {
       "name": "Sai TV",
@@ -443,11 +458,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "YRF Music (1080p)",
@@ -637,16 +647,6 @@
     {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "TimeoutError"
     },
     {
@@ -1188,6 +1188,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
