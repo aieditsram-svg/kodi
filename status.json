@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 07:55 UTC",
-  "fingerprint": "d59884ff09e788b56ca6b1e00da0bfb8",
+  "updated_at": "2026-11-03 08:49 UTC",
+  "fingerprint": "6a5f13f5defda60e621211cf97381b66",
   "total": 1676,
-  "working": 1355,
-  "in_grace_period": 15,
-  "dead": 321,
-  "hd_channels": 575,
+  "working": 1358,
+  "in_grace_period": 8,
+  "dead": 318,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 552,
-      "hd": 220
+      "working": 555,
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -635,16 +635,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -933,11 +923,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "NH BollyGold (1080p)",
