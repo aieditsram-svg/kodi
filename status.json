@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 00:15 UTC",
-  "fingerprint": "3b16a3ac839460406544d686d78dd19d",
+  "updated_at": "2026-11-03 01:25 UTC",
+  "fingerprint": "1a398c50b2245bf1701c22e32859e95f",
   "total": 1676,
   "working": 1351,
-  "in_grace_period": 6,
+  "in_grace_period": 13,
   "dead": 325,
-  "hd_channels": 572,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 77,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 551,
-      "hd": 220
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -635,8 +635,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
