@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 06:41 UTC",
-  "fingerprint": "0b1f86e940a9a28807f943c98945a33a",
+  "updated_at": "2026-11-03 07:55 UTC",
+  "fingerprint": "d59884ff09e788b56ca6b1e00da0bfb8",
   "total": 1676,
-  "working": 1352,
-  "in_grace_period": 14,
-  "dead": 324,
-  "hd_channels": 574,
+  "working": 1355,
+  "in_grace_period": 15,
+  "dead": 321,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 29,
-      "hd": 12
+      "working": 30,
+      "hd": 13
     },
     "Hindi": {
       "total": 697,
-      "working": 550,
+      "working": 552,
       "hd": 220
     },
     "Kannada": {
@@ -645,11 +645,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
@@ -938,11 +933,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "News Capital Gujarat (1080p)",
-      "url": "https://newscapital.com/hls/main4/stream.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "News Nation 81 (1080p)",
@@ -1602,11 +1592,6 @@
     {
       "name": "Ind 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
