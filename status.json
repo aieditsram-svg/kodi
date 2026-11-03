@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 03:12 UTC",
-  "fingerprint": "30ecbc65d9b5ddff0423c8afe5274260",
+  "updated_at": "2026-11-03 04:03 UTC",
+  "fingerprint": "4b06f70ef01e054391062f8a82d3756f",
   "total": 1676,
-  "working": 1344,
-  "in_grace_period": 10,
-  "dead": 332,
-  "hd_channels": 570,
+  "working": 1346,
+  "in_grace_period": 9,
+  "dead": 330,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
+      "working": 75,
       "hd": 40
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 548,
-      "hd": 219
+      "working": 547,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 45,
-      "working": 36,
+      "working": 37,
       "hd": 20
     },
     "Nepali": {
@@ -94,13 +94,13 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 128,
+      "working": 129,
       "hd": 55
     },
     "Urdu": {
       "total": 17,
-      "working": 14,
-      "hd": 5
+      "working": 16,
+      "hd": 6
     }
   },
   "dead_channels": [
@@ -158,11 +158,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -258,11 +253,6 @@
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -650,6 +640,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -752,6 +747,11 @@
     {
       "name": "Disha TV (396p)",
       "url": "https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -940,11 +940,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Munsif TV (576p)",
-      "url": "https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8",
-      "reason": "TimeoutError"
-    },
-    {
       "name": "Goldmines Action (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8",
       "reason": "HTTP 403"
@@ -1023,11 +1018,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Munsif TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/munsiftv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Win TV (576p)",
@@ -1158,6 +1148,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Music India (576p) [Geo-blocked]",
@@ -1642,11 +1637,6 @@
     {
       "name": "9XM (576p)",
       "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xmusic4.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
-      "name": "9X Jhakaas (576p)",
-      "url": "https://yupplivegcp2.yuppcdn.net/28072023/smil:9xjhakaas.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
       "reason": "not a valid HLS manifest"
     },
     {
