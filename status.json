@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-03 22:45 UTC",
-  "fingerprint": "d86a03a02c4b9fc4ee79bdb775407f76",
+  "updated_at": "2026-11-03 23:25 UTC",
+  "fingerprint": "1aa1cce0e0abea547678eb64493fc32a",
   "total": 1676,
   "working": 1354,
-  "in_grace_period": 9,
+  "in_grace_period": 14,
   "dead": 322,
-  "hd_channels": 575,
+  "hd_channels": 573,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 697,
       "working": 550,
-      "hd": 222
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -1135,6 +1135,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Balle Balle (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4BALLEBALLE/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Rang (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8",
       "reason": "HTTP 403"
@@ -1183,11 +1188,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
