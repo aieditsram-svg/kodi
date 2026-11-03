@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-03 11:29 UTC",
-  "fingerprint": "c37379d312cb1b42e7c24a7861bb055b",
+  "updated_at": "2026-11-03 12:21 UTC",
+  "fingerprint": "6ff66e875c1da17b53ed1f4046ca764d",
   "total": 1676,
   "working": 1359,
   "in_grace_period": 17,
   "dead": 317,
-  "hd_channels": 578,
+  "hd_channels": 580,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 27,
-      "hd": 8
+      "hd": 10
     },
     "Bengali": {
       "total": 111,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 554,
+      "working": 551,
       "hd": 221
     },
     "Kannada": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 89,
+      "working": 90,
       "hd": 35
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 132,
       "hd": 55
     },
     "Urdu": {
@@ -158,6 +158,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -243,11 +248,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://d1g35elx8qnif3.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264_cloud_in/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -445,11 +445,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Vision (576p)",
-      "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
@@ -635,8 +630,18 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Movies (576p)",
       "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -943,11 +948,6 @@
       "name": "ETV Telangana (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "INews (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/INews/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Vanitha TV (576p)",
