@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-03 18:00 UTC",
-  "fingerprint": "8a370ec03a8931d68c45462f6f81e4e5",
+  "updated_at": "2026-11-03 18:49 UTC",
+  "fingerprint": "08b9f5978563141cc4a560378818fc00",
   "total": 1676,
-  "working": 1348,
-  "in_grace_period": 10,
-  "dead": 328,
+  "working": 1351,
+  "in_grace_period": 15,
+  "dead": 325,
   "hd_channels": 576,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
+      "working": 76,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 697,
-      "working": 546,
+      "working": 547,
       "hd": 220
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -255,11 +255,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -342,7 +337,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -412,7 +407,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -463,11 +458,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee Cine Classic (1080p)",
@@ -660,13 +650,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {

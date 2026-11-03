@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-03 18:00 UTC
+# Working channels, one best link per channel, updated 2026-11-03 18:49 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Jonack (576p)
@@ -25,7 +25,7 @@ https://streams.tangotv.in/RANG/ORIGIN/index.m3u8
 https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" x-category="entertainment" tvg-logo="https://www.spondontv.com/wp-content/uploads/2025/10/cropped-SPONDON_Blue-Violet_1-copy-300x100.png" tvg-language="Assamese" group-title="Assamese" height="720",Spondon (576p)
 https://mumt05.tangotv.in/87NeALx2SPONDON/index.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Aakaash Aath (576p)
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Aakaash Aath (576p)
 http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
@@ -103,6 +103,8 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 https://stream.ottlive.co.in/ubangla/index.m3u8
 #EXTINF:-1 tvg-id="ZBBhakti.in@HD" x-category="religious" tvg-logo="https://i.imgur.com/MBaKNPC.jpeg" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Bhakti (720p)
 https://server.zillarbarta.com/zbbhakti/index.m3u8
+#EXTINF:-1 tvg-id="ZBCartoon.in@HD" x-category="kids" tvg-logo="https://i.imgur.com/BbFNpMr.jpeg" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Cartoon (1080p)
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in@HD" x-category="classic" tvg-logo="https://i.imgur.com/kUg6WSk.jpeg" tvg-language="Bengali" group-title="Bengali" height="1080",ZB Cinema (1080p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-id="ZBMusic.in@HD" x-category="music" tvg-logo="https://i.imgur.com/k1nb8u1.jpeg" tvg-language="Bengali" group-title="Bengali" height="720",ZB Music (720p)
@@ -395,7 +397,7 @@ https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-id="BansalNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142702_ld_h9_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Bansal News (576p)
 https://mumt07.tangotv.in/zHjX9OFlBANSALNEWS/index.m3u8
-#EXTINF:-1 tvg-id="BhaktiDhara.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png" tvg-language="Hindi" group-title="Hindi" height="720",Bhakti Dhara (720p)
+#EXTINF:-1 tvg-id="BhaktiDhara.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/channels/Bhakti_dhara1.png" tvg-language="Hindi" group-title="Hindi" height="1080",Bhakti Dhara (720p)
 https://newsliveindia.com:4433/bhaktidhara/index.m3u8
 #EXTINF:-1 tvg-id="BhaktiSagar.in@SD" x-category="religious" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Bhaktisagar.png" tvg-language="Hindi" group-title="Hindi" height="720",Bhakti Sagar (576p)
 https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
@@ -1508,6 +1510,8 @@ https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVNews.in@HD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_News.png" tvg-language="Telugu" group-title="Telugu" height="1080",ETV News (1080p)
 https://cc-3448kp65yhc5w.akamaized.net/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+#EXTINF:-1 tvg-id="ETVPlus.in@SD" x-category="entertainment" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png" tvg-language="Telugu" group-title="Telugu" height="396",ETV Plus (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="GospelTVIndia.in@SD" x-category="religious" tvg-logo="https://i.ibb.co/xhbZvzt/cropped-final-logo-300x127.png" tvg-language="Telugu" group-title="Telugu" height="720",Gospel TV India (576p)
 https://server.livelegitpro.in:9899/gospeltv/index.m3u8
 #EXTINF:-1 tvg-id="HinduDharmam.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143131_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",Hindu Dharmam (576p)
