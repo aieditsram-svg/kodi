@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 13:42 UTC",
-  "fingerprint": "ba711b38417d662a3291cd5b301e5c0c",
+  "updated_at": "2026-11-04 14:41 UTC",
+  "fingerprint": "00fe4da0072bf63ea19a6248a911423f",
   "total": 1675,
-  "working": 1345,
-  "in_grace_period": 17,
-  "dead": 330,
-  "hd_channels": 573,
+  "working": 1347,
+  "in_grace_period": 11,
+  "dead": 328,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 74,
-      "hd": 39
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 551,
-      "hd": 220
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 34
+      "working": 88,
+      "hd": 35
     },
     "Marathi": {
       "total": 45,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 138,
-      "hd": 69
+      "working": 139,
+      "hd": 70
     },
     "Telugu": {
       "total": 170,
-      "working": 125,
+      "working": 126,
       "hd": 55
     },
     "Urdu": {
@@ -158,11 +158,6 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -255,11 +250,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -347,7 +337,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -417,7 +407,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -503,6 +493,11 @@
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat24 (576p)",
+      "url": "https://streams.tangotv.in/BHARAT24/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "APN (576p)",
@@ -652,6 +647,11 @@
     {
       "name": "Nagaland TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -842,7 +842,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
@@ -1130,11 +1130,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1188,6 +1183,11 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat24 (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
@@ -1437,16 +1437,6 @@
     {
       "name": "Sony Sports Ten 5 (576p)",
       "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sun TV HD (1080p)",
-      "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
     },
     {
