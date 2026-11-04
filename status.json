@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-04 01:00 UTC",
-  "fingerprint": "604f0e25e2d574d66c9ab8955f9f1bae",
+  "updated_at": "2026-11-04 01:57 UTC",
+  "fingerprint": "6d38a4a1d07d11089e9bfc7eac63f111",
   "total": 1675,
   "working": 1355,
-  "in_grace_period": 9,
+  "in_grace_period": 14,
   "dead": 320,
-  "hd_channels": 572,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 27,
-      "hd": 10
+      "hd": 8
     },
     "Bengali": {
       "total": 111,
-      "working": 73,
+      "working": 74,
       "hd": 39
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 553,
+      "working": 552,
       "hd": 219
     },
     "Kannada": {
@@ -353,11 +353,6 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "R Plus (768p)",
-      "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "RDX Goa (720p) [Geo-blocked]",
@@ -1183,6 +1178,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
