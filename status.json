@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-04 15:34 UTC",
-  "fingerprint": "16349e5f63daf3ed32993d9688436038",
+  "updated_at": "2026-11-04 16:30 UTC",
+  "fingerprint": "ce76ae32bcf0fe92ddff4832f17762e1",
   "total": 1675,
-  "working": 1347,
-  "in_grace_period": 24,
-  "dead": 328,
-  "hd_channels": 575,
+  "working": 1346,
+  "in_grace_period": 36,
+  "dead": 329,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 26,
+      "working": 28,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
       "working": 74,
-      "hd": 39
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 551,
+      "working": 548,
       "hd": 220
     },
     "Kannada": {
@@ -180,11 +180,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "DY 365 (360p)",
-      "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "E-Vidya 4 (576p)",
       "url": "http://103.72.101.252:8080/live/406.m3u8",
       "reason": "URLError"
@@ -290,11 +285,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Jonack TV (360p) [Not 24/7]",
-      "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
@@ -337,7 +327,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -352,12 +342,12 @@
     {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Pasand TV (576p)",
@@ -402,12 +392,12 @@
     {
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -488,6 +478,11 @@
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat24 (576p)",
@@ -657,6 +652,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1138,6 +1138,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVB4UKADAK/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
