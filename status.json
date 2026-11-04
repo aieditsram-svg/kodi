@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 21:08 UTC",
-  "fingerprint": "ccda5d54263b6b4920f5d2a9ca05a96f",
+  "updated_at": "2026-11-04 21:52 UTC",
+  "fingerprint": "ec7d1b0c9ab52e2b538acae4e7ae4a23",
   "total": 1675,
-  "working": 1320,
-  "in_grace_period": 6,
-  "dead": 355,
-  "hd_channels": 568,
+  "working": 1325,
+  "in_grace_period": 1,
+  "dead": 350,
+  "hd_channels": 567,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 73,
+      "working": 74,
       "hd": 40
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 118,
-      "hd": 54
+      "working": 117,
+      "hd": 53
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 542,
-      "hd": 217
+      "working": 545,
+      "hd": 216
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 121,
+      "working": 122,
       "hd": 55
     },
     "Urdu": {
@@ -255,11 +255,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -278,11 +273,6 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Gangaur TV (1080p)",
-      "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Goldmines Bollywood (576p)",
@@ -670,29 +660,14 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Music (576p)",
       "url": "https://tvsen3.aynaott.com/8m7Vmh3K/index.m3u8",
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1150,11 +1125,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1222,6 +1192,11 @@
     {
       "name": "Bharat24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
