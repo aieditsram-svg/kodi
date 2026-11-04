@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-04 19:22 UTC",
-  "fingerprint": "666ae6f16326dd8d677ec3f01ee691b3",
+  "updated_at": "2026-11-04 20:15 UTC",
+  "fingerprint": "218a9a8e0867abb4c23d87b54f3f36ec",
   "total": 1675,
-  "working": 1327,
-  "in_grace_period": 14,
-  "dead": 348,
+  "working": 1329,
+  "in_grace_period": 13,
+  "dead": 346,
   "hd_channels": 571,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 544,
+      "working": 545,
       "hd": 217
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 116,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -650,11 +650,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Kadak (576p)",
       "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
@@ -1203,11 +1198,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
