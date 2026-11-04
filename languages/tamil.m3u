@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Tamil channels, updated 2026-11-04 10:48 UTC
+# Working Tamil channels, updated 2026-11-04 11:40 UTC
 #EXTINF:-1 tvg-id="7SMusic.in@SD" x-category="music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-language="Tamil" group-title="Tamil" height="576",7S Music (576p)
 https://cdn.pishow.tv/ott/live/1257/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in@SD" x-category="music" tvg-logo="https://i.imgur.com/zDiIhdN.png" tvg-language="Tamil" group-title="Tamil" height="720",7S Music (576p)
@@ -209,7 +209,7 @@ https://cdn.pishow.tv/ott/live/1235/master.m3u8
 https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
 #EXTINF:-1 tvg-id="SairamTV.in@SD" x-category="religious" tvg-language="Tamil" group-title="Tamil" height="576",Sairam TV
 https://cdn.pishow.tv/ott/live/1611/master.m3u8
-#EXTINF:-1 tvg-id="SairamTV.in@SD" x-category="religious" tvg-language="Tamil" group-title="Tamil" height="576",Sairam TV (576p)
+#EXTINF:-1 tvg-id="SairamTV.in@SD" x-category="religious" tvg-language="Tamil" group-title="Tamil" height="720",Sairam TV (576p)
 https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in@SD" x-category="music" tvg-logo="https://i.imgur.com/N6tKUZv.png" tvg-language="Tamil" group-title="Tamil" height="1080",Sana Plus (1080p)
 https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8

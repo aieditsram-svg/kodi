@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 10:48 UTC",
-  "fingerprint": "fecbf23f98dca31835a714d74768fa31",
+  "updated_at": "2026-11-04 11:40 UTC",
+  "fingerprint": "c91df74743c1299a0947afcf35de0b68",
   "total": 1675,
-  "working": 1330,
-  "in_grace_period": 68,
-  "dead": 345,
-  "hd_channels": 548,
+  "working": 1346,
+  "in_grace_period": 60,
+  "dead": 329,
+  "hd_channels": 549,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 74,
+      "working": 75,
       "hd": 40
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 120,
+      "working": 121,
       "hd": 55
     },
     "Gujarati": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 548,
+      "working": 550,
       "hd": 215
     },
     "Kannada": {
       "total": 69,
-      "working": 51,
+      "working": 52,
       "hd": 21
     },
     "Konkani": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 82,
+      "working": 87,
       "hd": 30
     },
     "Marathi": {
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 30,
-      "working": 20,
+      "working": 21,
       "hd": 9
     },
     "Other": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 117,
+      "working": 118,
       "hd": 49
     },
     "Santali": {
@@ -90,11 +90,11 @@
     "Tamil": {
       "total": 178,
       "working": 138,
-      "hd": 62
+      "hd": 63
     },
     "Telugu": {
       "total": 170,
-      "working": 122,
+      "working": 126,
       "hd": 52
     },
     "Urdu": {
@@ -645,8 +645,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -668,11 +668,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
@@ -1200,11 +1195,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "StarPlus HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Plus/index.m3u8",
       "reason": "URLError"
@@ -1555,6 +1545,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "DD Sports (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "NDTV India (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVINDIA/index.m3u8",
       "reason": "HTTP 403"
@@ -1640,33 +1635,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Chardikla Time TV (576p)",
-      "url": "https://fta.ektv.in/live/645/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Pear TV (576p)",
       "url": "https://fta.ektv.in/live/695/master.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Asianet Middle East (576p)",
-      "url": "https://fta.ektv.in/live/697/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Amrita TV (576p)",
-      "url": "https://fta.ektv.in/live/698/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "CVR English (576p)",
       "url": "https://fta.ektv.in/live/701/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Goodness TV (576p)",
-      "url": "https://fta.ektv.in/live/704/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1695,11 +1670,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Enterr 10 Bangla (576p)",
-      "url": "https://fta.ektv.in/live/658/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Jonack (576p)",
       "url": "https://fta.ektv.in/live/676/master.m3u8",
       "reason": "HTTP 404"
@@ -1707,11 +1677,6 @@
     {
       "name": "Mahaa Max (576p)",
       "url": "https://fta.ektv.in/live/684/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "NDTV (576p)",
-      "url": "https://fta.ektv.in/live/107/107_0.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1730,11 +1695,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Samachar Plus 24x7 (576p)",
-      "url": "https://fta.ektv.in/live/589/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
@@ -1742,11 +1702,6 @@
     {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "MBC TV (576p)",
-      "url": "https://fta.ektv.in/live/667/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1770,48 +1725,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "10 TV (576p)",
-      "url": "https://fta.ektv.in/live/686/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ABN Andhra Jyoti (576p)",
-      "url": "https://fta.ektv.in/live/687/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mahaa News (576p)",
       "url": "https://fta.ektv.in/live/689/master.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Jaihind TV (576p)",
-      "url": "https://fta.ektv.in/live/700/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Asianet Suvarna News (576p)",
-      "url": "https://fta.ektv.in/live/692/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "T News (576p)",
-      "url": "https://fta.ektv.in/live/693/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "V6 News (576p)",
-      "url": "https://fta.ektv.in/live/694/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hornbill TV (576p)",
       "url": "https://fta.ektv.in/live/710/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Safari TV (576p)",
-      "url": "https://fta.ektv.in/live/410/master.m3u8",
       "reason": "HTTP 404"
     },
     {
