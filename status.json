@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-04 18:16 UTC",
-  "fingerprint": "7b7f0dcaf67c11d3343e1ec69102cc53",
+  "updated_at": "2026-11-04 19:22 UTC",
+  "fingerprint": "666ae6f16326dd8d677ec3f01ee691b3",
   "total": 1675,
-  "working": 1326,
-  "in_grace_period": 10,
-  "dead": 349,
-  "hd_channels": 574,
+  "working": 1327,
+  "in_grace_period": 14,
+  "dead": 348,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 28,
+      "working": 27,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
-      "hd": 42
+      "working": 76,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -30,7 +30,7 @@
     "English": {
       "total": 164,
       "working": 120,
-      "hd": 56
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 543,
-      "hd": 218
+      "working": 544,
+      "hd": 217
     },
     "Kannada": {
       "total": 69,
@@ -168,6 +168,11 @@
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -337,7 +342,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -407,7 +412,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1120,16 +1125,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Music India (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/Ydvf4ppw/index.m3u8",
       "reason": "TimeoutError"
@@ -1497,7 +1492,7 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "ET Now Swadesh (1080p) [Geo-blocked]",
