@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-04 22:36 UTC",
-  "fingerprint": "b5d181359b41395486df691750af138d",
+  "updated_at": "2026-11-04 23:23 UTC",
+  "fingerprint": "93d68e5f9ef7206630068ebd7ddea15c",
   "total": 1675,
-  "working": 1327,
-  "in_grace_period": 5,
-  "dead": 348,
-  "hd_channels": 569,
+  "working": 1332,
+  "in_grace_period": 10,
+  "dead": 343,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 27,
+      "working": 28,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 74,
-      "hd": 40
+      "working": 76,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 117,
-      "hd": 53
+      "working": 118,
+      "hd": 54
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 545,
-      "hd": 216
+      "working": 546,
+      "hd": 217
     },
     "Kannada": {
       "total": 69,
@@ -146,11 +146,6 @@
     },
     {
       "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -165,19 +160,9 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Bansal News (720p)",
@@ -347,7 +332,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -417,17 +402,12 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Studio Yuva (576p)",
@@ -842,7 +822,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "Sandesh News (576p)",
@@ -1538,11 +1518,6 @@
       "name": "Sai TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Shaheedan Shahib (576p)",
