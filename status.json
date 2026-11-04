@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-11-04 05:29 UTC",
-  "fingerprint": "01da94df6dfa4fb156af1f1f80cd7065",
+  "updated_at": "2026-11-04 06:29 UTC",
+  "fingerprint": "23f89894873ecba08f70fc52c6d9ee50",
   "total": 1675,
-  "working": 1356,
-  "in_grace_period": 19,
-  "dead": 319,
-  "hd_channels": 574,
+  "working": 1354,
+  "in_grace_period": 14,
+  "dead": 321,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
       "working": 27,
-      "hd": 8
+      "hd": 10
     },
     "Bengali": {
       "total": 111,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 552,
-      "hd": 220
+      "working": 550,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -1430,6 +1430,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bhakti Dhara (720p)",
+      "url": "https://newsliveindia.com:4433/bhaktidhara/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -1443,6 +1448,11 @@
       "name": "Nanaksar Live (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "ATN Samachar (1080p)",
+      "url": "https://newsliveindia.com:4433/atn/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Zee Tamil (576p) [Geo-blocked]",
