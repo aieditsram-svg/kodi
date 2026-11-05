@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 08:00 UTC",
-  "fingerprint": "3e150ea92b52026094f696faac511268",
+  "updated_at": "2026-11-05 08:57 UTC",
+  "fingerprint": "9bc6816fec121032aacc187962fee729",
   "total": 1675,
-  "working": 1355,
-  "in_grace_period": 12,
-  "dead": 320,
-  "hd_channels": 575,
+  "working": 1354,
+  "in_grace_period": 15,
+  "dead": 321,
+  "hd_channels": 574,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 77,
+      "working": 76,
       "hd": 42
     },
     "Bhojpuri": {
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 170,
       "working": 131,
-      "hd": 55
+      "hd": 54
     },
     "Urdu": {
       "total": 17,
@@ -615,6 +615,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -967,7 +972,7 @@
     {
       "name": "News Capital Market (1080p)",
       "url": "https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987",
-      "reason": "TimeoutError"
+      "reason": "HTTP 502"
     },
     {
       "name": "News Daily 24 (576p)",
@@ -1115,11 +1120,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1193,6 +1193,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
@@ -1412,7 +1417,7 @@
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 3 (576p)",

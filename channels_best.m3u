@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-05 08:00 UTC
+# Working channels, one best link per channel, updated 2026-11-05 08:57 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="Jonack.in@SD" x-category="general" tvg-logo="https://dtil.tmsimg.com/assets/s143238_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Jonack (576p)
@@ -562,8 +562,8 @@ https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8
 https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
 #EXTINF:-1 tvg-id="HSTV.in@SD" tvg-logo="https://ibb.co/Ng5nkX6F" tvg-language="Hindi" group-title="Hindi" height="720",HSTV (720p)
 https://live.castmaxcloud.com/live/hstv.m3u8
-#EXTINF:-1 tvg-id="IBC24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",IBC 24 (576p)
-https://ott-prasar.ibc24.in/livestream.m3u8
+#EXTINF:-1 tvg-id="IBC24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",IBC 24 (576p)
+https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
 #EXTINF:-1 tvg-id="Ind24.in@SD" x-category="news" tvg-logo="https://i.imgur.com/exRpVmL.png" tvg-language="Hindi" group-title="Hindi" height="720",Ind 24 (720p)
 https://livestream.jswk.online/ind24/live/index.m3u8
 #EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" tvg-language="Hindi" group-title="Hindi" height="1080",India Daily Live (1080p)
@@ -1496,8 +1496,9 @@ https://samitaorigin.tangotv.in/CHHAYACHITRAMTELUGU/SAMITAORIGIN/index.m3u8
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
 #EXTINF:-1 tvg-id="CVRNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/UVLWX8B.png" tvg-language="Telugu" group-title="Telugu" height="1080",CVR News (576p)
 https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8
-#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/77RIaqe.png" tvg-language="Telugu" group-title="Telugu" height="1080",CVR OM Spiritual (576p)
-https://mumbai-edge.smartplaytv.in/CVROM/index.m3u8
+#EXTINF:-1 tvg-id="CVROMSpiritual.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/77RIaqe.png" tvg-language="Telugu" group-title="Telugu" height="576",CVR OM Spiritual (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/705/master.m3u8
 #EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SAPTAGIRI/images/LOGO_HD/image.png" tvg-language="Telugu" group-title="Telugu" height="504",DD Saptagiri (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Telugu" group-title="Telugu" height="1080",DD Sports (720p)
