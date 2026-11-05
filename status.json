@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 05:42 UTC",
-  "fingerprint": "53b6bf71add8dd6a9b251a5757232bdf",
+  "updated_at": "2026-11-05 06:45 UTC",
+  "fingerprint": "14600272a1e40f93986caf7335e5252b",
   "total": 1675,
-  "working": 1353,
-  "in_grace_period": 9,
-  "dead": 322,
+  "working": 1354,
+  "in_grace_period": 17,
+  "dead": 321,
   "hd_channels": 572,
   "languages": {
     "Assamese": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 86,
+      "working": 87,
       "hd": 33
     },
     "Marathi": {
@@ -763,11 +763,6 @@
       "name": "Kairali We (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kalinga TV (576p)",
