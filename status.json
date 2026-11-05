@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 21:54 UTC",
-  "fingerprint": "b17caad4a9df2e00a94ecb010b32885c",
+  "updated_at": "2026-11-05 22:39 UTC",
+  "fingerprint": "c712abc8b0c222897c4376682bce4f4b",
   "total": 1675,
   "working": 1359,
-  "in_grace_period": 3,
+  "in_grace_period": 7,
   "dead": 316,
-  "hd_channels": 573,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
+      "working": 76,
       "hd": 40
     },
     "Bhojpuri": {
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 31,
-      "hd": 14
+      "working": 30,
+      "hd": 13
     },
     "Hindi": {
       "total": 695,
       "working": 555,
-      "hd": 221
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -800,11 +800,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -1068,6 +1063,11 @@
       "name": "Pogo (576p)",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
