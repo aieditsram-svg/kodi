@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-05 06:45 UTC",
-  "fingerprint": "14600272a1e40f93986caf7335e5252b",
+  "updated_at": "2026-11-05 08:00 UTC",
+  "fingerprint": "3e150ea92b52026094f696faac511268",
   "total": 1675,
-  "working": 1354,
-  "in_grace_period": 17,
-  "dead": 321,
-  "hd_channels": 572,
+  "working": 1355,
+  "in_grace_period": 12,
+  "dead": 320,
+  "hd_channels": 575,
   "languages": {
     "Assamese": {
       "total": 38,
-      "working": 29,
+      "working": 27,
       "hd": 10
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
+      "working": 77,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 547,
-      "hd": 217
+      "working": 548,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 114,
-      "working": 87,
-      "hd": 33
+      "working": 88,
+      "hd": 34
     },
     "Marathi": {
       "total": 45,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 178,
-      "working": 139,
+      "working": 138,
       "hd": 69
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -233,6 +233,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -415,6 +420,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DY 365 (360p)",
+      "url": "https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "E-Vidya 4 (576p)",
       "url": "http://103.72.101.252:8080/live/406.m3u8",
       "reason": "URLError"
@@ -528,11 +538,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -735,6 +740,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Jonack TV (360p) [Not 24/7]",
+      "url": "https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Joy TV (576p)",
       "url": "https://joy.inet.moe/live/joytv/index.m3u8",
       "reason": "URLError"
@@ -910,11 +920,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1083,11 +1088,6 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pravasi Channel (1080p)",
-      "url": "https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Prime9 News (576p)",
@@ -1390,11 +1390,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Kiran (576p)",
       "url": "http://103.151.60.162:2122/play/a032/index.m3u8?hls",
       "reason": "HTTP 403"
@@ -1417,7 +1412,7 @@
     {
       "name": "Star Sports 2 Hindi (720p)",
       "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 3 (576p)",
@@ -1595,6 +1590,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Velicham TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
@@ -1693,11 +1693,6 @@
       "name": "Zee TV (576p)",
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee TV HD (720p) [Geo-blocked]",
-      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
