@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 22:39 UTC",
-  "fingerprint": "c712abc8b0c222897c4376682bce4f4b",
+  "updated_at": "2026-11-05 23:25 UTC",
+  "fingerprint": "267c08e26f16bc6edecc53ad99422011",
   "total": 1675,
-  "working": 1359,
-  "in_grace_period": 7,
-  "dead": 316,
+  "working": 1360,
+  "in_grace_period": 8,
+  "dead": 315,
   "hd_channels": 570,
   "languages": {
     "Assamese": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 164,
       "working": 122,
-      "hd": 55
+      "hd": 54
     },
     "Gujarati": {
       "total": 34,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 555,
-      "hd": 219
+      "working": 556,
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -173,11 +173,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
