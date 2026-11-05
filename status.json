@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 00:58 UTC",
-  "fingerprint": "7f71bdacdf39022ceceb2387ecbbf303",
+  "updated_at": "2026-11-05 02:04 UTC",
+  "fingerprint": "fea45c322a2b17b011f582e62dfc3257",
   "total": 1675,
   "working": 1325,
-  "in_grace_period": 10,
+  "in_grace_period": 9,
   "dead": 350,
-  "hd_channels": 567,
+  "hd_channels": 568,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 118,
-      "hd": 54
+      "working": 119,
+      "hd": 55
     },
     "Gujarati": {
       "total": 34,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 543,
-      "hd": 215
+      "hd": 216
     },
     "Kannada": {
       "total": 69,
@@ -158,6 +158,11 @@
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet Middle East (576p)",
@@ -1192,11 +1197,6 @@
     {
       "name": "Bharat24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVBHARAT24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
