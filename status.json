@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-05 02:56 UTC",
-  "fingerprint": "3e9ac88270a126aa2a4afc5a15ce43a6",
+  "updated_at": "2026-11-05 03:48 UTC",
+  "fingerprint": "47134a4b52a412caba8ee533edfc1d62",
   "total": 1675,
-  "working": 1324,
-  "in_grace_period": 9,
-  "dead": 351,
+  "working": 1321,
+  "in_grace_period": 13,
+  "dead": 354,
   "hd_channels": 569,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 543,
+      "working": 540,
       "hd": 216
     },
     "Kannada": {
@@ -262,6 +262,11 @@
     {
       "name": "B4U Kadak (576p)",
       "url": "https://streams.tangotv.in/B4UKADAK/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -653,6 +658,11 @@
       "name": "Food Food (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -1243,6 +1253,11 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
