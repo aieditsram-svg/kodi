@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-04 23:23 UTC",
-  "fingerprint": "93d68e5f9ef7206630068ebd7ddea15c",
+  "updated_at": "2026-11-05 00:00 UTC",
+  "fingerprint": "b488440175e29eb5e344d45e4713ee8e",
   "total": 1675,
-  "working": 1332,
-  "in_grace_period": 10,
-  "dead": 343,
-  "hd_channels": 572,
+  "working": 1329,
+  "in_grace_period": 9,
+  "dead": 346,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 76,
-      "hd": 41
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 546,
-      "hd": 217
+      "working": 544,
+      "hd": 215
     },
     "Kannada": {
       "total": 69,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 122,
+      "working": 121,
       "hd": 55
     },
     "Urdu": {
@@ -245,6 +245,11 @@
       "reason": "URLError"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -332,7 +337,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (576p)",
@@ -402,7 +407,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -742,6 +747,11 @@
     {
       "name": "StarPlus HD (1080p) [Geo-blocked]",
       "url": "http://41.205.93.154/STAR-PLUS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1193,6 +1203,11 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "StarPlus HD (1080p)",
