@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 14:46 UTC",
-  "fingerprint": "1b03595e1f4e8d7d0be184cd8b34097b",
+  "updated_at": "2026-11-06 15:31 UTC",
+  "fingerprint": "a8b3d2943ba0eb393d4da4282a54660d",
   "total": 1675,
-  "working": 1355,
-  "in_grace_period": 19,
-  "dead": 320,
-  "hd_channels": 574,
+  "working": 1351,
+  "in_grace_period": 16,
+  "dead": 324,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 75,
-      "hd": 41
+      "working": 72,
+      "hd": 39
     },
     "Bhojpuri": {
       "total": 32,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 549,
+      "working": 547,
       "hd": 219
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 170,
-      "working": 130,
+      "working": 131,
       "hd": 55
     },
     "Urdu": {
@@ -140,11 +140,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "&TV (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "&TV International (1080p)",
       "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
       "reason": "not a valid HLS manifest"
@@ -168,6 +163,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Akhon Kolkata (478p)",
+      "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -202,11 +202,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -262,7 +257,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -510,11 +505,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -590,6 +580,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Friends TV (1080p)",
+      "url": "https://server.playontv.in/friendstv/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Goldmines (576p)",
       "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
       "reason": "HTTP 404"
@@ -613,6 +608,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -822,7 +822,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Makkal TV (576p)",
@@ -895,6 +895,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Nation News (720p)",
+      "url": "https://server.playontv.in/nationnews/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Naxatra News (576p)",
       "url": "https://fta.ektv.in/live/668/master.m3u8",
       "reason": "HTTP 404"
@@ -913,6 +918,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1 India (576p)",
@@ -1118,6 +1128,11 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raatdin Bangla (720p)",
+      "url": "https://server.playontv.in/raatdinbangla/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Raj Musix Kannada (576p)",
@@ -1478,6 +1493,11 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Swastik TV (720p)",
+      "url": "https://server.playontv.in/swastiktv/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "T News (576p)",
