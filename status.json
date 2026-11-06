@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-06 12:42 UTC",
-  "fingerprint": "720bc6e2cd0c57137118727dd5c84524",
+  "updated_at": "2026-11-06 13:55 UTC",
+  "fingerprint": "4c2811642d4c874babc4f9872b3f92bf",
   "total": 1675,
   "working": 1359,
-  "in_grace_period": 16,
+  "in_grace_period": 22,
   "dead": 316,
   "hd_channels": 575,
   "languages": {
@@ -270,6 +270,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -338,11 +343,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -937,7 +937,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News 24 (576p)",
@@ -1377,7 +1377,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
