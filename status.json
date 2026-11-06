@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 00:05 UTC",
-  "fingerprint": "ac46a0b768169c978966c5ea00fc209e",
+  "updated_at": "2026-11-06 01:08 UTC",
+  "fingerprint": "9ab0ed1ceb53fef566b9aedd56e3340a",
   "total": 1675,
-  "working": 1357,
-  "in_grace_period": 4,
-  "dead": 318,
-  "hd_channels": 569,
+  "working": 1355,
+  "in_grace_period": 12,
+  "dead": 320,
+  "hd_channels": 570,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
+      "working": 121,
       "hd": 54
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 553,
-      "hd": 219
+      "hd": 220
     },
     "Kannada": {
       "total": 69,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 133,
-      "working": 118,
+      "working": 117,
       "hd": 49
     },
     "Santali": {
@@ -647,6 +647,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1602,6 +1607,11 @@
     {
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
       "reason": "HTTP 404"
     },
     {
