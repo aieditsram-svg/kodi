@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-05 23:25 UTC",
-  "fingerprint": "267c08e26f16bc6edecc53ad99422011",
+  "updated_at": "2026-11-06 00:05 UTC",
+  "fingerprint": "ac46a0b768169c978966c5ea00fc209e",
   "total": 1675,
-  "working": 1360,
-  "in_grace_period": 8,
-  "dead": 315,
-  "hd_channels": 570,
+  "working": 1357,
+  "in_grace_period": 4,
+  "dead": 318,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 695,
-      "working": 556,
-      "hd": 220
+      "working": 553,
+      "hd": 219
     },
     "Kannada": {
       "total": 69,
@@ -207,6 +207,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -830,6 +835,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -973,6 +983,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News State MP & CHG (576p)",
