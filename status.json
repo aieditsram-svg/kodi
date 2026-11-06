@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 21:55 UTC",
-  "fingerprint": "732e8af91cfb867bce47f114b74ffc4e",
+  "updated_at": "2026-11-06 22:30 UTC",
+  "fingerprint": "fd0bb6492f2593e038597a02e9a94bc6",
   "total": 1675,
   "working": 1350,
-  "in_grace_period": 10,
+  "in_grace_period": 6,
   "dead": 325,
-  "hd_channels": 568,
+  "hd_channels": 566,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 111,
       "working": 73,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 32,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 695,
       "working": 546,
-      "hd": 215
+      "hd": 214
     },
     "Kannada": {
       "total": 69,
@@ -633,11 +633,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1417,7 +1412,7 @@
     {
       "name": "Star Sports 2 HD (720p)",
       "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Star Sports 2 Hindi (720p)",
@@ -1508,6 +1503,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
