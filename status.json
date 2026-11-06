@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-06 08:08 UTC",
-  "fingerprint": "8aa9b244d4c62d9e0e18d164e0f0b6a9",
+  "updated_at": "2026-11-06 09:02 UTC",
+  "fingerprint": "c6b35c54c77471dae4455180c3e31fec",
   "total": 1675,
   "working": 1356,
   "in_grace_period": 12,
   "dead": 319,
-  "hd_channels": 574,
+  "hd_channels": 576,
   "languages": {
     "Assamese": {
       "total": 38,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 111,
-      "working": 76,
-      "hd": 41
+      "working": 75,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 32,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 34,
-      "working": 30,
-      "hd": 13
+      "working": 31,
+      "hd": 14
     },
     "Hindi": {
       "total": 695,
       "working": 549,
-      "hd": 219
+      "hd": 221
     },
     "Kannada": {
       "total": 69,
@@ -84,8 +84,8 @@
     },
     "Santali": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "Tamil": {
       "total": 178,
@@ -170,11 +170,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -207,11 +202,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -273,6 +263,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -805,6 +800,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KTV Bangla (720p)",
+      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Live Times (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3LIVETIMES/index.m3u8",
       "reason": "HTTP 403"
@@ -918,6 +918,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1073,11 +1078,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
