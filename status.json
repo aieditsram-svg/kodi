@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 21:17 UTC",
-  "fingerprint": "56057c73d9902fff44d422717412bda1",
+  "updated_at": "2026-11-07 21:55 UTC",
+  "fingerprint": "31790d151dbd967cb4ba521e5bd3cc57",
   "total": 1806,
-  "working": 1475,
-  "in_grace_period": 8,
-  "dead": 331,
+  "working": 1476,
+  "in_grace_period": 10,
+  "dead": 330,
   "hd_channels": 599,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 635,
-      "hd": 234
+      "hd": 233
     },
     "Kannada": {
       "total": 76,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
-      "hd": 51
+      "working": 127,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -438,11 +438,6 @@
       "name": "Disney Junior (576p)",
       "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dukhnivaran Patiala Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dukhniwaran (576p)",
