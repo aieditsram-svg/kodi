@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06 23:52 UTC",
-  "fingerprint": "ce9dad7ad1fe31eae757c1786584047a",
-  "total": 1675,
-  "working": 1349,
-  "in_grace_period": 6,
-  "dead": 326,
-  "hd_channels": 565,
+  "updated_at": "2026-11-07 00:27 UTC",
+  "fingerprint": "11731ace3844564c8cd5723d689c491e",
+  "total": 1806,
+  "working": 1490,
+  "in_grace_period": 11,
+  "dead": 316,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
-      "total": 38,
-      "working": 28,
+      "total": 40,
+      "working": 30,
       "hd": 10
     },
     "Bengali": {
-      "total": 111,
-      "working": 72,
-      "hd": 38
+      "total": 131,
+      "working": 94,
+      "hd": 42
     },
     "Bhojpuri": {
-      "total": 32,
-      "working": 27,
+      "total": 33,
+      "working": 28,
       "hd": 10
     },
     "Chhattisgarhi": {
@@ -29,23 +29,23 @@
     },
     "English": {
       "total": 164,
-      "working": 122,
-      "hd": 55
+      "working": 133,
+      "hd": 61
     },
     "Gujarati": {
-      "total": 34,
-      "working": 30,
-      "hd": 13
+      "total": 36,
+      "working": 32,
+      "hd": 14
     },
     "Hindi": {
-      "total": 695,
-      "working": 547,
-      "hd": 214
+      "total": 774,
+      "working": 629,
+      "hd": 229
     },
     "Kannada": {
-      "total": 69,
-      "working": 52,
-      "hd": 24
+      "total": 76,
+      "working": 59,
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -53,14 +53,14 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 114,
-      "working": 87,
-      "hd": 34
+      "total": 119,
+      "working": 95,
+      "hd": 37
     },
     "Marathi": {
-      "total": 45,
-      "working": 38,
-      "hd": 20
+      "total": 55,
+      "working": 47,
+      "hd": 21
     },
     "Nepali": {
       "total": 6,
@@ -68,19 +68,19 @@
       "hd": 3
     },
     "Odia": {
-      "total": 30,
-      "working": 21,
-      "hd": 9
+      "total": 35,
+      "working": 25,
+      "hd": 10
     },
     "Other": {
-      "total": 21,
-      "working": 18,
-      "hd": 12
+      "total": 23,
+      "working": 20,
+      "hd": 11
     },
     "Punjabi": {
-      "total": 133,
-      "working": 118,
-      "hd": 49
+      "total": 144,
+      "working": 129,
+      "hd": 52
     },
     "Santali": {
       "total": 1,
@@ -88,18 +88,18 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 178,
-      "working": 138,
-      "hd": 69
+      "total": 190,
+      "working": 151,
+      "hd": 75
     },
     "Telugu": {
-      "total": 170,
-      "working": 131,
-      "hd": 55
+      "total": 178,
+      "working": 139,
+      "hd": 57
     },
     "Urdu": {
-      "total": 17,
-      "working": 16,
+      "total": 18,
+      "working": 17,
       "hd": 6
     }
   },
@@ -137,11 +137,6 @@
     {
       "name": "9XM (1080p)",
       "url": "https://epiconvh.akamaized.net/live/9XM/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "&TV (720p)",
-      "url": "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -550,6 +545,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -623,11 +623,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -853,6 +848,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1340,33 +1340,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Sony Sports Ten 1 (576p)",
-      "url": "http://103.151.60.162:2122/play/a01c/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony Sports Ten 1 HD (1080p)",
-      "url": "http://103.185.24.134:3001/SonyTenSports1/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Sports Ten 2 (576p)",
-      "url": "http://103.151.60.162:2122/play/a01b/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Sony Sports Ten 3 Hindi (576p)",
       "url": "http://103.151.60.162:2122/play/a01t/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony Sports Ten 4 Kannada (576p)",
-      "url": "http://103.151.60.162:2122/play/a021/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony Sports Ten 5 (576p)",
-      "url": "http://103.151.60.162:2122/play/a028/index.m3u8?hls",
       "reason": "HTTP 403"
     },
     {
@@ -1406,37 +1381,7 @@
     },
     {
       "name": "Star Sports 2 (576p)",
-      "url": "http://103.151.60.162:2122/play/a00v/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports 2 HD (720p)",
-      "url": "http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Sports 2 Hindi (720p)",
-      "url": "https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Star Sports 3 (576p)",
-      "url": "http://103.151.60.162:2122/play/a029/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports Select 1 HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a026/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports Select 2 HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a027/index.m3u8?hls",
       "reason": "HTTP 403"
     },
     {
@@ -1530,11 +1475,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Ten Cricket (576p)",
-      "url": "http://103.151.60.162:2122/play/a0fj/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Thanthi One (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8",
       "reason": "TimeoutError"
@@ -1577,11 +1517,6 @@
     {
       "name": "Unite8 Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a01m/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Unite8 Sports 2",
-      "url": "http://59.103.38.46:8000/play/a126/index.m3u8",
       "reason": "HTTP 403"
     },
     {
@@ -1722,6 +1657,21 @@
     {
       "name": "Zee TV (576p)",
       "url": "http://103.151.60.162:2122/play/a01u/index.m3u8?hls",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Sony Yay! (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
     },
     {
