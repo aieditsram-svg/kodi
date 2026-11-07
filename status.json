@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 10:02 UTC",
-  "fingerprint": "227ead3b6cd5c36e2b3dfc907f841c8c",
+  "updated_at": "2026-11-07 10:42 UTC",
+  "fingerprint": "0b8f937ed5d6f4c83070540dd23f00a2",
   "total": 1806,
-  "working": 1500,
-  "in_grace_period": 7,
-  "dead": 306,
-  "hd_channels": 603,
+  "working": 1503,
+  "in_grace_period": 6,
+  "dead": 303,
+  "hd_channels": 604,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 634,
+      "working": 636,
       "hd": 234
     },
     "Kannada": {
@@ -49,8 +49,8 @@
     },
     "Konkani": {
       "total": 3,
-      "working": 2,
-      "hd": 1
+      "working": 3,
+      "hd": 2
     },
     "Malayalam": {
       "total": 119,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 190,
-      "working": 150,
+      "working": 151,
       "hd": 75
     },
     "Telugu": {
       "total": 178,
-      "working": 140,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -180,11 +180,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
@@ -258,11 +253,6 @@
       "name": "Bada Khabar (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/BADAKHABAR/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Bansal News (720p)",
-      "url": "https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Bhagyam TV (576p) [Not 24/7]",
@@ -535,6 +525,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -603,11 +598,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -830,11 +820,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -918,6 +903,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1022,7 +1012,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1128,11 +1118,6 @@
       "name": "Rang (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3RANG/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "RDX Goa (720p) [Geo-blocked]",
-      "url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
-      "reason": "HTTP 401"
     },
     {
       "name": "Rupasi Bangla (576p)",
