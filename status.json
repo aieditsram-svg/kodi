@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 01:33 UTC",
-  "fingerprint": "b328863c64010459ccb04698d897b995",
+  "updated_at": "2026-11-07 02:22 UTC",
+  "fingerprint": "1f3f5ce961b76f963e92d5a28bdc822a",
   "total": 1806,
-  "working": 1491,
-  "in_grace_period": 13,
-  "dead": 315,
-  "hd_channels": 591,
+  "working": 1488,
+  "in_grace_period": 10,
+  "dead": 318,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 629,
-      "hd": 229
+      "working": 628,
+      "hd": 230
     },
     "Kannada": {
       "total": 76,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 139,
+      "working": 138,
       "hd": 57
     },
     "Urdu": {
@@ -128,6 +128,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -177,6 +182,11 @@
     {
       "name": "All Time Movies (576p)",
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -525,6 +535,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -608,6 +623,11 @@
       "name": "Friends TV (1080p)",
       "url": "https://server.playontv.in/friendstv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines 2 (576p)",
@@ -793,11 +813,6 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
