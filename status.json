@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-07 03:14 UTC",
-  "fingerprint": "56e1af72ae0793abce77f740a017f603",
+  "updated_at": "2026-11-07 04:04 UTC",
+  "fingerprint": "ef26e1902561a9c68faed48fa1287a0c",
   "total": 1806,
-  "working": 1487,
-  "in_grace_period": 13,
-  "dead": 319,
-  "hd_channels": 591,
+  "working": 1493,
+  "in_grace_period": 11,
+  "dead": 313,
+  "hd_channels": 595,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 30,
+      "working": 31,
       "hd": 10
     },
     "Bengali": {
       "total": 131,
-      "working": 94,
-      "hd": 42
+      "working": 95,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 132,
-      "hd": 60
+      "working": 133,
+      "hd": 61
     },
     "Gujarati": {
       "total": 36,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 626,
-      "hd": 230
+      "working": 628,
+      "hd": 229
     },
     "Kannada": {
       "total": 76,
       "working": 59,
-      "hd": 27
+      "hd": 28
     },
     "Konkani": {
       "total": 3,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 119,
       "working": 96,
-      "hd": 37
+      "hd": 39
     },
     "Marathi": {
       "total": 55,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 139,
+      "working": 140,
       "hd": 57
     },
     "Urdu": {
@@ -156,11 +156,6 @@
     },
     {
       "name": "Aakaash Aath (576p)",
-      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -173,16 +168,6 @@
       "name": "Akhon Kolkata (478p)",
       "url": "https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -235,11 +220,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
@@ -288,6 +268,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -545,11 +530,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -638,6 +618,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -981,11 +966,6 @@
     },
     {
       "name": "News 24 (576p)",
-      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1008,6 +988,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
@@ -1265,11 +1250,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1393,11 +1373,6 @@
       "name": "Star Sports 2 (576p)",
       "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports Select 2 HD (720p)",
-      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1677,11 +1652,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
