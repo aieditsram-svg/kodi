@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 10:42 UTC",
-  "fingerprint": "0b8f937ed5d6f4c83070540dd23f00a2",
+  "updated_at": "2026-11-07 11:19 UTC",
+  "fingerprint": "257e8d77c74eeed3ab1d4b252b5d5a92",
   "total": 1806,
-  "working": 1503,
-  "in_grace_period": 6,
-  "dead": 303,
+  "working": 1504,
+  "in_grace_period": 21,
+  "dead": 302,
   "hd_channels": 604,
   "languages": {
     "Assamese": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 139,
+      "working": 140,
       "hd": 57
     },
     "Urdu": {
@@ -523,11 +523,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
