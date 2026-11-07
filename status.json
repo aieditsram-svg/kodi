@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 20:42 UTC",
-  "fingerprint": "ecdea75ed1d913e73c24bd051563d3e0",
+  "updated_at": "2026-11-07 21:17 UTC",
+  "fingerprint": "56057c73d9902fff44d422717412bda1",
   "total": 1806,
-  "working": 1476,
-  "in_grace_period": 3,
-  "dead": 330,
+  "working": 1475,
+  "in_grace_period": 8,
+  "dead": 331,
   "hd_channels": 599,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 635,
-      "hd": 233
+      "hd": 234
     },
     "Kannada": {
       "total": 76,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 91,
-      "hd": 38
+      "working": 90,
+      "hd": 37
     },
     "Marathi": {
       "total": 55,
@@ -828,6 +828,11 @@
       "name": "Kappa TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KCL TV (720p)",
+      "url": "https://kcltv.livebox.co.in/kclhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Kerala Vision (576p)",
