@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 22:27 UTC",
-  "fingerprint": "d994a802889f614ca696c8a9c2ac6733",
+  "updated_at": "2026-11-07 23:05 UTC",
+  "fingerprint": "179f8602cfb287a2b5bc9585971057ce",
   "total": 1806,
-  "working": 1472,
-  "in_grace_period": 15,
-  "dead": 334,
-  "hd_channels": 597,
+  "working": 1470,
+  "in_grace_period": 22,
+  "dead": 336,
+  "hd_channels": 596,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 97,
-      "hd": 45
+      "working": 96,
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 632,
+      "working": 631,
       "hd": 232
     },
     "Kannada": {
@@ -222,6 +222,11 @@
     {
       "name": "Arputhar Yesu TV (576p)",
       "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1293,6 +1298,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sangeet Bhojpuri (576p)",
