@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 02:22 UTC",
-  "fingerprint": "1f3f5ce961b76f963e92d5a28bdc822a",
+  "updated_at": "2026-11-07 03:14 UTC",
+  "fingerprint": "56e1af72ae0793abce77f740a017f603",
   "total": 1806,
-  "working": 1488,
-  "in_grace_period": 10,
-  "dead": 318,
-  "hd_channels": 592,
+  "working": 1487,
+  "in_grace_period": 13,
+  "dead": 319,
+  "hd_channels": 591,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 133,
+      "working": 132,
       "hd": 60
     },
     "Gujarati": {
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 628,
+      "working": 626,
       "hd": 230
     },
     "Kannada": {
       "total": 76,
       "working": 59,
-      "hd": 28
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 128,
+      "working": 129,
       "hd": 52
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 178,
-      "working": 138,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -230,11 +225,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
       "reason": "HTTP 403"
@@ -292,7 +282,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -535,11 +525,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -645,6 +630,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
@@ -677,6 +667,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1270,6 +1265,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1677,6 +1677,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
