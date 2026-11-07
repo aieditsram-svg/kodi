@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-07 16:57 UTC",
-  "fingerprint": "316aba4856f94d3b568d83a56f72f30a",
+  "updated_at": "2026-11-07 17:28 UTC",
+  "fingerprint": "ec8e6eb48c63eb11adf062491080b970",
   "total": 1806,
-  "working": 1473,
-  "in_grace_period": 17,
-  "dead": 333,
-  "hd_channels": 602,
+  "working": 1472,
+  "in_grace_period": 20,
+  "dead": 334,
+  "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 29,
+      "working": 30,
       "hd": 10
     },
     "Bengali": {
       "total": 131,
-      "working": 96,
-      "hd": 45
+      "working": 93,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 632,
-      "hd": 235
+      "working": 633,
+      "hd": 236
     },
     "Kannada": {
       "total": 76,
@@ -225,11 +225,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Asianet Middle East (576p)",
       "url": "https://fta.ektv.in/live/697/master.m3u8",
       "reason": "HTTP 404"
@@ -247,11 +242,6 @@
     {
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Assam Talks (576p)",
-      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1653,6 +1643,21 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Cinema (1080p)",
+      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
