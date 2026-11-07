@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 07:33 UTC",
-  "fingerprint": "58515ab3b6da83228cc851aab54f74af",
+  "updated_at": "2026-11-07 08:25 UTC",
+  "fingerprint": "0d313bd819d014281952be507ace4912",
   "total": 1806,
   "working": 1501,
-  "in_grace_period": 11,
+  "in_grace_period": 13,
   "dead": 305,
-  "hd_channels": 602,
+  "hd_channels": 601,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 131,
-      "working": 98,
-      "hd": 46
+      "working": 97,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 633,
+      "working": 634,
       "hd": 233
     },
     "Kannada": {
@@ -338,11 +338,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -740,11 +735,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
@@ -908,6 +898,11 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1333,6 +1328,11 @@
       "name": "Star Jalsha (576p)",
       "url": "http://103.151.60.162:2122/play/a00w/index.m3u8?hls",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Kiran (576p)",
