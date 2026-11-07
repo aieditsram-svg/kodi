@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07 20:06 UTC",
-  "fingerprint": "11ed6ffda0e1b2d9d1535b954d49598d",
+  "updated_at": "2026-11-07 20:42 UTC",
+  "fingerprint": "ecdea75ed1d913e73c24bd051563d3e0",
   "total": 1806,
   "working": 1476,
-  "in_grace_period": 5,
+  "in_grace_period": 3,
   "dead": 330,
   "hd_channels": 599,
   "languages": {
@@ -222,11 +222,6 @@
     {
       "name": "Arputhar Yesu TV (576p)",
       "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1048,6 +1043,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
