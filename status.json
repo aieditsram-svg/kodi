@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-07 08:25 UTC",
-  "fingerprint": "0d313bd819d014281952be507ace4912",
+  "updated_at": "2026-11-07 09:15 UTC",
+  "fingerprint": "cb54acb2f63641fa44b9d9801d8c1d30",
   "total": 1806,
-  "working": 1501,
-  "in_grace_period": 13,
-  "dead": 305,
+  "working": 1500,
+  "in_grace_period": 21,
+  "dead": 306,
   "hd_channels": 601,
   "languages": {
     "Assamese": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 129,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -128,6 +128,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -593,6 +598,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1088,11 +1098,6 @@
       "name": "Punjabi Beats HD (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
