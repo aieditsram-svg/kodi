@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-07 00:27 UTC",
-  "fingerprint": "11731ace3844564c8cd5723d689c491e",
+  "updated_at": "2026-11-07 01:33 UTC",
+  "fingerprint": "b328863c64010459ccb04698d897b995",
   "total": 1806,
-  "working": 1490,
-  "in_grace_period": 11,
-  "dead": 316,
-  "hd_channels": 592,
+  "working": 1491,
+  "in_grace_period": 13,
+  "dead": 315,
+  "hd_channels": 591,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -30,7 +30,7 @@
     "English": {
       "total": 164,
       "working": 133,
-      "hd": 61
+      "hd": 60
     },
     "Gujarati": {
       "total": 36,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 95,
+      "working": 96,
       "hd": 37
     },
     "Marathi": {
@@ -282,7 +282,7 @@
     {
       "name": "Bharat AtoZ (720p)",
       "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Bharat Samachar (576p)",
@@ -778,11 +778,6 @@
       "name": "Kairali We (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kalinga TV (576p)",
