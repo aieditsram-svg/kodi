@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-08 23:02 UTC",
-  "fingerprint": "bac87acafa4b0839d8bf37a8f0b543a4",
+  "updated_at": "2026-11-08 23:37 UTC",
+  "fingerprint": "65d964b7a8eae15504b247023e3e03e0",
   "total": 1776,
   "working": 1435,
   "in_grace_period": 3,
@@ -832,7 +832,7 @@
     {
       "name": "KBP Times (1080p)",
       "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Kerala Vision (576p)",
