@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 17:55 UTC",
-  "fingerprint": "b2f34ee4d5c711f7ee5b962bc52e15cc",
+  "updated_at": "2026-11-08 18:30 UTC",
+  "fingerprint": "a6e4532d0b6831860eeb012c55371f1e",
   "total": 1776,
-  "working": 1440,
-  "in_grace_period": 7,
-  "dead": 336,
-  "hd_channels": 588,
+  "working": 1438,
+  "in_grace_period": 12,
+  "dead": 338,
+  "hd_channels": 586,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 612,
-      "hd": 227
+      "hd": 226
     },
     "Kannada": {
       "total": 75,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 87,
-      "hd": 37
+      "working": 86,
+      "hd": 36
     },
     "Marathi": {
       "total": 54,
@@ -610,11 +610,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Gangaur TV (1080p)",
-      "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -835,6 +830,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -888,6 +888,11 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1542,6 +1547,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
