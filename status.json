@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-08 04:56 UTC",
-  "fingerprint": "30899938ff7ea8863abf2a86e2a28137",
+  "updated_at": "2026-11-08 05:41 UTC",
+  "fingerprint": "480135e20b8e1197fe42f3e72b8383f6",
   "total": 1776,
-  "working": 1476,
-  "in_grace_period": 16,
-  "dead": 300,
+  "working": 1471,
+  "in_grace_period": 7,
+  "dead": 305,
   "hd_channels": 600,
   "languages": {
     "Assamese": {
       "total": 40,
-      "working": 30,
+      "working": 29,
       "hd": 10
     },
     "Bengali": {
       "total": 123,
-      "working": 99,
+      "working": 98,
       "hd": 46
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 155,
-      "working": 130,
-      "hd": 61
+      "working": 129,
+      "hd": 60
     },
     "Gujarati": {
       "total": 36,
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 635,
-      "hd": 234
+      "working": 634,
+      "hd": 235
     },
     "Kannada": {
       "total": 75,
-      "working": 60,
+      "working": 59,
       "hd": 29
     },
     "Konkani": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 94,
+      "working": 93,
       "hd": 40
     },
     "Marathi": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 174,
-      "working": 131,
+      "working": 132,
       "hd": 59
     },
     "Urdu": {
@@ -157,6 +157,11 @@
     {
       "name": "Aaj Tak (1080p)",
       "url": "http://103.213.31.109:90/AajtakHD/playlist.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Aakaash Aath (576p)",
+      "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -240,6 +245,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Asianet News (576p)",
+      "url": "https://fta.ektv.in/live/699/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Suvarna News (576p)",
       "url": "https://fta.ektv.in/live/692/master.m3u8",
       "reason": "HTTP 404"
@@ -248,6 +258,11 @@
       "name": "Asom Live 24 (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Assam Talks (576p)",
+      "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -533,11 +548,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -991,6 +1001,11 @@
     },
     {
       "name": "News 24 (576p)",
+      "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "News 24 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1108,6 +1123,11 @@
       "name": "Pear TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Power TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1337,6 +1357,11 @@
     {
       "name": "Star Gold HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Sports Select 2 HD (720p)",
+      "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
     },
     {
