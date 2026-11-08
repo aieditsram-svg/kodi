@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 19:19 UTC",
-  "fingerprint": "2f3375be12b6567682c6e6fdc20bdb90",
+  "updated_at": "2026-11-08 20:00 UTC",
+  "fingerprint": "f806d67fd94c14fa24fc94002e12036a",
   "total": 1776,
-  "working": 1438,
-  "in_grace_period": 18,
-  "dead": 338,
-  "hd_channels": 586,
+  "working": 1433,
+  "in_grace_period": 16,
+  "dead": 343,
+  "hd_channels": 584,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
-      "hd": 43
+      "working": 86,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 612,
-      "hd": 226
+      "working": 608,
+      "hd": 225
     },
     "Kannada": {
       "total": 75,
@@ -84,8 +84,8 @@
     },
     "Santali": {
       "total": 1,
-      "working": 1,
-      "hd": 1
+      "working": 0,
+      "hd": 0
     },
     "Tamil": {
       "total": 184,
@@ -227,6 +227,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -620,6 +625,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -830,6 +840,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "KBP Times (1080p)",
+      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -843,6 +858,11 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KTV Bangla (720p)",
+      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Live Times (576p)",
@@ -1778,6 +1798,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
