@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 21:53 UTC",
-  "fingerprint": "b4f2dd84d41f0529b2b3ce3b59ba5245",
+  "updated_at": "2026-11-08 22:25 UTC",
+  "fingerprint": "137b379e35b602654785bf745ed3fe44",
   "total": 1776,
-  "working": 1434,
-  "in_grace_period": 3,
-  "dead": 342,
-  "hd_channels": 584,
+  "working": 1432,
+  "in_grace_period": 1,
+  "dead": 344,
+  "hd_channels": 583,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 610,
-      "hd": 225
+      "working": 608,
+      "hd": 224
     },
     "Kannada": {
       "total": 75,
@@ -428,6 +428,11 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Deewana HD (540p)",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Dhamaal (576p) [Geo-blocked]",
@@ -1583,6 +1588,11 @@
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "VTU (1080p)",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Win TV (576p)",
