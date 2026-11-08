@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-08 00:14 UTC",
-  "fingerprint": "425c32dc3205869b8bb8f8fbfbeabc31",
-  "total": 1781,
-  "working": 1461,
-  "in_grace_period": 7,
-  "dead": 320,
-  "hd_channels": 598,
+  "updated_at": "2026-11-08 01:24 UTC",
+  "fingerprint": "e3769e277c002b99a10915e713270785",
+  "total": 1776,
+  "working": 1467,
+  "in_grace_period": 8,
+  "dead": 309,
+  "hd_channels": 599,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 36,
-      "working": 32,
-      "hd": 14
+      "working": 33,
+      "hd": 15
     },
     "Hindi": {
       "total": 754,
-      "working": 625,
+      "working": 629,
       "hd": 235
     },
     "Kannada": {
@@ -93,8 +93,8 @@
       "hd": 75
     },
     "Telugu": {
-      "total": 179,
-      "working": 130,
+      "total": 174,
+      "working": 131,
       "hd": 58
     },
     "Urdu": {
@@ -263,11 +263,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -525,11 +520,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -610,11 +600,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen3.aynaott.com/VamXuQH8/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -633,11 +618,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -1150,11 +1130,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1655,11 +1630,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shemaroo TV (576p)",
       "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
@@ -1667,31 +1637,6 @@
     {
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Disney Junior (India) (576p)",
-      "url": "http://103.151.60.162:2122/play/a016/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Pogo (576p)",
-      "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sonic (576p)",
-      "url": "http://103.151.60.162:2122/play/a02v/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Sony Pix HD (1080p)",
-      "url": "http://103.151.60.162:2122/play/a01d/index.m3u8?hls",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Star Sports 2 (576p)",
-      "url": "http://103.151.60.162:2122/play/a019/index.m3u8?hls",
       "reason": "HTTP 403"
     },
     {
