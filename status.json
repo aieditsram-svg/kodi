@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-08 17:22 UTC",
-  "fingerprint": "42aacd3673063ea7e2bcc8df98f0c779",
+  "updated_at": "2026-11-08 17:55 UTC",
+  "fingerprint": "b2f34ee4d5c711f7ee5b962bc52e15cc",
   "total": 1776,
-  "working": 1437,
-  "in_grace_period": 26,
-  "dead": 339,
+  "working": 1440,
+  "in_grace_period": 7,
+  "dead": 336,
   "hd_channels": 588,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 85,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 184,
-      "working": 140,
+      "working": 141,
       "hd": 71
     },
     "Telugu": {
@@ -222,11 +222,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Arputhar Yesu TV (576p)",
-      "url": "https://account33.livebox.co.in/jesushelpshls/live.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -615,6 +610,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Gangaur TV (1080p)",
+      "url": "https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -628,11 +628,6 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Bollywood (576p)",
-      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1285,11 +1280,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1398,11 +1388,6 @@
       "name": "Star Gold HD (1080p)",
       "url": "http://103.185.24.134:3001/Star-Gold/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
@@ -1782,7 +1767,7 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "URLError"
+      "reason": "TimeoutError"
     },
     {
       "name": "Taaza TV (576p)",
