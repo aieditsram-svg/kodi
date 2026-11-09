@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-09 10:00 UTC",
-  "fingerprint": "2d25e55b827ac93e7311d2043e9b35ef",
+  "updated_at": "2026-11-09 10:56 UTC",
+  "fingerprint": "922a9d86bc390f009e46f0e3e6199590",
   "total": 1768,
   "working": 1443,
-  "in_grace_period": 27,
+  "in_grace_period": 12,
   "dead": 325,
   "hd_channels": 571,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 86,
+      "working": 87,
       "hd": 42
     },
     "Bhojpuri": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 129,
+      "working": 128,
       "hd": 51
     },
     "Urdu": {
@@ -170,6 +170,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -178,6 +183,11 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "ANB News (720p)",
+      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -365,11 +375,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "DD Sports (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
       "reason": "HTTP 404"
@@ -518,6 +523,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -847,12 +857,17 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -938,11 +953,6 @@
       "name": "Network 10 (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1205,11 +1215,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sangeet Bhojpuri (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
       "reason": "HTTP 403"
@@ -1258,11 +1263,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1700,13 +1700,13 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "name": "ANB News (1080p)",
+      "url": "https://stream.ottlive.co.in/anb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
       "reason": "HTTP 404"
     },
     {
