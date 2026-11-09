@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 21:23 UTC",
-  "fingerprint": "c5cbd6d9b9ecb339f2edfaed845635dc",
+  "updated_at": "2026-11-09 22:11 UTC",
+  "fingerprint": "e677df071635b02c6633f838e06bd343",
   "total": 1768,
   "working": 1446,
-  "in_grace_period": 11,
+  "in_grace_period": 7,
   "dead": 322,
-  "hd_channels": 569,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 746,
       "working": 597,
-      "hd": 211
+      "hd": 213
     },
     "Kannada": {
       "total": 75,
@@ -1010,11 +1010,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "News State MP & CHG (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3NEWSSTATEMPCG/index.m3u8",
       "reason": "HTTP 403"
@@ -1057,7 +1052,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1563,6 +1558,11 @@
       "name": "Zee Tamil HD (1080p)",
       "url": "https://d2o8pibksxtln6.cloudfront.net/live/media/Zee_Tamil_HD/hls/Zee_Tamil_HD.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee TV HD (720p) [Geo-blocked]",
+      "url": "http://41.205.93.154/ZEE-TV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Hungama TV (576p)",
