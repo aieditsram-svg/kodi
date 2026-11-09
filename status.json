@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 00:13 UTC",
-  "fingerprint": "8f127161c84d3f74efeef7c5c96a6cfa",
+  "updated_at": "2026-11-09 01:27 UTC",
+  "fingerprint": "fdb9abb3a932d96d3767016445c82984",
   "total": 1768,
-  "working": 1430,
-  "in_grace_period": 5,
-  "dead": 338,
-  "hd_channels": 579,
+  "working": 1433,
+  "in_grace_period": 13,
+  "dead": 335,
+  "hd_channels": 580,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -30,7 +30,7 @@
     "English": {
       "total": 152,
       "working": 120,
-      "hd": 54
+      "hd": 53
     },
     "Gujarati": {
       "total": 36,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 604,
-      "hd": 219
+      "working": 605,
+      "hd": 220
     },
     "Kannada": {
       "total": 75,
-      "working": 53,
-      "hd": 26
+      "working": 54,
+      "hd": 27
     },
     "Konkani": {
       "total": 3,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 138,
+      "working": 139,
       "hd": 69
     },
     "Telugu": {
@@ -185,11 +185,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "AMN TV (576p)",
-      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Amrita TV (576p)",
       "url": "https://fta.ektv.in/live/698/master.m3u8",
       "reason": "HTTP 404"
@@ -227,11 +222,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1160,11 +1150,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Pradesh24 Gujarati (1080p)",
       "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
       "reason": "HTTP 404"
@@ -1227,7 +1212,7 @@
     {
       "name": "Raj Musix Tamil (1080p)",
       "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Raj News Kannada (576p)",
