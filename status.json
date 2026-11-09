@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 20:28 UTC",
-  "fingerprint": "62ffe24b7013fac44d72bb31fbaefade",
+  "updated_at": "2026-11-09 21:23 UTC",
+  "fingerprint": "c5cbd6d9b9ecb339f2edfaed845635dc",
   "total": 1768,
   "working": 1446,
-  "in_grace_period": 6,
+  "in_grace_period": 11,
   "dead": 322,
-  "hd_channels": 571,
+  "hd_channels": 569,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 746,
       "working": 597,
-      "hd": 213
+      "hd": 211
     },
     "Kannada": {
       "total": 75,
@@ -630,11 +630,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -1013,6 +1008,11 @@
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News Nation 81 (1080p)",
+      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "News State MP & CHG (576p)",
