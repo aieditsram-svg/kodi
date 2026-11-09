@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-09 11:48 UTC",
-  "fingerprint": "b398c0a38cb40a9d0fae5af495471e63",
+  "updated_at": "2026-11-09 12:44 UTC",
+  "fingerprint": "d1a896ae795472243a75a37656373ab9",
   "total": 1768,
-  "working": 1439,
-  "in_grace_period": 8,
-  "dead": 329,
+  "working": 1442,
+  "in_grace_period": 14,
+  "dead": 326,
   "hd_channels": 570,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 591,
+      "working": 594,
       "hd": 212
     },
     "Kannada": {
@@ -183,11 +183,6 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "ANB News (720p)",
-      "url": "https://server.livelegitpro.in:9899/anbnews/anbnews/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -965,11 +960,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -1717,11 +1707,6 @@
     {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ANB News (1080p)",
-      "url": "https://stream.ottlive.co.in/anb/index.m3u8",
       "reason": "HTTP 404"
     },
     {
