@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 01:27 UTC",
-  "fingerprint": "fdb9abb3a932d96d3767016445c82984",
+  "updated_at": "2026-11-09 02:28 UTC",
+  "fingerprint": "feff52c98835d2624c264da497b2afd1",
   "total": 1768,
-  "working": 1433,
+  "working": 1432,
   "in_grace_period": 13,
-  "dead": 335,
-  "hd_channels": 580,
+  "dead": 336,
+  "hd_channels": 581,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
+      "working": 86,
       "hd": 42
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 152,
       "working": 120,
-      "hd": 53
+      "hd": 54
     },
     "Gujarati": {
       "total": 36,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 605,
+      "working": 606,
       "hd": 220
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 126,
+      "working": 125,
       "hd": 52
     },
     "Santali": {
@@ -128,6 +128,11 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -820,11 +825,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "KBP Times (1080p)",
-      "url": "https://kbpnews.cloud/Kbptimes/Kbptimeslive/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
@@ -1212,7 +1212,7 @@
     {
       "name": "Raj Musix Tamil (1080p)",
       "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Raj News Kannada (576p)",
@@ -1378,6 +1378,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
