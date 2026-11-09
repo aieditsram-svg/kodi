@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 17:45 UTC",
-  "fingerprint": "e007bc922e324f3283e6d8f98fd12989",
+  "updated_at": "2026-11-09 18:34 UTC",
+  "fingerprint": "e7b4a295fe5f683e069f55b1663f1da7",
   "total": 1768,
-  "working": 1442,
+  "working": 1440,
   "in_grace_period": 13,
-  "dead": 326,
-  "hd_channels": 573,
+  "dead": 328,
+  "hd_channels": 572,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 86,
+      "working": 87,
       "hd": 42
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 592,
-      "hd": 213
+      "working": 590,
+      "hd": 212
     },
     "Kannada": {
       "total": 75,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 133,
+      "working": 132,
       "hd": 64
     },
     "Telugu": {
@@ -172,6 +172,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -283,6 +288,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -628,6 +638,11 @@
       "name": "Goldmines Bollywood (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Bollywood (576p)",
+      "url": "https://tvsen6.aynaott.com/55xNrLdf/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Goldmines Bollywood",
@@ -1323,11 +1338,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
