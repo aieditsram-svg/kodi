@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-09 19:35 UTC",
-  "fingerprint": "2f0ac642ae763795c3b4ac2408389d66",
+  "updated_at": "2026-11-09 20:28 UTC",
+  "fingerprint": "62ffe24b7013fac44d72bb31fbaefade",
   "total": 1768,
-  "working": 1448,
-  "in_grace_period": 5,
-  "dead": 320,
-  "hd_channels": 572,
+  "working": 1446,
+  "in_grace_period": 6,
+  "dead": 322,
+  "hd_channels": 571,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
-      "hd": 41
+      "working": 86,
+      "hd": 40
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 746,
-      "working": 598,
+      "working": 597,
       "hd": 213
     },
     "Kannada": {
@@ -860,6 +860,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -1472,7 +1477,7 @@
     {
       "name": "VTU (1080p)",
       "url": "https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8",
-      "reason": "HTTP 404"
+      "reason": "HTTP 502"
     },
     {
       "name": "Win TV (576p)",
@@ -1488,6 +1493,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
