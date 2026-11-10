@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 21:45 UTC",
-  "fingerprint": "f11f0c3c4d0aeaf351d2e0a1eae24681",
+  "updated_at": "2026-11-10 22:25 UTC",
+  "fingerprint": "1f096c17d75aa25e1dd250f9d505786a",
   "total": 1752,
-  "working": 1477,
-  "in_grace_period": 8,
-  "dead": 275,
-  "hd_channels": 591,
+  "working": 1476,
+  "in_grace_period": 6,
+  "dead": 276,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 152,
-      "working": 118,
-      "hd": 50
+      "working": 117,
+      "hd": 49
     },
     "Gujarati": {
       "total": 36,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 730,
       "working": 595,
-      "hd": 219
+      "hd": 220
     },
     "Kannada": {
       "total": 75,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 134,
+      "working": 133,
       "hd": 54
     },
     "Urdu": {
@@ -475,6 +475,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -748,11 +753,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -1192,6 +1192,11 @@
     {
       "name": "TLC (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TLC HD (720p)",
+      "url": "https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8",
       "reason": "HTTP 404"
     },
     {
