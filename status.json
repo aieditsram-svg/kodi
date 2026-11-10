@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-10 16:58 UTC",
-  "fingerprint": "1fb8814f97019be96039eacdd4dd5bdc",
+  "updated_at": "2026-11-10 17:44 UTC",
+  "fingerprint": "918c1587237e8dee4ef39c3eee7cfd8f",
   "total": 1752,
   "working": 1477,
-  "in_grace_period": 12,
+  "in_grace_period": 5,
   "dead": 275,
   "hd_channels": 597,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 87,
+      "working": 88,
       "hd": 43
     },
     "Bhojpuri": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 181,
-      "working": 139,
+      "working": 138,
       "hd": 68
     },
     "Telugu": {
@@ -167,6 +167,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "AMN TV (576p)",
+      "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1085,11 +1090,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -1133,6 +1133,11 @@
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "SVBC 4 (1080p)",
+      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1453,11 +1458,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
