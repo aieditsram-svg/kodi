@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 02:58 UTC",
-  "fingerprint": "5d0f82183e1c14839e9fb60b4aa8cdd4",
+  "updated_at": "2026-11-10 03:47 UTC",
+  "fingerprint": "0e9bd95d7a3462261a037fce45b924d5",
   "total": 1752,
-  "working": 1426,
-  "in_grace_period": 11,
-  "dead": 326,
-  "hd_channels": 566,
+  "working": 1425,
+  "in_grace_period": 17,
+  "dead": 327,
+  "hd_channels": 565,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 152,
-      "working": 111,
-      "hd": 45
+      "working": 110,
+      "hd": 44
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 584,
-      "hd": 209
+      "working": 582,
+      "hd": 208
     },
     "Kannada": {
       "total": 75,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 127,
+      "working": 128,
       "hd": 52
     },
     "Santali": {
@@ -128,11 +128,6 @@
       "name": "9X Tashan (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -293,6 +288,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -667,6 +667,11 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
