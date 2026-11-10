@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 17:44 UTC",
-  "fingerprint": "918c1587237e8dee4ef39c3eee7cfd8f",
+  "updated_at": "2026-11-10 18:27 UTC",
+  "fingerprint": "89b95bf435225810ff349975449d5833",
   "total": 1752,
-  "working": 1477,
-  "in_grace_period": 5,
-  "dead": 275,
-  "hd_channels": 597,
+  "working": 1475,
+  "in_grace_period": 12,
+  "dead": 277,
+  "hd_channels": 594,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 36,
-      "working": 34,
-      "hd": 16
+      "working": 33,
+      "hd": 15
     },
     "Hindi": {
       "total": 730,
-      "working": 595,
-      "hd": 220
+      "working": 594,
+      "hd": 218
     },
     "Kannada": {
       "total": 75,
@@ -172,7 +172,7 @@
     {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -760,6 +760,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -908,6 +913,11 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
