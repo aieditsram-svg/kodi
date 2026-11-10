@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-09 23:30 UTC",
-  "fingerprint": "c717b399cfa02a3d14d44e6b2b0c9b44",
+  "updated_at": "2026-11-10 00:09 UTC",
+  "fingerprint": "8468e5a68c1685e3a72978cd37b8435f",
   "total": 1768,
   "working": 1446,
-  "in_grace_period": 18,
+  "in_grace_period": 14,
   "dead": 322,
   "hd_channels": 569,
   "languages": {
@@ -222,6 +222,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -853,11 +858,6 @@
       "name": "Makkal TV (576p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
