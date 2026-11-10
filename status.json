@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 04:36 UTC",
-  "fingerprint": "1a013c4b485d887d12f7975817336964",
+  "updated_at": "2026-11-10 05:31 UTC",
+  "fingerprint": "0997da07adcee176eb1d7b7be8efafc8",
   "total": 1752,
-  "working": 1425,
-  "in_grace_period": 6,
-  "dead": 327,
-  "hd_channels": 565,
+  "working": 1423,
+  "in_grace_period": 37,
+  "dead": 329,
+  "hd_channels": 560,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 123,
       "working": 80,
-      "hd": 40
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 152,
-      "working": 110,
+      "working": 111,
       "hd": 44
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 582,
+      "working": 581,
       "hd": 208
     },
     "Kannada": {
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 119,
       "working": 88,
-      "hd": 33
+      "hd": 32
     },
     "Marathi": {
       "total": 54,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 144,
-      "working": 128,
+      "working": 127,
       "hd": 52
     },
     "Santali": {
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 181,
       "working": 133,
-      "hd": 64
+      "hd": 62
     },
     "Telugu": {
       "total": 173,
       "working": 127,
-      "hd": 51
+      "hd": 49
     },
     "Urdu": {
       "total": 18,
@@ -177,6 +177,11 @@
     {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Amrit Gurbani (720p)",
+      "url": "https://samitaorigin.tangotv.in/AMRITGURBANI/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -497,7 +502,7 @@
     {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVCINEMA/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Life (1080p)",
@@ -507,7 +512,7 @@
     {
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Plus (396p)",
@@ -532,7 +537,7 @@
     {
       "name": "ETV Telangana (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVTG/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "ETV Telugu HD (1080p)",
@@ -567,7 +572,7 @@
     {
       "name": "Food Food (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/FoodFood/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Food Food (576p)",
@@ -647,7 +652,7 @@
     {
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Hindu Dharmam (576p)",
@@ -667,11 +672,6 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "HSTV (720p)",
-      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -920,6 +920,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -932,7 +937,7 @@
     {
       "name": "News18 Kannada (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News18 Kerala (1080p) [Geo-blocked]",
@@ -942,7 +947,7 @@
     {
       "name": "News18 Odia (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News 24 (720p)",
@@ -1105,6 +1110,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1182,7 +1192,7 @@
     {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Sarv Dharam Sangam (720p)",
