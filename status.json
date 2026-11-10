@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 16:09 UTC",
-  "fingerprint": "1c560057e7bcc427b5869c87132be349",
+  "updated_at": "2026-11-10 16:58 UTC",
+  "fingerprint": "1fb8814f97019be96039eacdd4dd5bdc",
   "total": 1752,
-  "working": 1476,
-  "in_grace_period": 7,
-  "dead": 276,
-  "hd_channels": 596,
+  "working": 1477,
+  "in_grace_period": 12,
+  "dead": 275,
+  "hd_channels": 597,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 88,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 593,
-      "hd": 219
+      "working": 595,
+      "hd": 220
     },
     "Kannada": {
       "total": 75,
@@ -182,7 +182,7 @@
     {
       "name": "Animal Planet (720p)",
       "url": "https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Animal Planet HD (720p)",
@@ -202,11 +202,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -990,6 +985,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1457,11 +1457,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
