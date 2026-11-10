@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-10 20:19 UTC",
-  "fingerprint": "f0f816b09f0e3310fd7f5a8af4014d73",
+  "updated_at": "2026-11-10 21:06 UTC",
+  "fingerprint": "9d9b4c3a085255ad4d89fa159c1be098",
   "total": 1752,
-  "working": 1477,
+  "working": 1476,
   "in_grace_period": 5,
-  "dead": 275,
-  "hd_channels": 595,
+  "dead": 276,
+  "hd_channels": 593,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 730,
       "working": 594,
-      "hd": 221
+      "hd": 220
     },
     "Kannada": {
       "total": 75,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 119,
-      "working": 89,
-      "hd": 31
+      "working": 87,
+      "hd": 30
     },
     "Marathi": {
       "total": 54,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 133,
+      "working": 134,
       "hd": 54
     },
     "Urdu": {
@@ -300,6 +300,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "CCV (480p)",
+      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -378,11 +383,6 @@
       "name": "DD Urdu (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/DDUrdu/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "DD Yadagiri (576p)",
-      "url": "https://fta.ektv.in/live/678/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Deewana HD (540p)",
@@ -760,11 +760,6 @@
       "reason": "not a valid HLS manifest"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -828,6 +823,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1142,7 +1142,7 @@
     {
       "name": "SVBC 4 (1080p)",
       "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1232,6 +1232,11 @@
     {
       "name": "Vasanth TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/VasanthTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "VCV (720p) [Not 24/7]",
+      "url": "https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
