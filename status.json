@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-10 14:27 UTC",
-  "fingerprint": "8eba4e4e7f6cbc4e9428fbfa9bc71f8b",
+  "updated_at": "2026-11-10 15:16 UTC",
+  "fingerprint": "980dd17327d5e841f925de7595dcf40c",
   "total": 1752,
-  "working": 1478,
-  "in_grace_period": 12,
-  "dead": 274,
+  "working": 1477,
+  "in_grace_period": 8,
+  "dead": 275,
   "hd_channels": 594,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 730,
-      "working": 594,
+      "working": 593,
       "hd": 218
     },
     "Kannada": {
@@ -1082,7 +1082,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
@@ -1452,6 +1452,11 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
