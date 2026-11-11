@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Hindi channels, updated 2026-11-11 14:39 UTC
+# Working Hindi channels, updated 2026-11-11 15:27 UTC
 #EXTINF:-1 tvg-id="22ScopeNews.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png" tvg-language="Hindi" group-title="Hindi" height="1080",22Scope News (1080p)
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="7XMusic.in@SD" x-category="music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/7X_Music.png" tvg-language="Hindi" group-title="Hindi" height="360",7X Music (360p)
@@ -816,6 +816,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/network10/playlist.m3u8
 https://fta.ektv.in/live/611/master.m3u8
 #EXTINF:-1 tvg-id="Network10.in@SD" x-category="general" tvg-logo="https://i.imgur.com/xkWfruI.png" tvg-language="Hindi" group-title="Hindi" height="720",Network 10 (576p)
 https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8
+#EXTINF:-1 tvg-id="Network10.in@SD" x-category="general" tvg-logo="https://i.imgur.com/xkWfruI.png" tvg-language="Hindi" group-title="Hindi" height="576",Network 10 (576p)
+https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8
 #EXTINF:-1 tvg-id="Network10.in@SD" x-category="general" tvg-logo="https://i.imgur.com/xkWfruI.png" tvg-language="Hindi" group-title="Hindi" height="720",Network 10 (720p)
 https://mumbai-edge.smartplaytv.in/Network10/index.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" x-category="news" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-language="Hindi" group-title="Hindi" height="396",News 1 India (396p)
@@ -845,8 +847,6 @@ https://fta.ektv.in/live/95/95_0.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3NEWS24/index.m3u8
 #EXTINF:-1 tvg-id="News24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",News 24 (576p)
 https://streams.tangotv.in/NEWS24/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="News24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",News 24 (576p)
-https://tvsen5.aynaott.com/News24/index.m3u8
 #EXTINF:-1 tvg-id="News24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s90009_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",News 24 (720p)
 https://stream.ottlive.co.in/news24/index.m3u8
 #EXTINF:-1 tvg-id="News24MPChhattisgarh.in@SD" x-category="news" tvg-logo="https://i.imgur.com/EN45UFX.png" tvg-language="Hindi" group-title="Hindi" height="576",News 24 MP & Chhattisgarh (576p)
