@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 17:27 UTC",
-  "fingerprint": "c92cc430154e66763bd75741871c20fd",
+  "updated_at": "2026-11-11 18:19 UTC",
+  "fingerprint": "e4f8be6c0061b931207f2255b26bcfc7",
   "total": 1736,
-  "working": 1476,
-  "in_grace_period": 5,
-  "dead": 260,
-  "hd_channels": 593,
+  "working": 1475,
+  "in_grace_period": 6,
+  "dead": 261,
+  "hd_channels": 592,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 593,
-      "hd": 218
+      "working": 592,
+      "hd": 217
     },
     "Kannada": {
       "total": 71,
@@ -347,6 +347,11 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Sports (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
