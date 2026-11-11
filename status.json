@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 18:19 UTC",
-  "fingerprint": "e4f8be6c0061b931207f2255b26bcfc7",
+  "updated_at": "2026-11-11 19:25 UTC",
+  "fingerprint": "02de08b3ae1a2040a0b00df076043f73",
   "total": 1736,
-  "working": 1475,
-  "in_grace_period": 6,
-  "dead": 261,
-  "hd_channels": 592,
+  "working": 1479,
+  "in_grace_period": 10,
+  "dead": 257,
+  "hd_channels": 595,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 87,
-      "hd": 41
+      "working": 89,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 717,
       "working": 592,
-      "hd": 217
+      "hd": 218
     },
     "Kannada": {
       "total": 71,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 168,
-      "working": 132,
-      "hd": 54
+      "working": 134,
+      "hd": 55
     },
     "Urdu": {
       "total": 18,
@@ -162,6 +162,11 @@
     {
       "name": "All Time Movies (576p)",
       "url": "https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -430,11 +435,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -578,11 +578,6 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Hindu Dharmam (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -1185,16 +1180,6 @@
       "reason": "URLError"
     },
     {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Zee 24 Ghanta (576p)",
       "url": "https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8",
       "reason": "TimeoutError"
@@ -1388,11 +1373,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
