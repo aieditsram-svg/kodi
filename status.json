@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 08:38 UTC",
-  "fingerprint": "d59ea3efcf593fea2583b13676d965f5",
+  "updated_at": "2026-11-11 09:36 UTC",
+  "fingerprint": "84ecf1683615f7db00f616fbb3988c95",
   "total": 1736,
-  "working": 1478,
-  "in_grace_period": 21,
-  "dead": 258,
+  "working": 1475,
+  "in_grace_period": 10,
+  "dead": 261,
   "hd_channels": 594,
   "languages": {
     "Assamese": {
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 121,
       "working": 88,
-      "hd": 42
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 36,
-      "working": 34,
-      "hd": 16
+      "working": 33,
+      "hd": 15
     },
     "Hindi": {
       "total": 717,
-      "working": 593,
+      "working": 591,
       "hd": 218
     },
     "Kannada": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 137,
+      "working": 138,
       "hd": 68
     },
     "Telugu": {
       "total": 168,
-      "working": 134,
+      "working": 133,
       "hd": 55
     },
     "Urdu": {
@@ -445,6 +445,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -685,6 +690,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -747,6 +757,11 @@
     {
       "name": "Network 10 (576p)",
       "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -833,6 +848,11 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1088,11 +1108,6 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Thendral TV (576p)",
-      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
