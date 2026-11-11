@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 01:28 UTC",
-  "fingerprint": "ef946e721e0ccccc33820866581c4094",
+  "updated_at": "2026-11-11 02:22 UTC",
+  "fingerprint": "d35604eda61fcc4b2c22a54e6fc631fc",
   "total": 1736,
-  "working": 1454,
-  "in_grace_period": 37,
-  "dead": 282,
-  "hd_channels": 591,
+  "working": 1451,
+  "in_grace_period": 67,
+  "dead": 285,
+  "hd_channels": 577,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 121,
       "working": 88,
-      "hd": 42
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -30,7 +30,7 @@
     "English": {
       "total": 141,
       "working": 114,
-      "hd": 49
+      "hd": 48
     },
     "Gujarati": {
       "total": 36,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 583,
-      "hd": 218
+      "working": 580,
+      "hd": 213
     },
     "Kannada": {
       "total": 71,
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 51,
       "working": 39,
-      "hd": 18
+      "hd": 17
     },
     "Nepali": {
       "total": 6,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 144,
       "working": 131,
-      "hd": 52
+      "hd": 49
     },
     "Santali": {
       "total": 1,
@@ -90,12 +90,12 @@
     "Tamil": {
       "total": 174,
       "working": 137,
-      "hd": 68
+      "hd": 67
     },
     "Telugu": {
       "total": 168,
       "working": 133,
-      "hd": 54
+      "hd": 52
     },
     "Urdu": {
       "total": 18,
@@ -567,7 +567,7 @@
     {
       "name": "Fast1 (576p)",
       "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "First India News (576p)",
@@ -815,6 +815,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -992,7 +997,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Public Music (576p)",
@@ -1002,6 +1007,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1498,6 +1508,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
