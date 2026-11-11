@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-11 07:40 UTC",
-  "fingerprint": "dcc67a3a9c62eabf777c9f1032d44ffe",
+  "updated_at": "2026-11-11 08:38 UTC",
+  "fingerprint": "d59ea3efcf593fea2583b13676d965f5",
   "total": 1736,
-  "working": 1479,
-  "in_grace_period": 13,
-  "dead": 257,
-  "hd_channels": 597,
+  "working": 1478,
+  "in_grace_period": 21,
+  "dead": 258,
+  "hd_channels": 594,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 121,
-      "working": 87,
-      "hd": 43
+      "working": 88,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 594,
-      "hd": 220
+      "working": 593,
+      "hd": 218
     },
     "Kannada": {
       "total": 71,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 138,
+      "working": 137,
       "hd": 68
     },
     "Telugu": {
@@ -327,11 +327,6 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Kashir (576p)",
-      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -650,6 +645,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Kabaddi 24x7 (720p)",
+      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
@@ -668,11 +668,6 @@
       "name": "Kerala Vision (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKERALAVISION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kolkata TV (576p)",
@@ -748,6 +743,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -915,6 +915,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1005,11 +1010,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "HTTP 404"
@@ -1088,6 +1088,11 @@
       "name": "Thanthi TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Thendral TV (576p)",
+      "url": "https://hls.thendraltv.in/thendraltv_1210b43d/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Times Now (720p) [Geo-blocked]",
@@ -1370,8 +1375,8 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
       "reason": "HTTP 404"
     },
     {
