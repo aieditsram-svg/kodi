@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-11 11:34 UTC",
-  "fingerprint": "1940b9ba2a86c3e08b879268aa32bd5e",
+  "updated_at": "2026-11-11 12:34 UTC",
+  "fingerprint": "ab9652e4785a09fa644f7492778516b7",
   "total": 1736,
-  "working": 1483,
-  "in_grace_period": 8,
-  "dead": 253,
+  "working": 1482,
+  "in_grace_period": 15,
+  "dead": 254,
   "hd_channels": 597,
   "languages": {
     "Assamese": {
@@ -24,7 +24,7 @@
     },
     "Chhattisgarhi": {
       "total": 3,
-      "working": 3,
+      "working": 2,
       "hd": 0
     },
     "English": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 717,
-      "working": 595,
+      "working": 594,
       "hd": 219
     },
     "Kannada": {
@@ -598,6 +598,11 @@
       "name": "INews (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HINEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "INH 24x7 (360p)",
+      "url": "https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Jaihind TV (576p)",
