@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-12 00:25 UTC",
-  "fingerprint": "ce027f2516468d7fb7208e720e11b0ad",
+  "updated_at": "2026-11-12 01:45 UTC",
+  "fingerprint": "6669c053f924a55ac5ee85fd7917974d",
   "total": 1838,
   "working": 1589,
-  "in_grace_period": 9,
+  "in_grace_period": 16,
   "dead": 249,
   "hd_channels": 622,
   "languages": {
@@ -14,13 +14,13 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
-      "hd": 43
+      "working": 94,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
-      "hd": 12
+      "working": 31,
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 632,
+      "working": 631,
       "hd": 227
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 139,
       "hd": 57
     },
     "Urdu": {
@@ -425,6 +425,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -670,11 +675,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -870,6 +870,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -923,11 +928,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bhojpuri (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",

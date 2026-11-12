@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, one best link per channel, updated 2026-11-12 00:25 UTC
+# Working channels, one best link per channel, updated 2026-11-12 01:45 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="720",Assam Talks (576p)
 https://mumt05.tangotv.in/87NeALx2ASSAMTALKS/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143015_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="360",DY 365 (360p)
@@ -99,8 +99,9 @@ https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8
 https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in@SD" x-category="news" tvg-logo="https://i.ibb.co/3mrYZDG/cropped-LOGO-web1.jpg" tvg-language="Bengali" group-title="Bengali" height="1080",Samay Kolkata (1080p)
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Sangeet Bangla (576p)
-https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00211H7T.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Sangeet Bangla (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/379/master.m3u8
 #EXTINF:-1 tvg-id="ShikshaTV.in@SD" x-category="culture" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Shiksha_TV.png" tvg-language="Bengali" group-title="Bengali" height="1080",Shiksha TV (720p)
 http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8
 #EXTINF:-1 tvg-id="SonarBangla.in@SD" x-category="movies" tvg-logo="https://papaji.freetvindia.com/media/1518_FreeTV_Sonar_Bangla.png" tvg-language="Bengali" group-title="Bengali" height="720",Sonar Bangla (360p)
@@ -153,9 +154,8 @@ https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
 https://mumt05.tangotv.in/87NeALx2OSCARMOVIESBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="PasandTV.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NFYY1.png?lock=720x540" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Pasand TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3PASANDTV/index.m3u8
-#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-language="Bhojpuri" group-title="Bhojpuri" height="576",Sangeet Bhojpuri (576p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/349/master.m3u8
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s143757_ld_h15_aa.png?lock=720x540" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Sangeet Bhojpuri (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBiharJharkhand.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230Y44.png?lock=720x540" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Zee Bihar Jharkhand (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in@SD" x-category="news" tvg-logo="https://i.imgur.com/Es3QiVx.png" tvg-language="Chhattisgarhi" group-title="Chhattisgarhi" height="576",INH 24x7 (576p)
@@ -742,8 +742,6 @@ https://fta.ektv.in/live/623/master.m3u8
 https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="PrimeNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/RQoDzpN.png" tvg-language="Hindi" group-title="Hindi" height="1080",Prime News (1080p)
 https://stream.ottlive.co.in/primenews/index.m3u8
-#EXTINF:-1 tvg-id="PublicFirst.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" tvg-language="Hindi" group-title="Hindi" height="576",Public First (576p)
-https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="QTV.in@SD" x-category="entertainment" tvg-logo="https://www.theq.tv/wp-content/uploads/2023/10/The-Q-new-Logo.png" tvg-language="Hindi" group-title="Hindi" height="720",Q TV (576p)
 https://samitaorigin.tangotv.in/THEQ/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-logo="https://i.imgur.com/05B5USY.png" tvg-language="Hindi" group-title="Hindi" height="720",Raftaar Media (576p)
@@ -1519,8 +1517,6 @@ https://fta.ektv.in/live/678/master.m3u8
 https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" x-category="music" tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/etvimages/etvbeats/LG/Logowithtransparentbackground400%C3%97200.png" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Beats (1080p)
 https://jmp2.uk/stvp-IN4900002RV
-#EXTINF:-1 tvg-id="ETVCinema.in@SD" x-category="movies" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png" tvg-language="Telugu" group-title="Telugu" height="396",ETV Cinema (396p)
-https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ETVComedy.in@HD" x-category="comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Comedy.png" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVJosh.in@HD" x-category="entertainment" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ETV_Josh.png" tvg-language="Telugu" group-title="Telugu" height="1080",ETV Josh (1080p)
