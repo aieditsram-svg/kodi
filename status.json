@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11 23:32 UTC",
-  "fingerprint": "a832685cc3d91db10fc48b8b577ca346",
-  "total": 1736,
-  "working": 1479,
-  "in_grace_period": 5,
-  "dead": 257,
-  "hd_channels": 594,
+  "updated_at": "2026-11-12 00:25 UTC",
+  "fingerprint": "ce027f2516468d7fb7208e720e11b0ad",
+  "total": 1838,
+  "working": 1589,
+  "in_grace_period": 9,
+  "dead": 249,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
-      "total": 40,
-      "working": 34,
-      "hd": 12
+      "total": 42,
+      "working": 36,
+      "hd": 13
     },
     "Bengali": {
-      "total": 121,
-      "working": 88,
-      "hd": 42
+      "total": 125,
+      "working": 93,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 31,
+      "working": 30,
       "hd": 12
     },
     "Chhattisgarhi": {
@@ -28,24 +28,24 @@
       "hd": 0
     },
     "English": {
-      "total": 141,
-      "working": 117,
+      "total": 144,
+      "working": 125,
       "hd": 49
     },
     "Gujarati": {
-      "total": 36,
-      "working": 33,
-      "hd": 15
+      "total": 47,
+      "working": 44,
+      "hd": 19
     },
     "Hindi": {
-      "total": 717,
-      "working": 595,
-      "hd": 218
+      "total": 747,
+      "working": 632,
+      "hd": 227
     },
     "Kannada": {
-      "total": 71,
-      "working": 53,
-      "hd": 24
+      "total": 76,
+      "working": 59,
+      "hd": 25
     },
     "Konkani": {
       "total": 3,
@@ -53,14 +53,14 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 114,
-      "working": 89,
-      "hd": 32
+      "total": 117,
+      "working": 93,
+      "hd": 33
     },
     "Marathi": {
-      "total": 51,
-      "working": 41,
-      "hd": 18
+      "total": 52,
+      "working": 43,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
@@ -68,38 +68,38 @@
       "hd": 3
     },
     "Odia": {
-      "total": 34,
-      "working": 26,
-      "hd": 10
-    },
-    "Other": {
-      "total": 22,
-      "working": 19,
+      "total": 35,
+      "working": 27,
       "hd": 11
     },
+    "Other": {
+      "total": 24,
+      "working": 21,
+      "hd": 12
+    },
     "Punjabi": {
-      "total": 144,
-      "working": 133,
-      "hd": 53
+      "total": 165,
+      "working": 154,
+      "hd": 57
     },
     "Santali": {
-      "total": 1,
-      "working": 1,
+      "total": 2,
+      "working": 2,
       "hd": 1
     },
     "Tamil": {
       "total": 174,
-      "working": 137,
-      "hd": 68
+      "working": 144,
+      "hd": 70
     },
     "Telugu": {
-      "total": 168,
-      "working": 134,
-      "hd": 55
+      "total": 172,
+      "working": 140,
+      "hd": 57
     },
     "Urdu": {
-      "total": 18,
-      "working": 17,
+      "total": 21,
+      "working": 20,
       "hd": 6
     }
   },
@@ -385,11 +385,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Disney Channel HD (1080p)",
-      "url": "http://66.102.126.10:8000/play/a013/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -448,6 +443,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -690,6 +690,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -830,11 +835,6 @@
       "reason": "URLError"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -923,6 +923,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bhojpuri (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1245,33 +1250,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Hungama TV (576p)",
-      "url": "http://103.135.253.32:8080/HUNGAMA/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "National Geographic HD (1080p)",
-      "url": "http://103.135.253.32:8080/NATGEO-HD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Movies Now + (1080p)",
-      "url": "http://103.135.253.32:8080/MN-PLUS/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Movies Now HD (1080p)",
-      "url": "http://103.135.253.32:8080/MOVIES-NOW/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Movies HD (1080p)",
-      "url": "http://103.135.253.32:8080/STAR-MOVIES/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1295,18 +1275,8 @@
       "reason": "URLError"
     },
     {
-      "name": "Colors Cineplex HD (1080p)",
-      "url": "http://103.135.253.32:8080/COLOR-CINEPLEX/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "StarPlus HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-PLUS/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Gold HD (1080p)",
-      "url": "http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1322,11 +1292,6 @@
     {
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Zee Cinema HD (1080p)",
-      "url": "http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1355,18 +1320,8 @@
       "reason": "URLError"
     },
     {
-      "name": "&pictures HD (1080p)",
-      "url": "http://103.135.253.32:8080/PICTURE-HD/index.m3u8",
-      "reason": "URLError"
-    },
-    {
       "name": "B4U Movies (1080p)",
       "url": "http://103.135.253.32:8080/B4U-MOVIES/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Sony Max HD (1080p)",
-      "url": "http://103.135.253.32:8080/Sony-Max-HD/index.m3u8",
       "reason": "URLError"
     },
     {
@@ -1378,6 +1333,11 @@
       "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Raj Pariwar (576p)",
+      "url": "https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
