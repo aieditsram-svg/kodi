@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 20:22 UTC",
-  "fingerprint": "d1aa6efca9b50e5dee4de9908f588149",
+  "updated_at": "2026-11-12 21:14 UTC",
+  "fingerprint": "d48ea8fcec9e95ad828b11f75ea6146b",
   "total": 1838,
   "working": 1589,
-  "in_grace_period": 34,
+  "in_grace_period": 33,
   "dead": 249,
-  "hd_channels": 620,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 125,
-      "working": 93,
+      "working": 94,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 630,
-      "hd": 225
+      "working": 629,
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -855,6 +855,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -1020,11 +1025,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
       "reason": "URLError"
@@ -1132,7 +1132,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "Valam TV Dayro (576p)",
