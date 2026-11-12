@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 09:43 UTC",
-  "fingerprint": "7f3ab8ed2b8952a4ff91ffcaf8ba8082",
+  "updated_at": "2026-11-12 10:44 UTC",
+  "fingerprint": "59c7fd7dbb4713c2fd41c1cb26e88593",
   "total": 1838,
-  "working": 1587,
-  "in_grace_period": 7,
-  "dead": 251,
-  "hd_channels": 623,
+  "working": 1586,
+  "in_grace_period": 9,
+  "dead": 252,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
-      "hd": 227
+      "working": 630,
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -1233,6 +1233,11 @@
       "name": "Zee Horror Nights (1080p)",
       "url": "https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Zee News (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlZEENEWS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee South Flix (1080p)",
