@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 15:42 UTC",
-  "fingerprint": "c062940d954dbec4e5407701dbf6a9aa",
+  "updated_at": "2026-11-12 16:43 UTC",
+  "fingerprint": "cc7f20b273962d42901421c172f3141b",
   "total": 1838,
-  "working": 1591,
-  "in_grace_period": 14,
-  "dead": 247,
-  "hd_channels": 624,
+  "working": 1586,
+  "in_grace_period": 9,
+  "dead": 252,
+  "hd_channels": 622,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
-      "hd": 228
+      "working": 627,
+      "hd": 226
     },
     "Kannada": {
       "total": 76,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 154,
+      "working": 153,
       "hd": 56
     },
     "Santali": {
@@ -158,6 +158,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AmarUjala (1080p)",
@@ -355,6 +360,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Sports (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Tripura (576p)",
       "url": "https://fta.ektv.in/live/661/master.m3u8",
       "reason": "HTTP 404"
@@ -483,6 +493,11 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Fast1 (576p)",
+      "url": "https://samitaorigin.tangotv.in/FAST1/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "First India News (576p)",
@@ -860,6 +875,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1118,6 +1138,11 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "UP NOW (720p)",
+      "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Valam TV Dayro (576p)",
