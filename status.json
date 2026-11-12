@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-12 19:29 UTC",
-  "fingerprint": "62e3eeec3512f3f0f7d181c7ff706f20",
+  "updated_at": "2026-11-12 20:22 UTC",
+  "fingerprint": "d1aa6efca9b50e5dee4de9908f588149",
   "total": 1838,
-  "working": 1588,
-  "in_grace_period": 8,
-  "dead": 250,
+  "working": 1589,
+  "in_grace_period": 34,
+  "dead": 249,
   "hd_channels": 620,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 631,
+      "working": 630,
       "hd": 225
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 165,
-      "working": 152,
+      "working": 153,
       "hd": 56
     },
     "Santali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 141,
       "hd": 67
     },
     "Telugu": {
@@ -123,11 +123,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -192,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1237,11 +1237,6 @@
     {
       "name": "Zee South Flix (1080p)",
       "url": "https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
-      "name": "Zee Tamil (576p) [Geo-blocked]",
-      "url": "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd",
       "reason": "HTTP 403"
     },
     {
