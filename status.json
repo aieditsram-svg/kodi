@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 10:44 UTC",
-  "fingerprint": "59c7fd7dbb4713c2fd41c1cb26e88593",
+  "updated_at": "2026-11-12 11:41 UTC",
+  "fingerprint": "06fb3f6a3dbac858a474975d82f927b7",
   "total": 1838,
-  "working": 1586,
+  "working": 1588,
   "in_grace_period": 9,
-  "dead": 252,
-  "hd_channels": 622,
+  "dead": 250,
+  "hd_channels": 625,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 630,
-      "hd": 226
+      "working": 631,
+      "hd": 228
     },
     "Kannada": {
       "total": 76,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 139,
-      "hd": 56
+      "working": 140,
+      "hd": 57
     },
     "Urdu": {
       "total": 21,
@@ -187,11 +187,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -575,11 +570,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Hindu Dharmam (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -750,6 +740,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -857,11 +852,6 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Public First (576p)",
-      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
