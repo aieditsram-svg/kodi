@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-12 13:55 UTC",
-  "fingerprint": "000954eed680be5afafbd02586ae582f",
+  "updated_at": "2026-11-12 14:48 UTC",
+  "fingerprint": "de9008ad3ce1911ef9279dee628d84e2",
   "total": 1838,
-  "working": 1589,
-  "in_grace_period": 8,
-  "dead": 249,
-  "hd_channels": 625,
+  "working": 1591,
+  "in_grace_period": 13,
+  "dead": 247,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 747,
-      "working": 629,
-      "hd": 228
+      "working": 631,
+      "hd": 227
     },
     "Kannada": {
       "total": 76,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 165,
       "working": 154,
-      "hd": 57
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -187,6 +187,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -670,11 +675,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -735,11 +735,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -772,11 +767,6 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
       "reason": "HTTP 404"
     },
     {
