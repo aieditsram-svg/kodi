@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, all languages, updated 2026-11-12 23:25 UTC
+# Working channels, all languages, updated 2026-11-13 00:09 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -1309,7 +1309,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/in
 https://fta.ektv.in/live/309/master.m3u8
 #EXTINF:-1 tvg-id="IBC24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="720",IBC 24 (576p)
 https://mumt05.tangotv.in/87NeALx2IBC24/index.m3u8
-#EXTINF:-1 tvg-id="IBC24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",IBC 24 (576p)
+#EXTINF:-1 tvg-id="IBC24.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143156_ld_h6_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",IBC 24 (576p)
 https://ott-prasar.ibc24.in/livestream.m3u8
 #EXTINF:-1 tvg-id="Ind24.in@SD" x-category="news" tvg-logo="https://i.imgur.com/exRpVmL.png" tvg-language="Hindi" group-title="Hindi" height="576",Ind 24 (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1575,8 +1575,6 @@ https://d1msejlow1t3l4.cloudfront.net/fta/news1india/playlist.m3u8
 https://fta.ektv.in/live/102/102_0.m3u8
 #EXTINF:-1 tvg-id="News1India.in@SD" x-category="news" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-language="Hindi" group-title="Hindi" height="720",News 1 India (576p)
 https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
-#EXTINF:-1 tvg-id="News1India.in@SD" x-category="news" tvg-logo="https://i.imgur.com/J3EWn2J.png" tvg-language="Hindi" group-title="Hindi" height="576",News 1 India (576p)
-https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
 #EXTINF:-1 tvg-id="News11.in@SD" x-category="general" tvg-logo="https://i.imgur.com/brLsWXU.png" tvg-language="Hindi" group-title="Hindi" height="396",News 11 (396p)
 https://d1msejlow1t3l4.cloudfront.net/fta/news11bharat/playlist.m3u8
 #EXTINF:-1 tvg-id="News11.in@SD" x-category="general" tvg-logo="https://i.imgur.com/brLsWXU.png" tvg-language="Hindi" group-title="Hindi" height="576",News 11 (576p)
@@ -1709,7 +1707,7 @@ https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
 #EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/170/master.m3u8
-#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="1080",Peace of Mind TV (576p)
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV (576p)
 https://mumbai-edge.smartplaytv.in/PeaceOfMind/index.m3u8
 #EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" x-category="religious" tvg-logo="https://dtil.tmsimg.com/assets/s143646_ld_h15_aa.png?lock=720x540" tvg-language="Hindi" group-title="Hindi" height="576",Peace of Mind TV (576p)
 https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
@@ -2628,8 +2626,6 @@ https://fta.ektv.in/live/178/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn39XTASHAN/index.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="720",9X Tashan (576p)
 https://streams.tangotv.in/9XTASHAN/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",9X Tashan (576p)
-https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="576",9X Tashan (576p)
 https://yupplivegcp2.yuppcdn.net/28072023/smil:9xtashan.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ABPSanjha.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png" tvg-language="Punjabi" group-title="Punjabi" height="576",ABP Sanjha (576p)
