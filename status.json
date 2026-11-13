@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13 02:16 UTC",
-  "fingerprint": "afb7875a96d3288d6eef05d1123ada38",
+  "updated_at": "2026-11-13 03:07 UTC",
+  "fingerprint": "a5a0f9e27d4b8a844c0c6bb6fd0419cb",
   "total": 1850,
-  "working": 1566,
-  "in_grace_period": 9,
-  "dead": 284,
+  "working": 1568,
+  "in_grace_period": 3,
+  "dead": 282,
   "hd_channels": 624,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 92,
+      "working": 93,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 631,
+      "working": 632,
       "hd": 228
     },
     "Kannada": {
@@ -780,11 +780,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -855,8 +850,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1080,11 +1075,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1297,7 +1287,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
