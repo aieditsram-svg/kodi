@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 00:09 UTC",
-  "fingerprint": "6ac05cbc7a3a57187df554cfafa9a090",
-  "total": 1838,
-  "working": 1557,
-  "in_grace_period": 17,
-  "dead": 281,
-  "hd_channels": 619,
+  "updated_at": "2026-11-13 01:16 UTC",
+  "fingerprint": "225bc414394c37c475239e7230a45556",
+  "total": 1850,
+  "working": 1554,
+  "in_grace_period": 3,
+  "dead": 296,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -13,9 +13,9 @@
       "hd": 13
     },
     "Bengali": {
-      "total": 125,
-      "working": 92,
-      "hd": 43
+      "total": 126,
+      "working": 85,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -28,9 +28,9 @@
       "hd": 0
     },
     "English": {
-      "total": 144,
-      "working": 123,
-      "hd": 50
+      "total": 145,
+      "working": 121,
+      "hd": 48
     },
     "Gujarati": {
       "total": 47,
@@ -38,14 +38,14 @@
       "hd": 20
     },
     "Hindi": {
-      "total": 747,
-      "working": 627,
+      "total": 754,
+      "working": 629,
       "hd": 225
     },
     "Kannada": {
-      "total": 76,
-      "working": 58,
-      "hd": 25
+      "total": 77,
+      "working": 59,
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -78,8 +78,8 @@
       "hd": 12
     },
     "Punjabi": {
-      "total": 165,
-      "working": 151,
+      "total": 166,
+      "working": 152,
       "hd": 56
     },
     "Santali": {
@@ -93,13 +93,13 @@
       "hd": 67
     },
     "Telugu": {
-      "total": 172,
-      "working": 130,
+      "total": 173,
+      "working": 131,
       "hd": 56
     },
     "Urdu": {
-      "total": 21,
-      "working": 20,
+      "total": 22,
+      "working": 21,
       "hd": 6
     }
   },
@@ -157,7 +157,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -210,6 +210,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Asianet Middle East (576p)",
       "url": "https://fta.ektv.in/live/697/master.m3u8",
       "reason": "HTTP 404"
@@ -232,7 +237,7 @@
     {
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Awakening TV (576p)",
@@ -625,6 +630,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -647,6 +657,11 @@
     {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "HSTV (720p)",
+      "url": "https://live.castmaxcloud.com/live/hstv.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -882,7 +897,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -992,6 +1007,11 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1165,9 +1185,14 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Sports Select 2 HD (720p)",
       "url": "http://tvsen7.aynascope.net/ssport2hd/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "StarPlus HD (1080p)",
@@ -1480,8 +1505,58 @@
       "reason": "URLError"
     },
     {
+      "name": "Colors HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Colors Bangla Cinema (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Colors-bangla-cinema/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Eurosport HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Enterr 10 Bangla (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Enterr10bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Jalsha Movies (720p)",
+      "url": "https://livetv.shamon-cable.net:8443/Jalsha-Movies/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Zee Bangla HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/ZEE-Bangla/index.m3u8",
+      "reason": "URLError"
+    },
+    {
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Sony Aath (576p)",
+      "url": "https://livetv.shamon-cable.net:8443/Sony-8/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "StarPlus HD (1080p)",
+      "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
     },
     {

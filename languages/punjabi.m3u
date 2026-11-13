@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Punjabi channels, updated 2026-11-13 00:09 UTC
+# Working Punjabi channels, updated 2026-11-13 01:16 UTC
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",9X Tashan (1080p)
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in@SD" x-category="music" tvg-logo="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png?lock=720x540" tvg-language="Punjabi" group-title="Punjabi" height="1080",9X Tashan (1080p)
@@ -283,6 +283,8 @@ https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 https://stream.ottlive.co.in/spokesman/index.m3u8
 #EXTINF:-1 tvg-id="RozanaSpokesman.in@SD" x-category="news" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" tvg-language="Punjabi" group-title="Punjabi" height="1080",Rozana Spokesman (1080p)
 https://livingindiaottlive.akamaized.net/spokesman/index.m3u8
+#EXTINF:-1 tvg-id="RozanaSpokesman.in@SD" x-category="news" tvg-logo="https://www.rozanaspokesman.in/images/logospokesman.png" tvg-language="Punjabi" group-title="Punjabi" height="1080",Rozana Spokesman (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3db47599-d666-4cfd-93a1-f424aa0f444f/index.m3u8
 #EXTINF:-1 tvg-id="Saang.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Saang_TV.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Saang (720p)
 https://samitaorigin.tangotv.in/SAANGTV/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="SADATV.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/cXPzpGp/SADA-CHANNEL-HBN-global-Punjabi-Satellite-TV.png" tvg-language="Punjabi" group-title="Punjabi" height="1080",Sada TV (1080p) [Not 24/7]
