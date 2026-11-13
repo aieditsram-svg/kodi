@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 08:02 UTC",
-  "fingerprint": "66a6d56e5edf6ee285d964e0f4aef020",
+  "updated_at": "2026-11-13 08:58 UTC",
+  "fingerprint": "1d6f4292886d67802fe266952046ccbc",
   "total": 1850,
-  "working": 1570,
-  "in_grace_period": 26,
-  "dead": 280,
-  "hd_channels": 624,
+  "working": 1568,
+  "in_grace_period": 21,
+  "dead": 282,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 94,
+      "working": 93,
       "hd": 44
     },
     "Bhojpuri": {
@@ -30,16 +30,16 @@
     "English": {
       "total": 145,
       "working": 123,
-      "hd": 50
+      "hd": 51
     },
     "Gujarati": {
       "total": 47,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
+      "working": 631,
       "hd": 228
     },
     "Kannada": {
@@ -740,6 +740,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -848,6 +853,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
