@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-13 20:52 UTC",
-  "fingerprint": "20a490d0955b5a55f497501e07a89b87",
+  "updated_at": "2026-11-13 21:34 UTC",
+  "fingerprint": "c101ab64f928dc08b42019f2bf995f8f",
   "total": 1850,
-  "working": 1589,
-  "in_grace_period": 5,
-  "dead": 261,
+  "working": 1590,
+  "in_grace_period": 9,
+  "dead": 260,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -34,12 +34,12 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 43,
       "hd": 20
     },
     "Hindi": {
       "total": 754,
-      "working": 635,
+      "working": 637,
       "hd": 229
     },
     "Kannada": {
@@ -187,11 +187,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -540,6 +535,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "GS TV (576p)",
+      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "GTC News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGTCNEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -743,11 +743,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
