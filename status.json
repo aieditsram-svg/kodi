@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 04:54 UTC",
-  "fingerprint": "3911c599ef5c594b6764694bc33d4afa",
+  "updated_at": "2026-11-13 05:49 UTC",
+  "fingerprint": "2cdee312df76699ef05ef7b839819b43",
   "total": 1850,
-  "working": 1571,
-  "in_grace_period": 15,
-  "dead": 279,
-  "hd_channels": 624,
+  "working": 1567,
+  "in_grace_period": 7,
+  "dead": 283,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 94,
+      "working": 93,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 754,
-      "working": 632,
+      "working": 631,
       "hd": 227
     },
     "Kannada": {
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 154,
-      "hd": 57
+      "working": 152,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -317,6 +317,11 @@
     {
       "name": "Chardikla Time TV (576p)",
       "url": "https://fta.ektv.in/live/645/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Chintpurni Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -770,6 +775,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -870,14 +880,14 @@
       "reason": "URLError"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News Nation (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWSNATION/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News Nation 81 (1080p)",
-      "url": "https://live.newsnation81.com/newsnation81/newsnation81/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "NewsX (720p)",
@@ -1065,6 +1075,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1225,6 +1240,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
@@ -1272,7 +1292,7 @@
     {
       "name": "UP NOW (720p)",
       "url": "http://45.122.122.61:8080/UPNOW/video.m3u8",
-      "reason": "TimeoutError"
+      "reason": "URLError"
     },
     {
       "name": "V6 News (576p)",
