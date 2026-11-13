@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-13 15:30 UTC",
-  "fingerprint": "72e4558c64570296c9a7c32c683f411b",
+  "updated_at": "2026-11-13 16:27 UTC",
+  "fingerprint": "439021d5a41abbd68528a59cccc4f73b",
   "total": 1850,
-  "working": 1599,
-  "in_grace_period": 9,
-  "dead": 251,
-  "hd_channels": 626,
+  "working": 1598,
+  "in_grace_period": 14,
+  "dead": 252,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 126,
-      "working": 94,
+      "working": 93,
       "hd": 44
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 754,
       "working": 638,
-      "hd": 229
+      "hd": 230
     },
     "Kannada": {
       "total": 77,
@@ -750,11 +750,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -865,6 +860,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
@@ -938,6 +938,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1032,7 +1037,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Sports Select 2 HD (720p)",
