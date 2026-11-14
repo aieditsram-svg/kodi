@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-14 18:17 UTC",
-  "fingerprint": "dc49b374bb766dd24e04b73237012841",
+  "updated_at": "2026-11-14 19:08 UTC",
+  "fingerprint": "ce49d88b62daa3390a748c4502e46e9f",
   "total": 1844,
-  "working": 1590,
+  "working": 1591,
   "in_grace_period": 3,
-  "dead": 254,
+  "dead": 253,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 91,
+      "working": 92,
       "hd": 43
     },
     "Bhojpuri": {
@@ -760,6 +760,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -1048,11 +1053,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
@@ -1348,11 +1348,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
