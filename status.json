@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 12:54 UTC",
-  "fingerprint": "aa18b5a68badedb3c7e2ee95e0fc227e",
+  "updated_at": "2026-11-14 13:42 UTC",
+  "fingerprint": "9a4918e4a44e349822121d4bb6fce665",
   "total": 1844,
-  "working": 1592,
-  "in_grace_period": 19,
-  "dead": 252,
-  "hd_channels": 622,
+  "working": 1593,
+  "in_grace_period": 27,
+  "dead": 251,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -34,18 +34,18 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
-      "hd": 21
+      "working": 45,
+      "hd": 20
     },
     "Hindi": {
       "total": 751,
       "working": 633,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
       "working": 60,
-      "hd": 25
+      "hd": 26
     },
     "Konkani": {
       "total": 3,
@@ -80,7 +80,7 @@
     "Punjabi": {
       "total": 166,
       "working": 154,
-      "hd": 56
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -90,7 +90,7 @@
     "Tamil": {
       "total": 174,
       "working": 140,
-      "hd": 66
+      "hd": 67
     },
     "Telugu": {
       "total": 173,
@@ -170,6 +170,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -197,11 +202,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -827,7 +827,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1153,11 +1153,6 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "TV13 Gujarati (480p)",
-      "url": "https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8",
-      "reason": "empty HLS manifest"
     },
     {
       "name": "Valam TV Dayro (576p)",
