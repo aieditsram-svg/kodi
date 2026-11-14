@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 10:11 UTC",
-  "fingerprint": "ea6ef59ce35a176e78010360d49ab2f2",
+  "updated_at": "2026-11-14 10:53 UTC",
+  "fingerprint": "23c02e9bd8651d0b54a67fd544a2f2ef",
   "total": 1844,
-  "working": 1596,
-  "in_grace_period": 9,
-  "dead": 248,
-  "hd_channels": 626,
+  "working": 1601,
+  "in_grace_period": 17,
+  "dead": 243,
+  "hd_channels": 627,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 90,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 635,
+      "working": 639,
       "hd": 229
     },
     "Kannada": {
       "total": 77,
-      "working": 60,
+      "working": 61,
       "hd": 26
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 96,
-      "hd": 34
+      "working": 98,
+      "hd": 35
     },
     "Marathi": {
       "total": 52,
-      "working": 43,
+      "working": 44,
       "hd": 19
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 141,
       "hd": 67
     },
     "Telugu": {
       "total": 173,
-      "working": 142,
+      "working": 143,
       "hd": 56
     },
     "Urdu": {
@@ -160,11 +160,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -177,17 +172,12 @@
     {
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Andy Haryana (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Anjan TV (720p)",
-      "url": "https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "Anmol TV (576p)",
@@ -690,11 +680,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "URLError"
@@ -820,11 +805,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -872,7 +852,7 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1065,14 +1045,9 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Sun TV HD (1080p)",
       "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 400"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1082,7 +1057,7 @@
     {
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "URLError"
     },
     {
       "name": "Swadesh News (576p)",
