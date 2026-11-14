@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 19:47 UTC",
-  "fingerprint": "90b5037faf2aeede5b890c69893c2919",
+  "updated_at": "2026-11-14 20:21 UTC",
+  "fingerprint": "5ce2bd4b4809d19fbb81831c315ce305",
   "total": 1844,
-  "working": 1592,
-  "in_grace_period": 7,
-  "dead": 252,
-  "hd_channels": 621,
+  "working": 1590,
+  "in_grace_period": 3,
+  "dead": 254,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 91,
+      "working": 90,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 634,
-      "hd": 226
+      "working": 633,
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -203,6 +203,11 @@
       "name": "Assam Talks (576p)",
       "url": "http://tvsen7.aynascope.net/AssamTalks/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Awaaz India TV (720p) [Not 24/7]",
+      "url": "https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Awakening TV (576p)",
@@ -675,6 +680,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Khushboo Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -827,7 +837,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",

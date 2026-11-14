@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, all languages, updated 2026-11-14 19:47 UTC
+# Working channels, all languages, updated 2026-11-14 20:21 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -158,8 +158,6 @@ https://jtbsclassic.dpdns.org/live.m3u8
 https://fta.ektv.in/live/375/master.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="720",Khushboo Bangla (576p)
 https://mumt01.tangotv.in/O5aw8Zn3KHUSHBOOTVBANGLA/index.m3u8
-#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" x-category="entertainment" tvg-logo="https://dtil.tmsimg.com/assets/s143265_ld_h9_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="576",Khushboo Bangla (576p) [Geo-blocked]
-https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Kolkata TV (1080p)
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 tvg-id="KolkataTV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540" tvg-language="Bengali" group-title="Bengali" height="1080",Kolkata TV (1080p)
@@ -908,8 +906,6 @@ https://fta.ektv.in/live/449/master.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:astrotech.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ATNSamachar.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ATN_Samachar.png" tvg-language="Hindi" group-title="Hindi" height="1080",ATN Samachar (1080p)
 https://newsliveindia.com:4433/atn/index.m3u8
-#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" x-category="news" tvg-logo="https://i.imgur.com/eKQs51V.png" tvg-language="Hindi" group-title="Hindi" height="720",Awaaz India TV (720p) [Not 24/7]
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="AwakeningTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/p26iWOi.png" tvg-language="Hindi" group-title="Hindi" height="576",Awakening TV (576p)
 https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="AwakeningTV.in@SD" x-category="religious" tvg-logo="https://i.imgur.com/p26iWOi.png" tvg-language="Hindi" group-title="Hindi" height="576",Awakening TV (576p)
