@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 09:23 UTC",
-  "fingerprint": "122bb26740aaea19c9746d5f5e6dbfd4",
+  "updated_at": "2026-11-14 10:11 UTC",
+  "fingerprint": "ea6ef59ce35a176e78010360d49ab2f2",
   "total": 1844,
   "working": 1596,
-  "in_grace_period": 4,
+  "in_grace_period": 9,
   "dead": 248,
-  "hd_channels": 627,
+  "hd_channels": 626,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -35,7 +35,7 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 21
+      "hd": 20
     },
     "Hindi": {
       "total": 751,
