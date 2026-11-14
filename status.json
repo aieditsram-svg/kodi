@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 19:08 UTC",
-  "fingerprint": "ce49d88b62daa3390a748c4502e46e9f",
+  "updated_at": "2026-11-14 19:47 UTC",
+  "fingerprint": "90b5037faf2aeede5b890c69893c2919",
   "total": 1844,
-  "working": 1591,
-  "in_grace_period": 3,
-  "dead": 253,
-  "hd_channels": 622,
+  "working": 1592,
+  "in_grace_period": 7,
+  "dead": 252,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 92,
+      "working": 91,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 751,
-      "working": 633,
-      "hd": 227
+      "working": 634,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 173,
-      "working": 140,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -445,11 +445,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -760,11 +755,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1 India (576p)",
       "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
@@ -963,6 +953,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
