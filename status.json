@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-14 15:10 UTC",
-  "fingerprint": "54239d82f1d1f715df7d297a87236a10",
+  "updated_at": "2026-11-14 15:49 UTC",
+  "fingerprint": "6d6b79a0b51966ff07774fb90d610fc6",
   "total": 1844,
-  "working": 1580,
-  "in_grace_period": 8,
-  "dead": 264,
-  "hd_channels": 619,
+  "working": 1582,
+  "in_grace_period": 15,
+  "dead": 262,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -35,11 +35,11 @@
     "Gujarati": {
       "total": 47,
       "working": 45,
-      "hd": 21
+      "hd": 19
     },
     "Hindi": {
       "total": 751,
-      "working": 629,
+      "working": 631,
       "hd": 225
     },
     "Kannada": {
@@ -165,11 +165,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AmarUjala (1080p)",
       "url": "https://amarujala.ottlive.co.in/amarujala/index.m3u8",
       "reason": "HTTP 404"
@@ -197,6 +192,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -765,11 +765,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -837,7 +832,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 403"
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1057,7 +1052,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 403"
+      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
@@ -1397,11 +1392,6 @@
     {
       "name": "Goldmines (576p)",
       "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
     },
     {
