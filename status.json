@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 00:58 UTC",
-  "fingerprint": "b1938335723616805cde830a1605b1f7",
+  "updated_at": "2026-11-15 01:59 UTC",
+  "fingerprint": "818ab1b1c3045bfccc4ed3d1955fb46e",
   "total": 1840,
-  "working": 1587,
-  "in_grace_period": 7,
-  "dead": 253,
-  "hd_channels": 618,
+  "working": 1588,
+  "in_grace_period": 4,
+  "dead": 252,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 632,
-      "hd": 227
+      "working": 634,
+      "hd": 226
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 141,
+      "working": 140,
       "hd": 56
     },
     "Urdu": {
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -428,6 +428,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -767,7 +772,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -863,11 +868,6 @@
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Raftaar Media (240p)",
-      "url": "https://6n3yorwpy9ok-hls-live.5centscdn.com/raftaarmedia/243bd1ce0387f18005abfc43b001646a.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Raj Digital Plus (1080p)",
@@ -1343,11 +1343,6 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
