@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-15 19:21 UTC",
-  "fingerprint": "79a18815c91f6371ee6ac17d19816115",
+  "updated_at": "2026-11-15 19:59 UTC",
+  "fingerprint": "538d1e2d4988f67586355986523517f5",
   "total": 1840,
-  "working": 1587,
-  "in_grace_period": 9,
-  "dead": 253,
+  "working": 1585,
+  "in_grace_period": 17,
+  "dead": 255,
   "hd_channels": 614,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 83,
       "hd": 39
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 639,
-      "hd": 223
+      "working": 638,
+      "hd": 224
     },
     "Kannada": {
       "total": 77,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 172,
       "working": 139,
-      "hd": 56
+      "hd": 55
     },
     "Urdu": {
       "total": 22,
@@ -192,6 +192,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Aryan TV National (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -550,11 +555,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "HNN 24x7 (576p)",
-      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hosanna TV Hindi (720p)",
       "url": "https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8",
       "reason": "HTTP 404"
@@ -663,6 +663,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -918,6 +923,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
