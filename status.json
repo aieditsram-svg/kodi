@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 08:28 UTC",
-  "fingerprint": "512529c7c5b62ef648ffe59fb27f6ecb",
+  "updated_at": "2026-11-15 09:17 UTC",
+  "fingerprint": "d17ec5ab2daa9e0c19025eab60d21f56",
   "total": 1840,
-  "working": 1588,
-  "in_grace_period": 7,
-  "dead": 252,
-  "hd_channels": 622,
+  "working": 1592,
+  "in_grace_period": 8,
+  "dead": 248,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 88,
+      "working": 90,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 634,
-      "hd": 227
+      "working": 637,
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 142,
+      "working": 141,
       "hd": 56
     },
     "Urdu": {
@@ -152,7 +152,7 @@
     {
       "name": "Aakaash Aath (576p)",
       "url": "http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Aakaash Aath (576p)",
@@ -187,11 +187,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Aryan TV National (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4ARYANTVNATIONAL/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -418,6 +413,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -735,11 +735,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -767,12 +762,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Nation (576p)",
@@ -940,11 +930,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -1028,11 +1013,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
