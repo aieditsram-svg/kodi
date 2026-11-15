@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 09:17 UTC",
-  "fingerprint": "d17ec5ab2daa9e0c19025eab60d21f56",
+  "updated_at": "2026-11-15 10:06 UTC",
+  "fingerprint": "db77d5c6f3d40bc8db2b7387ee381f23",
   "total": 1840,
-  "working": 1592,
-  "in_grace_period": 8,
-  "dead": 248,
-  "hd_channels": 623,
+  "working": 1590,
+  "in_grace_period": 12,
+  "dead": 250,
+  "hd_channels": 621,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 90,
+      "working": 89,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 637,
-      "hd": 228
+      "working": 636,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
-      "working": 61,
+      "working": 60,
       "hd": 26
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 97,
-      "hd": 35
+      "working": 95,
+      "hd": 34
     },
     "Marathi": {
       "total": 52,
-      "working": 44,
+      "working": 43,
       "hd": 19
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 140,
       "hd": 67
     },
     "Telugu": {
       "total": 172,
-      "working": 141,
+      "working": 140,
       "hd": 56
     },
     "Urdu": {
@@ -292,12 +292,12 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
       "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -800,6 +800,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1045,6 +1050,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Sun TV HD (1080p)",
       "url": "https://d2px1d6ssc60fw.cloudfront.net/SunTV/SunTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
@@ -1068,11 +1078,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Tabbar Hits (576p)",
@@ -1313,6 +1318,11 @@
       "name": "Sony Yay! (576p)",
       "url": "https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
