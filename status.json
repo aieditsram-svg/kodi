@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-15 12:56 UTC",
-  "fingerprint": "fafbf1aa9f57a227f65c6aef578e1920",
+  "updated_at": "2026-11-15 13:45 UTC",
+  "fingerprint": "99c93b1d6394dff983b81faa8c6df41b",
   "total": 1840,
-  "working": 1581,
-  "in_grace_period": 11,
-  "dead": 259,
+  "working": 1585,
+  "in_grace_period": 9,
+  "dead": 255,
   "hd_channels": 619,
   "languages": {
     "Assamese": {
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 42,
+      "working": 44,
       "hd": 20
     },
     "Hindi": {
       "total": 750,
-      "working": 635,
-      "hd": 226
+      "working": 637,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 150,
-      "hd": 56
+      "working": 148,
+      "hd": 55
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 138,
+      "working": 140,
       "hd": 56
     },
     "Urdu": {
@@ -115,11 +115,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "7X Music (360p)",
-      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9X Jalwa (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
       "reason": "HTTP 403"
@@ -128,11 +123,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -260,6 +250,16 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Channel Divya (1080p)",
+      "url": "https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Channel Divya (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -283,11 +283,6 @@
       "name": "CVR English (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCVRNEWSENGLISH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "CVR News (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "Dangal 2 (576p)",
@@ -415,11 +410,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -525,8 +515,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Hare Krsna TV (1080p)",
-      "url": "https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd",
+      "name": "Hare Krsna TV (720p)",
+      "url": "https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hktv/HKTV/HKWebApp/playlist.m3u8",
       "reason": "HTTP 504"
     },
     {
@@ -665,11 +655,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -728,11 +713,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -830,6 +810,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Pitaara (720p)",
+      "url": "https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8",
+      "reason": "HTTP 504"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -862,11 +847,6 @@
     {
       "name": "Punjabi Beats HD (720p)",
       "url": "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1346,6 +1326,11 @@
     },
     {
       "name": "Pitaara Comedy (1080p)",
+      "url": "https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "Pitaara Comedy (1080p)",
       "url": "https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8",
       "reason": "TimeoutError"
     },
@@ -1353,6 +1338,11 @@
       "name": "Pitaara Comedy (1080p)",
       "url": "https://pitaara-lg.vgcdn.net/v1/vglive-sk-217489/playlist.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Pitaara Comedy (1080p)",
+      "url": "https://vg-pitaaratvyupp.akamaized.net/ptnr-yupptv/title-Pitaara_Comedy/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-343626/playlist.m3u8",
+      "reason": "HTTP 504"
     },
     {
       "name": "Shemaroo TV (576p)",
@@ -1372,16 +1362,6 @@
     {
       "name": "Prime9 News (1080p)",
       "url": "https://stream.ottlive.co.in/prime9news/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shri Shyam TV (1080p)",
-      "url": "https://7xshreeshyam.akamaized.net/shreeshyamtv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shri Shyam TV (1080p)",
-      "url": "https://cloudcdn.in/live/shreeshyamtv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
