@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 21:18 UTC",
-  "fingerprint": "2a92b5b47006ae07a2017192bfdc0149",
+  "updated_at": "2026-11-15 21:57 UTC",
+  "fingerprint": "bf73333a27bd7ce1cba4ca31360e19a5",
   "total": 1840,
-  "working": 1586,
-  "in_grace_period": 2,
-  "dead": 254,
-  "hd_channels": 617,
+  "working": 1589,
+  "in_grace_period": 4,
+  "dead": 251,
+  "hd_channels": 619,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 638,
-      "hd": 226
+      "working": 640,
+      "hd": 227
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 155,
-      "hd": 56
+      "working": 156,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -260,11 +260,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Chintpurni Live (720p)",
-      "url": "https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
       "reason": "HTTP 403"
@@ -317,11 +312,6 @@
     {
       "name": "DD Punjabi (576p)",
       "url": "https://fta.ektv.in/live/177/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "DD Sports (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -617,11 +607,6 @@
     {
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Kabaddi 24x7 (720p)",
-      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {

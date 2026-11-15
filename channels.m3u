@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, all languages, updated 2026-11-15 21:18 UTC
+# Working channels, all languages, updated 2026-11-15 21:57 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -1131,6 +1131,8 @@ https://mumbai-edge.smartplaytv.in/ddrajasthan/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Hindi" group-title="Hindi" height="576",DD Sports (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/64/64_0.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Hindi" group-title="Hindi" height="720",DD Sports (576p)
+https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Hindi" group-title="Hindi" height="1080",DD Sports (720p)
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Hindi" group-title="Hindi" height="1080",DD Sports HD (1080p)
@@ -1408,6 +1410,8 @@ https://samitaorigin.tangotv.in/JKL24X7NEWS/SAMITAORIGIN/index.m3u8
 https://fta.ektv.in/live/100/100_0.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in@SD" x-category="news" tvg-logo="https://i.imgur.com/LeBL7ML.png" tvg-language="Hindi" group-title="Hindi" height="720",K News India (576p)
 https://mumt07.tangotv.in/zHjX9OFlKNEWSINDIA/index.m3u8
+#EXTINF:-1 tvg-id="Kabaddi24x7.in@SD" x-category="sports" tvg-logo="https://papaji.freetvindia.com/media/kabaddi_24x7.png" tvg-language="Hindi" group-title="Hindi" height="720",Kabaddi 24x7 (720p)
+https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="Kadak.in@SD" x-category="news" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kadak.png" tvg-language="Hindi" group-title="Hindi" height="1080",Kadak (1080p)
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="KashishNews.in@SD" x-category="news" tvg-logo="https://i.imgur.com/qfINs2r.png" tvg-language="Hindi" group-title="Hindi" height="576",Kashish News (576p)
@@ -2709,6 +2713,8 @@ https://d1msejlow1t3l4.cloudfront.net/211125/chardiklatv/playlist.m3u8
 https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8
 #EXTINF:-1 tvg-id="ChardiklaTimeTVNorthAmerica.in@SD" x-category="news" tvg-logo="https://i.imgur.com/IUeMFey.jpg" tvg-language="Punjabi" group-title="Punjabi" height="1080",Chardikla Time TV North America (1080p)
 https://chardiklatimestvna.akamaized.net/chardiklatimetvna/master.m3u8
+#EXTINF:-1 tvg-id="ChintpurniLive.in@SD" x-category="religious" tvg-logo="https://papaji.freetvindia.com/media/Chintpurni_Live.png" tvg-language="Punjabi" group-title="Punjabi" height="720",Chintpurni Live (720p)
+https://samitaorigin.tangotv.in/CHINTPURNILIVE/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="D5ChannelPunjabi.in@SD" x-category="news" tvg-logo="https://play-lh.googleusercontent.com/8zcsR5HWFk84RwYkA6r-OXvYzFtVBOmgnicCYMGXPAmMKEozaRQ9Idw4g2dljsIvZ5ES6r8G_lxs19IU9h-ADg" tvg-language="Punjabi" group-title="Punjabi" height="1080",D5 Channel Punjabi (1080p)
 https://d5.tv360.ca:3453/live/cd5live.m3u8
 #EXTINF:-1 tvg-id="D5ChannelPunjabi.in@SD" x-category="news" tvg-logo="https://play-lh.googleusercontent.com/8zcsR5HWFk84RwYkA6r-OXvYzFtVBOmgnicCYMGXPAmMKEozaRQ9Idw4g2dljsIvZ5ES6r8G_lxs19IU9h-ADg" tvg-language="Punjabi" group-title="Punjabi" height="1080",D5 Channel Punjabi (1080p)
