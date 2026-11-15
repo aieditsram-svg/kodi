@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 18:29 UTC",
-  "fingerprint": "b2ad9842d9fa8b3ab581e0d5c926cfd8",
+  "updated_at": "2026-11-15 19:21 UTC",
+  "fingerprint": "79a18815c91f6371ee6ac17d19816115",
   "total": 1840,
-  "working": 1590,
-  "in_grace_period": 14,
-  "dead": 250,
-  "hd_channels": 618,
+  "working": 1587,
+  "in_grace_period": 9,
+  "dead": 253,
+  "hd_channels": 614,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
-      "hd": 42
+      "working": 84,
+      "hd": 39
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 750,
       "working": 639,
-      "hd": 224
+      "hd": 223
     },
     "Kannada": {
       "total": 77,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 140,
+      "working": 139,
       "hd": 56
     },
     "Urdu": {
@@ -155,6 +155,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Aamar Bangla (720p)",
+      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -168,6 +173,11 @@
       "name": "Anand Wari TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HANANDWARITV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Ananda Barta (720p)",
+      "url": "https://account19.livebox.co.in/Anandabarta2hls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Andy Haryana (576p)",
@@ -385,6 +395,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -533,6 +548,11 @@
       "name": "Hindu Dharmam (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Hindudharmam/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "HNN 24x7 (576p)",
+      "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -703,11 +723,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
