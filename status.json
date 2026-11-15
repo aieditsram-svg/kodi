@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-15 22:33 UTC",
-  "fingerprint": "e51029d6a93c56d18954ac9742086d38",
+  "updated_at": "2026-11-15 23:17 UTC",
+  "fingerprint": "2b911e980b1feb693d4bd466b048acaf",
   "total": 1840,
-  "working": 1588,
-  "in_grace_period": 4,
-  "dead": 252,
-  "hd_channels": 618,
+  "working": 1587,
+  "in_grace_period": 8,
+  "dead": 253,
+  "hd_channels": 615,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 124,
       "working": 83,
-      "hd": 39
+      "hd": 38
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 640,
-      "hd": 226
+      "working": 639,
+      "hd": 224
     },
     "Kannada": {
       "total": 77,
@@ -448,6 +448,11 @@
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Fateh TV (1080p) [Not 24/7]",
+      "url": "https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "First India News (576p)",
