@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 22:00 UTC",
-  "fingerprint": "d0ec7dceaa51c814a3d2978886fcdba2",
+  "updated_at": "2026-11-16 22:46 UTC",
+  "fingerprint": "38a25f8233030ce9536aa0ebf86e923f",
   "total": 1840,
-  "working": 1594,
-  "in_grace_period": 8,
-  "dead": 246,
-  "hd_channels": 620,
+  "working": 1591,
+  "in_grace_period": 4,
+  "dead": 249,
+  "hd_channels": 616,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 85,
       "hd": 40
     },
     "Bhojpuri": {
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 750,
-      "working": 642,
-      "hd": 227
+      "working": 641,
+      "hd": 224
     },
     "Kannada": {
       "total": 77,
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 156,
-      "hd": 57
+      "working": 155,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 172,
-      "working": 142,
+      "working": 140,
       "hd": 56
     },
     "Urdu": {
@@ -340,6 +340,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Dukhnivaran Patiala Live (720p)",
+      "url": "https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Dukhniwaran (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDUKHNIWARAN/index.m3u8",
       "reason": "HTTP 404"
@@ -380,6 +385,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -398,6 +408,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -598,6 +613,11 @@
       "name": "K News India (720p)",
       "url": "https://legitpro.co.in/knews/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Kabaddi 24x7 (720p)",
+      "url": "https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "Kairali Arabia (576p)",
@@ -893,11 +913,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
