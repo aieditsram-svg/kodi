@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-16 20:23 UTC",
-  "fingerprint": "0739032ba334f97abf2138eab804033e",
+  "updated_at": "2026-11-16 21:12 UTC",
+  "fingerprint": "92b8963a0af15386aea60ad75d488f23",
   "total": 1840,
-  "working": 1593,
-  "in_grace_period": 7,
-  "dead": 247,
-  "hd_channels": 620,
+  "working": 1594,
+  "in_grace_period": 11,
+  "dead": 246,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 84,
+      "working": 85,
       "hd": 40
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 750,
       "working": 641,
-      "hd": 227
+      "hd": 225
     },
     "Kannada": {
       "total": 77,
@@ -983,11 +983,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
