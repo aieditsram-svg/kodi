@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-16 22:46 UTC",
-  "fingerprint": "38a25f8233030ce9536aa0ebf86e923f",
+  "updated_at": "2026-11-16 23:27 UTC",
+  "fingerprint": "d3d417494134dd155bddc0231de30dea",
   "total": 1840,
-  "working": 1591,
-  "in_grace_period": 4,
-  "dead": 249,
+  "working": 1590,
+  "in_grace_period": 3,
+  "dead": 250,
   "hd_channels": 616,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 84,
       "hd": 40
     },
     "Bhojpuri": {
@@ -542,7 +542,7 @@
     {
       "name": "HNN 24x7 (576p)",
       "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Hosanna TV Hindi (720p)",
@@ -998,6 +998,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
