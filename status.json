@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-17 19:40 UTC",
-  "fingerprint": "b927d5aef526220f3626d941c8a13db0",
+  "updated_at": "2026-11-17 20:30 UTC",
+  "fingerprint": "a5dd9003fe5e577f92afcddf84ea7093",
   "total": 1827,
-  "working": 1594,
-  "in_grace_period": 12,
-  "dead": 233,
+  "working": 1593,
+  "in_grace_period": 8,
+  "dead": 234,
   "hd_channels": 624,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 741,
       "working": 638,
-      "hd": 228
+      "hd": 229
     },
     "Kannada": {
       "total": 77,
@@ -54,13 +54,13 @@
     },
     "Malayalam": {
       "total": 117,
-      "working": 97,
+      "working": 96,
       "hd": 35
     },
     "Marathi": {
       "total": 52,
       "working": 44,
-      "hd": 19
+      "hd": 18
     },
     "Nepali": {
       "total": 6,
@@ -84,7 +84,7 @@
     },
     "Santali": {
       "total": 2,
-      "working": 2,
+      "working": 1,
       "hd": 1
     },
     "Tamil": {
@@ -560,6 +560,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kanak News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
       "reason": "TimeoutError"
@@ -578,6 +583,11 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "KTV Bangla (720p)",
+      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mahaa Max (576p)",
@@ -918,11 +928,6 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Starnet (480p)",
