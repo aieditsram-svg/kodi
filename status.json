@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 11:34 UTC",
-  "fingerprint": "ba27f416a9994250385610ac50e14301",
+  "updated_at": "2026-11-17 12:29 UTC",
+  "fingerprint": "7c4f4ff26ce57cf2cfb522a463ec21e4",
   "total": 1827,
-  "working": 1586,
-  "in_grace_period": 11,
-  "dead": 241,
-  "hd_channels": 624,
+  "working": 1587,
+  "in_grace_period": 13,
+  "dead": 240,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 123,
-      "working": 83,
+      "working": 84,
       "hd": 42
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 741,
       "working": 638,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -585,11 +585,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -603,11 +598,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -692,7 +682,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -1282,6 +1272,11 @@
     {
       "name": "News India 24x7 (1080p)",
       "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
       "reason": "HTTP 404"
     },
     {
