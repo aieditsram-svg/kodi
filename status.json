@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-17 21:25 UTC",
-  "fingerprint": "2cac9725367cbcf1aed5d8f63f12f999",
+  "updated_at": "2026-11-17 22:22 UTC",
+  "fingerprint": "6f1b27939d4bc181f4a5da41f5cb47fb",
   "total": 1827,
-  "working": 1593,
-  "in_grace_period": 6,
-  "dead": 234,
+  "working": 1591,
+  "in_grace_period": 12,
+  "dead": 236,
   "hd_channels": 622,
   "languages": {
     "Assamese": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 741,
       "working": 637,
-      "hd": 227
+      "hd": 228
     },
     "Kannada": {
       "total": 77,
@@ -59,7 +59,7 @@
     },
     "Marathi": {
       "total": 52,
-      "working": 44,
+      "working": 43,
       "hd": 18
     },
     "Nepali": {
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
-      "hd": 56
+      "working": 142,
+      "hd": 55
     },
     "Urdu": {
       "total": 22,
@@ -363,6 +363,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -682,7 +687,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -758,6 +763,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Pudhari News (576p)",
+      "url": "https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
