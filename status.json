@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 13:55 UTC",
-  "fingerprint": "cc7a4acf97455dd026fc61eeaa95f53a",
+  "updated_at": "2026-11-18 14:46 UTC",
+  "fingerprint": "1952616d8a42447da0f52fc5ccaa4c33",
   "total": 1827,
-  "working": 1594,
-  "in_grace_period": 16,
-  "dead": 233,
-  "hd_channels": 622,
+  "working": 1593,
+  "in_grace_period": 12,
+  "dead": 234,
+  "hd_channels": 623,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 42
+      "working": 86,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 642,
+      "working": 641,
       "hd": 229
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 141,
       "hd": 57
     },
     "Urdu": {
@@ -218,6 +218,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -388,6 +393,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -568,11 +578,6 @@
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Jalsha Movies (1080p)",
-      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
