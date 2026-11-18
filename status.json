@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 07:51 UTC",
-  "fingerprint": "11c294a87804c87fbd8874811f81220f",
+  "updated_at": "2026-11-18 08:46 UTC",
+  "fingerprint": "960d9821734d46fac0999a369a6163c0",
   "total": 1827,
-  "working": 1588,
-  "in_grace_period": 13,
-  "dead": 239,
+  "working": 1590,
+  "in_grace_period": 16,
+  "dead": 237,
   "hd_channels": 624,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 635,
-      "hd": 230
+      "working": 636,
+      "hd": 229
     },
     "Kannada": {
       "total": 78,
-      "working": 61,
+      "working": 62,
       "hd": 27
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 96,
-      "hd": 35
+      "working": 98,
+      "hd": 36
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 142,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 142,
+      "working": 143,
       "hd": 56
     },
     "Urdu": {
@@ -810,11 +810,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1032,7 +1027,7 @@
     {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "RemoteDisconnected"
     },
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
@@ -1093,11 +1088,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
