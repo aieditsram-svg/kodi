@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 10:43 UTC",
-  "fingerprint": "64872f1bdf1755ecf0593b14c4ec97f6",
+  "updated_at": "2026-11-18 11:40 UTC",
+  "fingerprint": "87596da39286116ed1934941056ba7a1",
   "total": 1827,
-  "working": 1591,
-  "in_grace_period": 21,
-  "dead": 236,
+  "working": 1593,
+  "in_grace_period": 9,
+  "dead": 234,
   "hd_channels": 623,
   "languages": {
     "Assamese": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 638,
-      "hd": 229
+      "working": 639,
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
-      "working": 62,
+      "working": 61,
       "hd": 27
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 98,
+      "working": 97,
       "hd": 36
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
+      "working": 44,
       "hd": 20
     },
     "Nepali": {
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 36,
       "working": 28,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 140,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 144,
+      "working": 143,
       "hd": 57
     },
     "Urdu": {
@@ -143,11 +143,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -298,16 +293,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -640,11 +625,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -658,6 +638,11 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
+    },
+    {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -798,6 +783,11 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
