@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 18:30 UTC",
-  "fingerprint": "d45caa91beafc0a46a27176eaad80339",
+  "updated_at": "2026-11-18 19:33 UTC",
+  "fingerprint": "c8aea6cb2066fa49a3becd002b9fee7a",
   "total": 1827,
-  "working": 1580,
-  "in_grace_period": 12,
-  "dead": 247,
-  "hd_channels": 625,
+  "working": 1581,
+  "in_grace_period": 16,
+  "dead": 246,
+  "hd_channels": 624,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 86,
       "hd": 43
     },
     "Bhojpuri": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 743,
       "working": 629,
-      "hd": 229
+      "hd": 228
     },
     "Kannada": {
       "total": 78,
@@ -772,7 +772,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1088,11 +1088,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
