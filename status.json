@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 20:29 UTC",
-  "fingerprint": "1d60da4bcf35256fb0a3105c1eab6129",
+  "updated_at": "2026-11-18 21:25 UTC",
+  "fingerprint": "ecd6001210defada2c64f61aa4c81cc2",
   "total": 1827,
-  "working": 1575,
-  "in_grace_period": 9,
-  "dead": 252,
-  "hd_channels": 620,
+  "working": 1571,
+  "in_grace_period": 10,
+  "dead": 256,
+  "hd_channels": 618,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
+      "working": 84,
       "hd": 41
     },
     "Bhojpuri": {
@@ -39,12 +39,12 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 627,
-      "hd": 228
+      "working": 624,
+      "hd": 227
     },
     "Kannada": {
       "total": 78,
-      "working": 61,
+      "working": 60,
       "hd": 27
     },
     "Konkani": {
@@ -54,12 +54,12 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 98,
-      "hd": 36
+      "working": 96,
+      "hd": 35
     },
     "Marathi": {
       "total": 53,
-      "working": 45,
+      "working": 44,
       "hd": 20
     },
     "Nepali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 141,
+      "working": 140,
       "hd": 68
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
+      "working": 142,
       "hd": 57
     },
     "Urdu": {
@@ -330,6 +330,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Kisan (576p)",
       "url": "https://fta.ektv.in/live/148/148_0.m3u8",
       "reason": "HTTP 404"
@@ -548,6 +553,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -833,6 +843,11 @@
       "name": "Nickelodeon (576p)",
       "url": "http://202.70.146.135:8000/play/a04c/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1153,6 +1168,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
