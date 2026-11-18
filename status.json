@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-18 11:40 UTC",
-  "fingerprint": "87596da39286116ed1934941056ba7a1",
+  "updated_at": "2026-11-18 12:40 UTC",
+  "fingerprint": "024b20e7f8f8fb54d60c20c324be1dab",
   "total": 1827,
-  "working": 1593,
-  "in_grace_period": 9,
-  "dead": 234,
+  "working": 1595,
+  "in_grace_period": 19,
+  "dead": 232,
   "hd_channels": 623,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 639,
+      "working": 640,
       "hd": 228
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 174,
-      "working": 140,
+      "working": 141,
       "hd": 68
     },
     "Telugu": {
@@ -640,11 +640,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -703,11 +698,6 @@
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 7 Tamil (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kannada (1080p)",
@@ -787,7 +777,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 429"
+      "reason": "TimeoutError"
     },
     {
       "name": "NK TV 24x7 (1080p)",
