@@ -1,5 +1,5 @@
 #EXTM3U
-# All Telugu channels found, updated 2026-11-18 21:25 UTC
+# All Telugu channels found, updated 2026-11-18 22:18 UTC
 #EXTINF:-1 tvg-id="10TV.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142495_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",10 TV (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/686/master.m3u8
@@ -316,7 +316,7 @@ https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453
 https://streams2.sofast.tv/ptnr-khabriya/title-TOLLY-TV-TEL_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9bb55dff-7a74-43aa-bcf7-ea537e8b9e92/manifest.m3u8
 #EXTINF:-1 tvg-id="TV5News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144025_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",TV5 News (576p)
 https://cdn.pishow.tv/ott/live/387/master.m3u8
-#EXTINF:-1 tvg-id="TV5News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144025_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="1080",TV5 News (576p)
+#EXTINF:-1 tvg-id="TV5News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144025_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="576",TV5 News (576p)
 https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8
 #EXTINF:-1 tvg-id="TV5News.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s144025_ld_h15_aa.png?lock=720x540" tvg-language="Telugu" group-title="Telugu" height="720",TV5 News (576p)
 https://mumt07.tangotv.in/zHjX9OFlTV5NEWS/index.m3u8
