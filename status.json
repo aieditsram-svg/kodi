@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-17 23:17 UTC",
-  "fingerprint": "cc19c0156a0ebddd42b3fa90a10fb802",
+  "updated_at": "2026-11-18 00:06 UTC",
+  "fingerprint": "3f3010c27137512724eca10f3be5f606",
   "total": 1827,
-  "working": 1589,
-  "in_grace_period": 8,
-  "dead": 238,
-  "hd_channels": 621,
+  "working": 1586,
+  "in_grace_period": 5,
+  "dead": 241,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 741,
-      "working": 636,
+      "working": 634,
       "hd": 227
     },
     "Kannada": {
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 141,
-      "hd": 56
+      "working": 140,
+      "hd": 55
     },
     "Urdu": {
       "total": 22,
@@ -605,6 +605,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -658,6 +663,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -978,6 +988,11 @@
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "SVBC (720p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "SVBC 2 (576p)",
