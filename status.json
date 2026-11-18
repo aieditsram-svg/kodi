@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-18 08:46 UTC",
-  "fingerprint": "960d9821734d46fac0999a369a6163c0",
+  "updated_at": "2026-11-18 09:43 UTC",
+  "fingerprint": "e1ee64588c5fbc8f3bb422eb527f5371",
   "total": 1827,
   "working": 1590,
   "in_grace_period": 16,
@@ -29,17 +29,17 @@
     },
     "English": {
       "total": 144,
-      "working": 126,
+      "working": 125,
       "hd": 49
     },
     "Gujarati": {
       "total": 47,
-      "working": 45,
-      "hd": 21
+      "working": 44,
+      "hd": 20
     },
     "Hindi": {
       "total": 743,
-      "working": 636,
+      "working": 637,
       "hd": 229
     },
     "Kannada": {
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 171,
-      "working": 143,
-      "hd": 56
+      "working": 144,
+      "hd": 57
     },
     "Urdu": {
       "total": 22,
@@ -104,11 +104,6 @@
     }
   },
   "dead_channels": [
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
-      "reason": "HTTP 404"
-    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -233,11 +228,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (576p)",
@@ -547,6 +537,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1027,7 +1022,7 @@
     {
       "name": "Sony Pal (576p)",
       "url": "http://59.103.38.46:8000/play/a0ac/index.m3u8",
-      "reason": "RemoteDisconnected"
+      "reason": "HTTP 403"
     },
     {
       "name": "Sony Wah (1080p) [Geo-blocked]",
@@ -1183,6 +1178,11 @@
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "VR Live (720p)",
+      "url": "https://channel.vrlivegujarat.com/hls/vrchannel.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "VTU (1080p)",
