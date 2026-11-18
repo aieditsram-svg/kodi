@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-18 19:33 UTC",
-  "fingerprint": "c8aea6cb2066fa49a3becd002b9fee7a",
+  "updated_at": "2026-11-18 20:29 UTC",
+  "fingerprint": "1d60da4bcf35256fb0a3105c1eab6129",
   "total": 1827,
-  "working": 1581,
-  "in_grace_period": 16,
-  "dead": 246,
-  "hd_channels": 624,
+  "working": 1575,
+  "in_grace_period": 9,
+  "dead": 252,
+  "hd_channels": 620,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
-      "hd": 43
+      "working": 85,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 629,
+      "working": 627,
       "hd": 228
     },
     "Kannada": {
@@ -79,8 +79,8 @@
     },
     "Punjabi": {
       "total": 164,
-      "working": 156,
-      "hd": 57
+      "working": 153,
+      "hd": 55
     },
     "Santali": {
       "total": 2,
@@ -178,6 +178,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -772,7 +777,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -845,6 +850,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Padharo SA (720p)",
+      "url": "https://samitaorigin.tangotv.in/PADHAROSA/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -882,6 +892,21 @@
     {
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "Punjabi Music HD (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (720p)",
+      "url": "https://samitaorigin.tangotv.in/PUNJABITV/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Punjabi TV (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlPUNJABITV/index.m3u8",
       "reason": "TimeoutError"
     },
     {
@@ -1248,6 +1273,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
