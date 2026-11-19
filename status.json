@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-19 01:06 UTC",
-  "fingerprint": "548b080858b88e0ddbc0c202690333d8",
+  "updated_at": "2026-11-19 02:18 UTC",
+  "fingerprint": "f44005a8a3ab7e54fd5c8a66213dfbe0",
   "total": 1827,
-  "working": 1566,
-  "in_grace_period": 10,
-  "dead": 261,
+  "working": 1567,
+  "in_grace_period": 15,
+  "dead": 260,
   "hd_channels": 617,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 743,
-      "working": 622,
+      "working": 623,
       "hd": 226
     },
     "Kannada": {
@@ -300,6 +300,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -403,11 +408,6 @@
       "name": "Dharsan TV (720p)",
       "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dheeran TV (576p)",
-      "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Dhool TV (576p)",
@@ -708,11 +708,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
