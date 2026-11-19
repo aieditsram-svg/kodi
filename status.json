@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-19 14:51 UTC",
-  "fingerprint": "b6a15232d567d492a022a8c462ffbece",
+  "updated_at": "2026-11-19 15:44 UTC",
+  "fingerprint": "db632e4e40655dddd077d8b596760ab6",
   "total": 1870,
   "working": 1634,
-  "in_grace_period": 13,
+  "in_grace_period": 57,
   "dead": 236,
-  "hd_channels": 642,
+  "hd_channels": 617,
   "languages": {
     "Assamese": {
       "total": 40,
       "working": 36,
-      "hd": 13
+      "hd": 10
     },
     "Bengali": {
       "total": 124,
-      "working": 85,
-      "hd": 43
+      "working": 86,
+      "hd": 41
     },
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 13
+      "hd": 12
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -29,18 +29,18 @@
     },
     "English": {
       "total": 145,
-      "working": 127,
-      "hd": 51
+      "working": 126,
+      "hd": 50
     },
     "Gujarati": {
       "total": 48,
       "working": 45,
-      "hd": 21
+      "hd": 20
     },
     "Hindi": {
       "total": 757,
-      "working": 651,
-      "hd": 235
+      "working": 652,
+      "hd": 222
     },
     "Kannada": {
       "total": 78,
@@ -59,18 +59,18 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 44,
-      "hd": 19
+      "working": 43,
+      "hd": 18
     },
     "Nepali": {
       "total": 6,
       "working": 6,
-      "hd": 3
+      "hd": 2
     },
     "Odia": {
       "total": 36,
       "working": 28,
-      "hd": 12
+      "hd": 11
     },
     "Other": {
       "total": 24,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 157,
+      "working": 158,
       "hd": 58
     },
     "Santali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 145,
-      "hd": 72
+      "working": 144,
+      "hd": 71
     },
     "Telugu": {
       "total": 195,
-      "working": 167,
+      "working": 166,
       "hd": 64
     },
     "Urdu": {
@@ -118,11 +118,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -310,11 +305,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -430,6 +420,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -458,6 +453,11 @@
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Fakt Marathi (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "FashionTV (576p)",
@@ -490,11 +490,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -513,11 +508,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -568,6 +558,11 @@
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "IBC 24 (576p)",
+      "url": "https://ott-prasar.ibc24.in/livestream.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "India News (576p)",
@@ -645,11 +640,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Khushboo Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/mzwbzfZ4/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
@@ -723,6 +713,11 @@
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "News 7 Tamil (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News18 Kannada (1080p)",
@@ -918,6 +913,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
