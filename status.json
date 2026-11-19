@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 21:28 UTC",
-  "fingerprint": "489db48f89a29da7fc2da92c6aa7c771",
+  "updated_at": "2026-11-19 22:21 UTC",
+  "fingerprint": "eaba2a8f0c2f93ad96c9f13506bc77e6",
   "total": 1870,
   "working": 1633,
-  "in_grace_period": 9,
+  "in_grace_period": 14,
   "dead": 237,
-  "hd_channels": 639,
+  "hd_channels": 638,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 195,
       "working": 166,
-      "hd": 64
+      "hd": 63
     },
     "Urdu": {
       "total": 22,
@@ -403,6 +403,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -742,7 +747,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1037,11 +1042,6 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
-      "reason": "URLError"
-    },
-    {
-      "name": "Star Sports 2 Telugu HD (576p)",
-      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "reason": "URLError"
     },
     {
