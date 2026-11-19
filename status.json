@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 11:39 UTC",
-  "fingerprint": "3ba58952b31aa4cf292bc187dd1eb4ae",
+  "updated_at": "2026-11-19 12:41 UTC",
+  "fingerprint": "a173a8660432e4e9f8c5b67b8100a8c5",
   "total": 1870,
-  "working": 1631,
-  "in_grace_period": 8,
-  "dead": 239,
-  "hd_channels": 642,
+  "working": 1630,
+  "in_grace_period": 10,
+  "dead": 240,
+  "hd_channels": 643,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 652,
+      "working": 650,
       "hd": 236
     },
     "Kannada": {
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 118,
-      "working": 95,
-      "hd": 34
+      "working": 96,
+      "hd": 35
     },
     "Marathi": {
       "total": 53,
@@ -248,11 +248,6 @@
       "name": "Cartoon Network HD+ (1080p)",
       "url": "http://103.135.253.32:8080/CN-NETWORK/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "CCV (480p)",
-      "url": "https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Chintpurni Live (360p)",
@@ -500,6 +495,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -518,6 +518,11 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
