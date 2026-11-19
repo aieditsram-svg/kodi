@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-19 19:44 UTC",
-  "fingerprint": "dbc02896ae63f17e6d8844ff62310825",
+  "updated_at": "2026-11-19 20:37 UTC",
+  "fingerprint": "fb5ae369ca5141a94727f37496a99f49",
   "total": 1870,
   "working": 1632,
-  "in_grace_period": 12,
+  "in_grace_period": 6,
   "dead": 238,
   "hd_channels": 640,
   "languages": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 87,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 145,
-      "working": 126,
+      "working": 125,
       "hd": 50
     },
     "Gujarati": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 157,
+      "working": 158,
       "hd": 58
     },
     "Santali": {
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 146,
+      "working": 145,
       "hd": 72
     },
     "Telugu": {
       "total": 195,
-      "working": 168,
+      "working": 167,
       "hd": 64
     },
     "Urdu": {
@@ -118,11 +118,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -313,11 +308,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -695,6 +685,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Movies Now HD (576p)",
+      "url": "http://27.124.71.27/Movies_Now/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "MTV (576p)",
       "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 403"
@@ -723,6 +718,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -843,6 +843,11 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Prime9 News (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Public First (576p)",
@@ -1033,11 +1038,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
