@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-19 15:44 UTC",
-  "fingerprint": "db632e4e40655dddd077d8b596760ab6",
+  "updated_at": "2026-11-19 16:48 UTC",
+  "fingerprint": "dd8bdc28730c31264a26c57dc1e7ed92",
   "total": 1870,
-  "working": 1634,
-  "in_grace_period": 57,
-  "dead": 236,
-  "hd_channels": 617,
+  "working": 1637,
+  "in_grace_period": 16,
+  "dead": 233,
+  "hd_channels": 640,
   "languages": {
     "Assamese": {
       "total": 40,
       "working": 36,
-      "hd": 10
+      "hd": 13
     },
     "Bengali": {
       "total": 124,
       "working": 86,
-      "hd": 41
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
       "working": 31,
-      "hd": 12
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 3,
@@ -35,12 +35,12 @@
     "Gujarati": {
       "total": 48,
       "working": 45,
-      "hd": 20
+      "hd": 21
     },
     "Hindi": {
       "total": 757,
       "working": 652,
-      "hd": 222
+      "hd": 234
     },
     "Kannada": {
       "total": 78,
@@ -59,18 +59,18 @@
     },
     "Marathi": {
       "total": 53,
-      "working": 43,
-      "hd": 18
+      "working": 44,
+      "hd": 19
     },
     "Nepali": {
       "total": 6,
       "working": 6,
-      "hd": 2
+      "hd": 3
     },
     "Odia": {
       "total": 36,
       "working": 28,
-      "hd": 11
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -89,12 +89,12 @@
     },
     "Tamil": {
       "total": 175,
-      "working": 144,
-      "hd": 71
+      "working": 145,
+      "hd": 72
     },
     "Telugu": {
       "total": 195,
-      "working": 166,
+      "working": 167,
       "hd": 64
     },
     "Urdu": {
@@ -420,11 +420,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -453,11 +448,6 @@
       "name": "Eurosport HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Fakt Marathi (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "FashionTV (576p)",
@@ -558,11 +548,6 @@
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "IBC 24 (576p)",
-      "url": "https://ott-prasar.ibc24.in/livestream.m3u8",
-      "reason": "URLError"
     },
     {
       "name": "India News (576p)",
@@ -715,11 +700,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 7 Tamil (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWS7TAMIL/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News18 Kannada (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8",
       "reason": "HTTP 404"
@@ -842,6 +822,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
