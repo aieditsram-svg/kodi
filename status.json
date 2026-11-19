@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 22:21 UTC",
-  "fingerprint": "eaba2a8f0c2f93ad96c9f13506bc77e6",
+  "updated_at": "2026-11-19 23:09 UTC",
+  "fingerprint": "80cd4e62d1602e5b5b1896158ea24e97",
   "total": 1870,
-  "working": 1633,
-  "in_grace_period": 14,
-  "dead": 237,
-  "hd_channels": 638,
+  "working": 1629,
+  "in_grace_period": 8,
+  "dead": 241,
+  "hd_channels": 637,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 652,
-      "hd": 232
+      "working": 648,
+      "hd": 230
     },
     "Kannada": {
       "total": 78,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 166,
-      "working": 158,
+      "working": 157,
       "hd": 58
     },
     "Santali": {
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 166,
-      "hd": 63
+      "working": 167,
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -403,11 +403,6 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -747,7 +742,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1105,6 +1100,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Tabbar Hits (576p)",
+      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
@@ -1148,6 +1148,26 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 Bharat (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "TV7 Bharat (576p)",
+      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "TV7 National (1080p)",
+      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Valam TV Dayro (576p)",
