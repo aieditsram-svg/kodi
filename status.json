@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 20:37 UTC",
-  "fingerprint": "fb5ae369ca5141a94727f37496a99f49",
+  "updated_at": "2026-11-19 21:28 UTC",
+  "fingerprint": "489db48f89a29da7fc2da92c6aa7c771",
   "total": 1870,
-  "working": 1632,
-  "in_grace_period": 6,
-  "dead": 238,
-  "hd_channels": 640,
+  "working": 1633,
+  "in_grace_period": 9,
+  "dead": 237,
+  "hd_channels": 639,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 124,
       "working": 87,
-      "hd": 43
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 650,
+      "working": 652,
       "hd": 232
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 195,
-      "working": 167,
+      "working": 166,
       "hd": 64
     },
     "Urdu": {
@@ -485,11 +485,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -718,11 +713,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1047,6 +1037,11 @@
     {
       "name": "Star Jalsha HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8",
+      "reason": "URLError"
+    },
+    {
+      "name": "Star Sports 2 Telugu HD (576p)",
+      "url": "https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8",
       "reason": "URLError"
     },
     {
