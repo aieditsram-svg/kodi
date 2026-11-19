@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 02:18 UTC",
-  "fingerprint": "f44005a8a3ab7e54fd5c8a66213dfbe0",
-  "total": 1827,
-  "working": 1567,
-  "in_grace_period": 15,
-  "dead": 260,
-  "hd_channels": 617,
+  "updated_at": "2026-11-19 03:13 UTC",
+  "fingerprint": "c7ab6a080304e7a40d91aaf36696c476",
+  "total": 1870,
+  "working": 1607,
+  "in_grace_period": 14,
+  "dead": 263,
+  "hd_channels": 634,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -28,19 +28,19 @@
       "hd": 0
     },
     "English": {
-      "total": 144,
-      "working": 122,
-      "hd": 50
+      "total": 145,
+      "working": 123,
+      "hd": 51
     },
     "Gujarati": {
-      "total": 47,
-      "working": 44,
-      "hd": 20
+      "total": 48,
+      "working": 45,
+      "hd": 21
     },
     "Hindi": {
-      "total": 743,
-      "working": 623,
-      "hd": 226
+      "total": 757,
+      "working": 634,
+      "hd": 233
     },
     "Kannada": {
       "total": 78,
@@ -55,7 +55,7 @@
     "Malayalam": {
       "total": 118,
       "working": 95,
-      "hd": 35
+      "hd": 34
     },
     "Marathi": {
       "total": 53,
@@ -78,9 +78,9 @@
       "hd": 12
     },
     "Punjabi": {
-      "total": 164,
-      "working": 153,
-      "hd": 55
+      "total": 166,
+      "working": 155,
+      "hd": 56
     },
     "Santali": {
       "total": 2,
@@ -88,14 +88,14 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 174,
+      "total": 175,
       "working": 140,
-      "hd": 68
+      "hd": 69
     },
     "Telugu": {
-      "total": 171,
-      "working": 141,
-      "hd": 57
+      "total": 195,
+      "working": 166,
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -220,6 +220,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Bhakti Play (1080p)",
+      "url": "https://onetakemedia.vgcdn.net/vglive-sk-548610/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
@@ -298,6 +303,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Dangal TV (576p)",
@@ -478,11 +488,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -670,6 +675,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Joy TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/JoyTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
@@ -792,7 +802,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1077,6 +1087,11 @@
     {
       "name": "Shubhsandesh TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Sikh Ratnavali (1080p)",
+      "url": "https://livetv.kableone.com/hls/live/2111218/SikhRatnavali/master.m3u8",
       "reason": "HTTP 403"
     },
     {
