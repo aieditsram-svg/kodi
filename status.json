@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 13:58 UTC",
-  "fingerprint": "9d5b29b9656feb9967b5106ac4e5e2ec",
+  "updated_at": "2026-11-19 14:51 UTC",
+  "fingerprint": "b6a15232d567d492a022a8c462ffbece",
   "total": 1870,
-  "working": 1630,
+  "working": 1634,
   "in_grace_period": 13,
-  "dead": 240,
-  "hd_channels": 643,
+  "dead": 236,
+  "hd_channels": 642,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 145,
-      "working": 126,
-      "hd": 50
+      "working": 127,
+      "hd": 51
     },
     "Gujarati": {
       "total": 48,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 647,
-      "hd": 236
+      "working": 651,
+      "hd": 235
     },
     "Kannada": {
       "total": 78,
@@ -74,8 +74,8 @@
     },
     "Other": {
       "total": 24,
-      "working": 21,
-      "hd": 12
+      "working": 20,
+      "hd": 11
     },
     "Punjabi": {
       "total": 166,
@@ -148,11 +148,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -550,11 +545,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -673,11 +663,6 @@
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
       "reason": "HTTP 400"
-    },
-    {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Mastiii (576p) [Geo-blocked]",
@@ -868,11 +853,6 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1116,11 +1096,6 @@
     },
     {
       "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Taaza TV (576p)",
       "url": "https://tvsen7.aynaott.com/TaazaTV/index.m3u8",
       "reason": "HTTP 403"
     },
@@ -1162,6 +1137,11 @@
     {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
       "url": "https://deltatesttatasky.akamaized.net/out/i/968284.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
+      "name": "Travelxp Russia (1080p)",
+      "url": "http://stream.mcquack.net/451/index.m3u8",
       "reason": "HTTP 403"
     },
     {
