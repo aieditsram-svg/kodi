@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-19 16:48 UTC",
-  "fingerprint": "dd8bdc28730c31264a26c57dc1e7ed92",
+  "updated_at": "2026-11-19 17:42 UTC",
+  "fingerprint": "ed98097ce6955b6d2f3527903b6971e7",
   "total": 1870,
-  "working": 1637,
-  "in_grace_period": 16,
-  "dead": 233,
-  "hd_channels": 640,
+  "working": 1638,
+  "in_grace_period": 13,
+  "dead": 232,
+  "hd_channels": 641,
   "languages": {
     "Assamese": {
       "total": 40,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 124,
-      "working": 86,
+      "working": 85,
       "hd": 43
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 145,
-      "working": 126,
+      "working": 127,
       "hd": 50
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 757,
-      "working": 652,
+      "working": 654,
       "hd": 234
     },
     "Kannada": {
@@ -60,7 +60,7 @@
     "Marathi": {
       "total": 53,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -298,11 +298,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -827,7 +822,7 @@
     {
       "name": "Public First (576p)",
       "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "TimeoutError"
     },
     {
       "name": "Public Music (576p)",
@@ -898,11 +893,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1013,6 +1003,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
