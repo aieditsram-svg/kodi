@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 03:35 UTC",
-  "fingerprint": "c76551b9e09aa36fea925eeef8bc1e96",
+  "updated_at": "2026-11-20 04:37 UTC",
+  "fingerprint": "ba7ac0877c96fbc7c87ff54216c9151a",
   "total": 1895,
-  "working": 1649,
-  "in_grace_period": 14,
-  "dead": 246,
-  "hd_channels": 652,
+  "working": 1650,
+  "in_grace_period": 12,
+  "dead": 245,
+  "hd_channels": 653,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 88,
-      "hd": 44
+      "working": 89,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 144,
+      "working": 145,
       "hd": 62
     },
     "Gujarati": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 663,
+      "working": 662,
       "hd": 244
     },
     "Kannada": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 156,
+      "working": 157,
       "hd": 81
     },
     "Telugu": {
@@ -138,6 +138,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -312,6 +317,11 @@
     {
       "name": "Dangal 2 (576p)",
       "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -690,6 +700,16 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Mercy TV (1080p)",
+      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Mercy TV (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
@@ -698,11 +718,6 @@
       "name": "MH One Movies (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Movies Now HD (576p)",
-      "url": "http://27.124.71.27/Movies_Now/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "MTV (576p)",
@@ -733,6 +748,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -975,11 +995,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shiksha TV (720p)",
-      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
-      "reason": "empty HLS manifest"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1178,26 +1193,6 @@
       "name": "TV5 Kannada (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 Bharat (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/797fcff8-10d6-4c9c-a409-8d0c4fa5c8dd/index.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
-      "name": "TV7 Bharat (576p)",
-      "url": "https://stream.ottlive.co.in/tv7bharat/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 National (1080p)",
-      "url": "https://stream.ottlive.co.in/tv7national/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "TV7 National (1080p)",
-      "url": "https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/05ceedc9-7ebd-4417-ba99-654f805a6b9a/index.m3u8",
-      "reason": "HTTP 503"
     },
     {
       "name": "Valam TV Dayro (576p)",
