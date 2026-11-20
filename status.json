@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-20 00:38 UTC",
-  "fingerprint": "7a4cdd12b2066ba7115fd64fbac246fc",
+  "updated_at": "2026-11-20 01:53 UTC",
+  "fingerprint": "91492702b10a7e02045af88f58437bb3",
   "total": 1895,
-  "working": 1651,
-  "in_grace_period": 9,
-  "dead": 244,
-  "hd_channels": 650,
+  "working": 1653,
+  "in_grace_period": 16,
+  "dead": 242,
+  "hd_channels": 653,
   "languages": {
     "Assamese": {
       "total": 42,
       "working": 38,
-      "hd": 12
+      "hd": 13
     },
     "Bengali": {
       "total": 129,
       "working": 89,
-      "hd": 43
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 33,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 666,
-      "hd": 243
+      "hd": 244
     },
     "Kannada": {
       "total": 83,
@@ -64,8 +64,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 5,
-      "hd": 2
+      "working": 6,
+      "hd": 3
     },
     "Odia": {
       "total": 36,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 158,
+      "working": 159,
       "hd": 58
     },
     "Santali": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 173,
+      "working": 174,
       "hd": 70
     },
     "Urdu": {
@@ -133,11 +133,6 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aamar Bangla (720p)",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -655,6 +650,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -838,11 +838,6 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Prime9 News (1080p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Public First (576p)",
@@ -1040,6 +1035,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1112,11 +1112,6 @@
     {
       "name": "Tabbar Hits (576p)",
       "url": "https://fta.ektv.in/live/179/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Tabbar Hits (576p)",
-      "url": "https://streams.tangotv.in/TABBARHITS/ORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1203,11 +1198,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision Beats (720p)",
-      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
