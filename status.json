@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 19:41 UTC",
-  "fingerprint": "344191c125105741dd1924f3fb11a12a",
+  "updated_at": "2026-11-20 20:29 UTC",
+  "fingerprint": "e4659ad730d78e0fe21dee015ea22fa4",
   "total": 1895,
-  "working": 1658,
-  "in_grace_period": 14,
-  "dead": 237,
-  "hd_channels": 653,
+  "working": 1656,
+  "in_grace_period": 9,
+  "dead": 239,
+  "hd_channels": 652,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 90,
-      "hd": 44
+      "working": 89,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 670,
+      "working": 669,
       "hd": 245
     },
     "Kannada": {
@@ -510,6 +510,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
@@ -578,6 +583,11 @@
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Jalsha Movies (1080p)",
+      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
