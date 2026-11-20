@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 06:41 UTC",
-  "fingerprint": "c147c2512767c96205817e1c22d61cee",
+  "updated_at": "2026-11-20 07:58 UTC",
+  "fingerprint": "785d2306635f60dad0359d139d3eff09",
   "total": 1895,
-  "working": 1648,
-  "in_grace_period": 9,
-  "dead": 247,
-  "hd_channels": 654,
+  "working": 1652,
+  "in_grace_period": 7,
+  "dead": 243,
+  "hd_channels": 656,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 661,
-      "hd": 244
+      "working": 665,
+      "hd": 246
     },
     "Kannada": {
       "total": 83,
@@ -222,11 +222,6 @@
     {
       "name": "Bhakti Play (1080p)",
       "url": "https://onetakemedia.vgcdn.net/vglive-sk-548610/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Bharat AtoZ (720p)",
-      "url": "https://live.ekamraott.com/4tv/bharata2z/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -705,16 +700,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Mercy TV (1080p)",
-      "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Mercy TV (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mercy TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8",
       "reason": "HTTP 403"
@@ -753,11 +738,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
