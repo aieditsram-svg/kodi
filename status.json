@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 04:37 UTC",
-  "fingerprint": "ba7ac0877c96fbc7c87ff54216c9151a",
+  "updated_at": "2026-11-20 05:40 UTC",
+  "fingerprint": "04d992c8412c5374a1721de8cd0764ed",
   "total": 1895,
-  "working": 1650,
-  "in_grace_period": 12,
-  "dead": 245,
-  "hd_channels": 653,
+  "working": 1646,
+  "in_grace_period": 9,
+  "dead": 249,
+  "hd_channels": 651,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 89,
+      "working": 88,
       "hd": 45
     },
     "Bhojpuri": {
@@ -34,13 +34,13 @@
     },
     "Gujarati": {
       "total": 48,
-      "working": 45,
-      "hd": 21
+      "working": 44,
+      "hd": 20
     },
     "Hindi": {
       "total": 774,
-      "working": 662,
-      "hd": 244
+      "working": 660,
+      "hd": 243
     },
     "Kannada": {
       "total": 83,
@@ -500,6 +500,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -865,6 +870,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -958,6 +968,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1063,6 +1078,11 @@
       "name": "Spondon (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "SRK TV (1080p)",
+      "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Star Bharat HD (1080p)",
