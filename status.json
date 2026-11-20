@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-20 07:58 UTC",
-  "fingerprint": "785d2306635f60dad0359d139d3eff09",
+  "updated_at": "2026-11-20 08:57 UTC",
+  "fingerprint": "c094c9f5e0db2cd77bbc5cef13656a89",
   "total": 1895,
   "working": 1652,
-  "in_grace_period": 7,
+  "in_grace_period": 8,
   "dead": 243,
   "hd_channels": 656,
   "languages": {
@@ -19,7 +19,7 @@
     },
     "Bhojpuri": {
       "total": 33,
-      "working": 30,
+      "working": 31,
       "hd": 13
     },
     "Chhattisgarhi": {
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 101,
+      "working": 100,
       "hd": 39
     },
     "Marathi": {
@@ -228,11 +228,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bhojpuri Cinema (576p)",
-      "url": "https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -688,6 +683,11 @@
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Mathrubhumi News (240p)",
+      "url": "https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Mazhavil Manorama (576p)",

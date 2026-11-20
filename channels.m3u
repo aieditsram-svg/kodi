@@ -1,5 +1,5 @@
 #EXTM3U
-# Working channels, all languages, updated 2026-11-20 07:58 UTC
+# Working channels, all languages, updated 2026-11-20 08:57 UTC
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
 https://cdn.pishow.tv/ott/live/258/master.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" tvg-language="Assamese" group-title="Assamese" height="576",Assam Talks (576p)
@@ -292,6 +292,8 @@ https://cdn.pishow.tv/ott/live/1033/master.m3u8
 https://fta.ektv.in/live/646/master.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Bhojpuri Cinema (576p)
 https://mumt05.tangotv.in/87NeALx2BHOJPURICINEMA/index.m3u8
+#EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Bhojpuri Cinema (576p)
+https://streams.tangotv.in/BHOJPURICINEMA/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" x-category="movies" tvg-logo="https://dtil.tmsimg.com/assets/s142713_ld_h15_aa.png?lock=720x540" tvg-language="Bhojpuri" group-title="Bhojpuri" height="720",Bhojpuri Cinema (720p)
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" x-category="sports" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_SPORTS_HD/images/LOGO_HD/LOGO_HD_image.png" tvg-language="Bhojpuri" group-title="Bhojpuri" height="1080",DD Sports (720p)
@@ -2479,8 +2481,6 @@ https://segment.yuppcdn.net/240122/manoramanews/playlist.m3u8
 https://streams.tangotv.in/MANORAMANEWSNORTH/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="ManoramaNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s159016_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Manorama News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/manoramanews_nim_https/240122/manoramanews/playlist.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143309_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="240",Mathrubhumi News (240p)
-https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143309_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="720",Mathrubhumi News (576p)
 https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="MathrubhumiNews.in@SD" x-category="news" tvg-logo="https://dtil.tmsimg.com/assets/s143309_ld_h15_aa.png?lock=720x540" tvg-language="Malayalam" group-title="Malayalam" height="576",Mathrubhumi News (576p) [Not 24/7]
