@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 17:41 UTC",
-  "fingerprint": "4f3b7251b1a0b48899b3b13501384c77",
+  "updated_at": "2026-11-20 18:39 UTC",
+  "fingerprint": "621101b2ee930fa649dd0fe7434cc4c7",
   "total": 1895,
-  "working": 1655,
-  "in_grace_period": 12,
-  "dead": 240,
+  "working": 1652,
+  "in_grace_period": 8,
+  "dead": 243,
   "hd_channels": 654,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 669,
+      "working": 666,
       "hd": 245
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 158,
+      "working": 159,
       "hd": 58
     },
     "Santali": {
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 187,
-      "working": 157,
+      "working": 156,
       "hd": 81
     },
     "Telugu": {
@@ -233,6 +233,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -490,6 +495,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -650,6 +660,11 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Mangalmay TV (576p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -740,11 +755,6 @@
       "reason": "URLError"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News India 24x7 (1080p)",
       "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
       "reason": "HTTP 404"
@@ -820,11 +830,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Pitaara (576p)",
-      "url": "http://116.90.120.149:8000/play/a0ky/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
@@ -853,6 +858,11 @@
       "name": "Public Music (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/publicmusickannada/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "R Plus Gold (576p)",
@@ -1083,6 +1093,11 @@
       "name": "Sun Surya HD (1080p)",
       "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Suriyan TV (576p)",
