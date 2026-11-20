@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 09:56 UTC",
-  "fingerprint": "54ed4889747341399a71d6885b04c802",
+  "updated_at": "2026-11-20 10:54 UTC",
+  "fingerprint": "149bbcc6145654ad4d50ca9cd422a191",
   "total": 1895,
-  "working": 1649,
-  "in_grace_period": 12,
-  "dead": 246,
+  "working": 1652,
+  "in_grace_period": 9,
+  "dead": 243,
   "hd_channels": 655,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 88,
+      "working": 89,
       "hd": 46
     },
     "Bhojpuri": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 664,
+      "working": 665,
       "hd": 245
     },
     "Kannada": {
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 158,
+      "working": 159,
       "hd": 58
     },
     "Santali": {
@@ -118,11 +118,6 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "9X Tashan (576p)",
-      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -885,11 +880,6 @@
       "reason": "TimeoutError"
     },
     {
-      "name": "Q TV (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1073,11 +1063,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
