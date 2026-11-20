@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 01:53 UTC",
-  "fingerprint": "91492702b10a7e02045af88f58437bb3",
+  "updated_at": "2026-11-20 02:42 UTC",
+  "fingerprint": "0e2201bb57e3a4d039763c409277aed3",
   "total": 1895,
-  "working": 1653,
-  "in_grace_period": 16,
-  "dead": 242,
+  "working": 1651,
+  "in_grace_period": 17,
+  "dead": 244,
   "hd_channels": 653,
   "languages": {
     "Assamese": {
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 666,
+      "working": 664,
       "hd": 244
     },
     "Kannada": {
@@ -855,6 +855,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -1037,7 +1042,7 @@
     {
       "name": "Star Jalsha (1080p) [Geo-blocked]",
       "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
+      "reason": "HTTP 429"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1103,6 +1108,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
