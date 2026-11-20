@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 22:59 UTC",
-  "fingerprint": "182dcd59dbdfac1b23ebc775283f2ccd",
+  "updated_at": "2026-11-20 23:45 UTC",
+  "fingerprint": "3dc6cba53f4f360722e3e7c62439e13e",
   "total": 1895,
-  "working": 1658,
-  "in_grace_period": 8,
-  "dead": 237,
-  "hd_channels": 653,
+  "working": 1654,
+  "in_grace_period": 13,
+  "dead": 241,
+  "hd_channels": 651,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 90,
-      "hd": 43
+      "working": 89,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 33,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 671,
-      "hd": 245
+      "working": 670,
+      "hd": 244
     },
     "Kannada": {
       "total": 83,
@@ -54,7 +54,7 @@
     },
     "Malayalam": {
       "total": 123,
-      "working": 102,
+      "working": 101,
       "hd": 40
     },
     "Marathi": {
@@ -69,7 +69,7 @@
     },
     "Odia": {
       "total": 36,
-      "working": 28,
+      "working": 26,
       "hd": 12
     },
     "Other": {
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 203,
-      "working": 174,
+      "working": 175,
       "hd": 69
     },
     "Urdu": {
@@ -370,6 +370,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Ekamra Bharat Odia (400p)",
+      "url": "https://live.ekamraott.com/bharat/bharat/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Enterr 10 Bangla (576p)",
       "url": "http://103.165.93.31:8095/enter10Bangla/index.m3u8",
       "reason": "URLError"
@@ -428,11 +433,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -630,6 +630,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Kalika TV (576p)",
+      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Kanak News (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/kanaknews/index.m3u8",
       "reason": "TimeoutError"
@@ -813,6 +818,11 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "One Paschima (400p)",
+      "url": "https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1030,6 +1040,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1078,6 +1093,11 @@
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "SVBC 4 (1080p)",
+      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
