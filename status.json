@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-20 15:47 UTC",
-  "fingerprint": "dc941e1f59881adf089d920aaadcc46d",
+  "updated_at": "2026-11-20 16:43 UTC",
+  "fingerprint": "2fe556aaeb3c0716634442fee709d4b0",
   "total": 1895,
-  "working": 1654,
-  "in_grace_period": 12,
-  "dead": 241,
+  "working": 1655,
+  "in_grace_period": 14,
+  "dead": 240,
   "hd_channels": 653,
   "languages": {
     "Assamese": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 164,
-      "working": 143,
-      "hd": 62
+      "working": 145,
+      "hd": 63
     },
     "Gujarati": {
       "total": 48,
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 774,
       "working": 669,
-      "hd": 246
+      "hd": 245
     },
     "Kannada": {
       "total": 83,
@@ -108,6 +108,11 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "7X Music (1080p)",
+      "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -535,11 +540,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Harvest USA (576p)",
-      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -918,11 +918,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
