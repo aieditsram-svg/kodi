@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 16:43 UTC",
-  "fingerprint": "2fe556aaeb3c0716634442fee709d4b0",
+  "updated_at": "2026-11-20 17:41 UTC",
+  "fingerprint": "4f3b7251b1a0b48899b3b13501384c77",
   "total": 1895,
   "working": 1655,
-  "in_grace_period": 14,
+  "in_grace_period": 12,
   "dead": 240,
-  "hd_channels": 653,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 129,
-      "working": 88,
-      "hd": 44
+      "working": 89,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 33,
@@ -79,7 +79,7 @@
     },
     "Punjabi": {
       "total": 167,
-      "working": 159,
+      "working": 158,
       "hd": 58
     },
     "Santali": {
@@ -188,11 +188,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -745,6 +740,11 @@
       "reason": "URLError"
     },
     {
+      "name": "News 24 (576p)",
+      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News India 24x7 (1080p)",
       "url": "https://stream.ottlive.co.in/newsindia/index.m3u8",
       "reason": "HTTP 404"
@@ -818,6 +818,11 @@
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pitaara (576p)",
+      "url": "http://116.90.120.149:8000/play/a0ky/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Pogo (576p)",
@@ -1207,11 +1212,6 @@
     {
       "name": "Zainabia Channel",
       "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Cinema (1080p)",
-      "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
       "reason": "HTTP 404"
     },
     {
