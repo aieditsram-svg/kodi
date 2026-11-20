@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-20 11:47 UTC",
-  "fingerprint": "e2d8c5a00d03c9064c5b279f94134d4f",
+  "updated_at": "2026-11-20 12:46 UTC",
+  "fingerprint": "ac18995bd559949d8cb1ec86cdb73e96",
   "total": 1895,
-  "working": 1655,
-  "in_grace_period": 12,
-  "dead": 240,
-  "hd_channels": 655,
+  "working": 1653,
+  "in_grace_period": 17,
+  "dead": 242,
+  "hd_channels": 654,
   "languages": {
     "Assamese": {
       "total": 42,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 164,
-      "working": 145,
+      "working": 144,
       "hd": 62
     },
     "Gujarati": {
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 774,
-      "working": 669,
+      "working": 668,
       "hd": 245
     },
     "Kannada": {
       "total": 83,
-      "working": 66,
-      "hd": 31
+      "working": 65,
+      "hd": 30
     },
     "Konkani": {
       "total": 3,
@@ -167,6 +167,11 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Ashwaveega News 24x7 (720p)",
+      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -812,7 +817,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 403"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -928,6 +933,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1192,7 +1202,7 @@
     {
       "name": "Vistaar News (576p)",
       "url": "https://vistaarnews.com/livetv-stream/test.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 404"
     },
     {
       "name": "VR Live (720p)",
