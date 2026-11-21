@@ -1,51 +1,56 @@
 {
-  "updated_at": "2026-11-20 23:45 UTC",
-  "fingerprint": "3dc6cba53f4f360722e3e7c62439e13e",
-  "total": 1895,
-  "working": 1654,
-  "in_grace_period": 13,
+  "updated_at": "2026-11-21 00:33 UTC",
+  "fingerprint": "586afd292b17b828cbf74e988469d228",
+  "total": 1969,
+  "working": 1728,
+  "in_grace_period": 12,
   "dead": 241,
-  "hd_channels": 651,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
-      "total": 42,
-      "working": 38,
+      "total": 44,
+      "working": 40,
       "hd": 13
     },
     "Bengali": {
-      "total": 129,
-      "working": 89,
-      "hd": 42
+      "total": 134,
+      "working": 94,
+      "hd": 44
     },
     "Bhojpuri": {
-      "total": 33,
-      "working": 31,
-      "hd": 13
+      "total": 34,
+      "working": 32,
+      "hd": 14
     },
     "Chhattisgarhi": {
-      "total": 3,
-      "working": 3,
-      "hd": 0
+      "total": 4,
+      "working": 4,
+      "hd": 1
     },
     "English": {
-      "total": 164,
-      "working": 145,
-      "hd": 63
+      "total": 176,
+      "working": 157,
+      "hd": 73
     },
     "Gujarati": {
-      "total": 48,
-      "working": 45,
+      "total": 49,
+      "working": 46,
       "hd": 21
     },
+    "Haryanvi": {
+      "total": 1,
+      "working": 1,
+      "hd": 1
+    },
     "Hindi": {
-      "total": 774,
-      "working": 670,
-      "hd": 244
+      "total": 811,
+      "working": 705,
+      "hd": 263
     },
     "Kannada": {
-      "total": 83,
-      "working": 66,
-      "hd": 30
+      "total": 88,
+      "working": 72,
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -53,24 +58,24 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 123,
-      "working": 101,
-      "hd": 40
+      "total": 130,
+      "working": 109,
+      "hd": 44
     },
     "Marathi": {
-      "total": 56,
-      "working": 48,
-      "hd": 23
+      "total": 59,
+      "working": 51,
+      "hd": 25
     },
     "Nepali": {
       "total": 6,
-      "working": 6,
-      "hd": 3
+      "working": 5,
+      "hd": 2
     },
     "Odia": {
-      "total": 36,
-      "working": 26,
-      "hd": 12
+      "total": 38,
+      "working": 28,
+      "hd": 13
     },
     "Other": {
       "total": 24,
@@ -78,8 +83,8 @@
       "hd": 11
     },
     "Punjabi": {
-      "total": 167,
-      "working": 159,
+      "total": 168,
+      "working": 160,
       "hd": 58
     },
     "Santali": {
@@ -88,14 +93,14 @@
       "hd": 1
     },
     "Tamil": {
-      "total": 187,
-      "working": 158,
-      "hd": 81
+      "total": 193,
+      "working": 164,
+      "hd": 85
     },
     "Telugu": {
-      "total": 203,
-      "working": 175,
-      "hd": 69
+      "total": 209,
+      "working": 181,
+      "hd": 72
     },
     "Urdu": {
       "total": 22,
@@ -172,11 +177,6 @@
     {
       "name": "Aradana TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/AradanaTV/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Ashwaveega News 24x7 (720p)",
-      "url": "https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -313,6 +313,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -628,11 +633,6 @@
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kanak News (576p)",
@@ -1183,6 +1183,11 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Vision Beats (720p)",
+      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
