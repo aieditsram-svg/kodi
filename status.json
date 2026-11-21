@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 21:54 UTC",
-  "fingerprint": "d424427559c7eefbac73520bed9f0ca2",
+  "updated_at": "2026-11-21 22:29 UTC",
+  "fingerprint": "db67bd20ea91569cca5ba594bb0640bc",
   "total": 1969,
-  "working": 1719,
-  "in_grace_period": 11,
-  "dead": 250,
-  "hd_channels": 689,
+  "working": 1717,
+  "in_grace_period": 8,
+  "dead": 252,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
-      "hd": 264
+      "working": 697,
+      "hd": 263
     },
     "Kannada": {
       "total": 88,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 181,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -238,6 +238,11 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Bharat Samachar (576p)",
+      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -418,6 +423,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -760,6 +770,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -910,6 +925,11 @@
       "reason": "TimeoutError"
     },
     {
+      "name": "Q TV (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/3PjZZahm/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "R Plus Gold (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HRPLUSGOLD/index.m3u8",
       "reason": "HTTP 403"
@@ -975,6 +995,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://fta.ektv.in/live/718/master.m3u8",
       "reason": "HTTP 404"
@@ -1013,16 +1038,6 @@
       "name": "Shemaroo Filmi Gaane (1080p)",
       "url": "https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Shubh Cinema TV (576p)",
@@ -1098,11 +1113,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
