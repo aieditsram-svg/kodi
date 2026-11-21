@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 17:28 UTC",
-  "fingerprint": "924993e1bcb14a3566b0830dbe480d14",
+  "updated_at": "2026-11-21 18:12 UTC",
+  "fingerprint": "35518fa4ecf01916f99837200a10c657",
   "total": 1969,
-  "working": 1717,
-  "in_grace_period": 11,
-  "dead": 252,
-  "hd_channels": 689,
+  "working": 1722,
+  "in_grace_period": 5,
+  "dead": 247,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 92,
-      "hd": 45
+      "working": 95,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
+      "working": 702,
       "hd": 265
     },
     "Kannada": {
@@ -865,11 +865,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "OM TV (576p)",
-      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -1015,16 +1010,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1100,11 +1085,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1143,6 +1123,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Suriyan TV (576p)",
+      "url": "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8",
+      "reason": "HTTP 503"
     },
     {
       "name": "Suriyan TV (576p)",
@@ -1270,18 +1255,8 @@
       "reason": "URLError"
     },
     {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "ZB Cinema (1080p)",
       "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "ZB Music (720p)",
-      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
       "reason": "HTTP 404"
     },
     {
