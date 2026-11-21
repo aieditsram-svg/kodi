@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 07:44 UTC",
-  "fingerprint": "2c75395eba50e4f9489cd168db2e44ec",
+  "updated_at": "2026-11-21 08:34 UTC",
+  "fingerprint": "4ab82d588f76f368d924cba5c76aa51b",
   "total": 1969,
-  "working": 1727,
-  "in_grace_period": 12,
-  "dead": 242,
-  "hd_channels": 693,
+  "working": 1726,
+  "in_grace_period": 11,
+  "dead": 243,
+  "hd_channels": 692,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
-      "hd": 48
+      "working": 94,
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 34,
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 158,
-      "hd": 71
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -75,7 +75,7 @@
     "Odia": {
       "total": 38,
       "working": 30,
-      "hd": 13
+      "hd": 12
     },
     "Other": {
       "total": 24,
@@ -682,7 +682,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 400"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -777,7 +777,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -1233,6 +1233,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
