@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 11:04 UTC",
-  "fingerprint": "b328dd8d9b17a0b427ce9883a4789f08",
+  "updated_at": "2026-11-21 11:48 UTC",
+  "fingerprint": "60f3bdf4c8aec1b8490feee352560203",
   "total": 1969,
-  "working": 1720,
-  "in_grace_period": 26,
-  "dead": 249,
-  "hd_channels": 682,
+  "working": 1710,
+  "in_grace_period": 18,
+  "dead": 259,
+  "hd_channels": 681,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -34,7 +34,7 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 46,
+      "working": 45,
       "hd": 20
     },
     "Haryanvi": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
+      "working": 692,
       "hd": 257
     },
     "Kannada": {
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 158,
+      "working": 157,
       "hd": 57
     },
     "Santali": {
@@ -94,8 +94,8 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 163,
-      "hd": 85
+      "working": 161,
+      "hd": 84
     },
     "Telugu": {
       "total": 209,
@@ -243,6 +243,16 @@
       "name": "BRK News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBRKNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "BVG (576p)",
+      "url": "https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
+      "name": "C-10 (576p)",
+      "url": "https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Captain (576p)",
@@ -545,6 +555,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Har Khabar (576p)",
+      "url": "https://samitaorigin.tangotv.in/HARKHABAR/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
       "reason": "HTTP 404"
@@ -695,6 +710,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Mantavya News (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -800,9 +820,9 @@
       "reason": "URLError"
     },
     {
-      "name": "News 24 (576p)",
-      "url": "https://tvsen5.aynaott.com/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "name": "News Hour (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlNEWSHOUR/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -875,6 +895,21 @@
       "reason": "URLError"
     },
     {
+      "name": "Oli TV (1080p)",
+      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Oli TV (1080p)",
+      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Only Bharat (576p)",
+      "url": "https://mumt07.tangotv.in/zHjX9OFlONLYBHARAT/index.m3u8",
+      "reason": "TimeoutError"
+    },
+    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -903,6 +938,11 @@
       "name": "Pratham News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRATHAMNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Pratham News (576p)",
+      "url": "https://samitaorigin.tangotv.in/PRATHAMNEWS/SAMITAORIGIN/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Public First (576p)",
@@ -953,6 +993,11 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Sadhna News Madhya Pradesh/Chhattisgarh (576p)",
+      "url": "https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -1263,6 +1308,11 @@
       "name": "Win TV (576p)",
       "url": "https://mumt06.tangotv.in/qYyB8fXVWINTV/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "World Punjabi TV (576p)",
+      "url": "https://mumt06.tangotv.in/qYyB8fXVWPNWORLDPUNJABI/index.m3u8",
+      "reason": "TimeoutError"
     },
     {
       "name": "YRF Music (1080p)",
