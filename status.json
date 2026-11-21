@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 00:33 UTC",
-  "fingerprint": "586afd292b17b828cbf74e988469d228",
+  "updated_at": "2026-11-21 01:51 UTC",
+  "fingerprint": "8b2e29446791dc456ef9853aacede141",
   "total": 1969,
-  "working": 1728,
-  "in_grace_period": 12,
-  "dead": 241,
-  "hd_channels": 690,
+  "working": 1723,
+  "in_grace_period": 17,
+  "dead": 246,
+  "hd_channels": 687,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
-      "hd": 44
+      "working": 90,
+      "hd": 42
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 705,
+      "working": 704,
       "hd": 263
     },
     "Kannada": {
       "total": 88,
-      "working": 72,
+      "working": 71,
       "hd": 35
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 109,
-      "hd": 44
+      "working": 107,
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
-      "working": 51,
+      "working": 50,
       "hd": 25
     },
     "Nepali": {
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 164,
+      "working": 163,
       "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 181,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -752,7 +752,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -810,6 +810,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -852,6 +857,11 @@
     {
       "name": "Public First (576p)",
       "url": "https://fta.ektv.in/live/237/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Public First (576p)",
+      "url": "https://samitaorigin.tangotv.in/PUBLICFIRST/SAMITAORIGIN/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -1085,6 +1095,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
+    },
+    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1093,11 +1108,6 @@
       "name": "SVBC 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "SVBC 4 (1080p)",
-      "url": "https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Swadesh News (576p)",
@@ -1225,6 +1235,16 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "ZB Bhakti (720p)",
+      "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "ZB Music (720p)",
       "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
       "reason": "HTTP 404"
@@ -1303,6 +1323,11 @@
       "name": "Zee TV HD (1080p)",
       "url": "http://103.135.253.32:8080/ZEE-TV/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZillarBarta News",
+      "url": "https://server.zillarbarta.com/zillarbarta/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Asianet News Telugu Ⓨ",
