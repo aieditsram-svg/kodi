@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 12:32 UTC",
-  "fingerprint": "0fb4dd214785a3e79e84d469b7ab8c7b",
+  "updated_at": "2026-11-21 13:37 UTC",
+  "fingerprint": "76b89e1b110f472d9baf44e01104b9c3",
   "total": 1969,
-  "working": 1704,
-  "in_grace_period": 6,
-  "dead": 265,
-  "hd_channels": 678,
+  "working": 1709,
+  "in_grace_period": 8,
+  "dead": 260,
+  "hd_channels": 681,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 91,
-      "hd": 45
+      "working": 92,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 689,
+      "working": 691,
       "hd": 257
     },
     "Kannada": {
       "total": 88,
-      "working": 71,
+      "working": 72,
       "hd": 35
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 107,
-      "hd": 43
+      "working": 109,
+      "hd": 44
     },
     "Marathi": {
       "total": 59,
-      "working": 50,
+      "working": 51,
       "hd": 25
     },
     "Nepali": {
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 161,
-      "hd": 84
+      "working": 164,
+      "hd": 85
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 181,
       "hd": 72
     },
     "Urdu": {
@@ -148,11 +148,6 @@
       "name": "Aakaash Aath (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Aamar Bangla (720p)",
-      "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AKD Calcutta News (576p)",
@@ -530,6 +525,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -890,11 +890,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -903,16 +898,6 @@
       "name": "NK TV Bangla (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://hlslive.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Oli TV (1080p)",
-      "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Only Bharat (576p)",
@@ -1080,16 +1065,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1165,6 +1140,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 429"
+    },
+    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1203,11 +1183,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
