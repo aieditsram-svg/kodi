@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 01:51 UTC",
-  "fingerprint": "8b2e29446791dc456ef9853aacede141",
+  "updated_at": "2026-11-21 02:39 UTC",
+  "fingerprint": "f86ae021e585f84677a4ed1f0f762f9a",
   "total": 1969,
-  "working": 1723,
-  "in_grace_period": 17,
-  "dead": 246,
-  "hd_channels": 687,
+  "working": 1721,
+  "in_grace_period": 16,
+  "dead": 248,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 90,
-      "hd": 42
+      "working": 91,
+      "hd": 43
     },
     "Bhojpuri": {
       "total": 34,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 704,
+      "working": 701,
       "hd": 263
     },
     "Kannada": {
@@ -320,6 +320,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Dangal TV (576p)",
+      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
       "reason": "HTTP 404"
@@ -500,6 +505,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -588,11 +598,6 @@
       "name": "Jaihind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Jalsha Movies (1080p)",
-      "url": "https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Jalsha Movies (720p)",
@@ -1118,6 +1123,11 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Taaza TV (576p)",
+      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
