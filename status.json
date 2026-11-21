@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 16:49 UTC",
-  "fingerprint": "5467a06a2da420b9cb1cecca7cdca7af",
+  "updated_at": "2026-11-21 17:28 UTC",
+  "fingerprint": "924993e1bcb14a3566b0830dbe480d14",
   "total": 1969,
-  "working": 1716,
-  "in_grace_period": 8,
-  "dead": 253,
+  "working": 1717,
+  "in_grace_period": 11,
+  "dead": 252,
   "hd_channels": 689,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 93,
+      "working": 92,
       "hd": 45
     },
     "Bhojpuri": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
+      "working": 700,
       "hd": 265
     },
     "Kannada": {
@@ -94,7 +94,7 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
+      "working": 161,
       "hd": 84
     },
     "Telugu": {
@@ -495,11 +495,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Goldmines (576p)",
-      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -760,18 +755,8 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Network 10",
       "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -878,6 +863,11 @@
       "name": "Oli TV (1080p)",
       "url": "https://live.olidigital.in/olitv/olitv/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "OM TV (576p)",
+      "url": "https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Peace of Mind TV (576p)",
@@ -1108,6 +1098,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
