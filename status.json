@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 08:34 UTC",
-  "fingerprint": "4ab82d588f76f368d924cba5c76aa51b",
+  "updated_at": "2026-11-21 09:24 UTC",
+  "fingerprint": "70f5745999742485c7d3f4cbd3f75599",
   "total": 1969,
-  "working": 1726,
-  "in_grace_period": 11,
-  "dead": 243,
-  "hd_channels": 692,
+  "working": 1723,
+  "in_grace_period": 13,
+  "dead": 246,
+  "hd_channels": 691,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
-      "hd": 47
+      "working": 95,
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 158,
+      "working": 157,
       "hd": 72
     },
     "Gujarati": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 701,
-      "hd": 265
+      "working": 699,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -65,7 +65,7 @@
     "Marathi": {
       "total": 59,
       "working": 51,
-      "hd": 25
+      "hd": 24
     },
     "Nepali": {
       "total": 6,
@@ -84,8 +84,8 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 160,
-      "hd": 58
+      "working": 159,
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -130,6 +130,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "9XM (1080p)",
       "url": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
       "reason": "HTTP 403"
@@ -153,11 +158,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -560,6 +560,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Hi Dost! (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HHIDOST/index.m3u8",
       "reason": "HTTP 403"
@@ -748,6 +753,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -995,6 +1005,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1233,11 +1253,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "ZB Cartoon (1080p)",
-      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
