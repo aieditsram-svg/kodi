@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 22:29 UTC",
-  "fingerprint": "db67bd20ea91569cca5ba594bb0640bc",
+  "updated_at": "2026-11-21 23:13 UTC",
+  "fingerprint": "baa9b2fefc5c88ce45e3d26260680cdc",
   "total": 1969,
-  "working": 1717,
-  "in_grace_period": 8,
-  "dead": 252,
-  "hd_channels": 688,
+  "working": 1719,
+  "in_grace_period": 10,
+  "dead": 250,
+  "hd_channels": 685,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 157,
-      "hd": 73
+      "hd": 71
     },
     "Gujarati": {
       "total": 49,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
-      "hd": 263
+      "working": 699,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
-      "working": 72,
-      "hd": 35
+      "working": 71,
+      "hd": 34
     },
     "Konkani": {
       "total": 3,
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 109,
-      "hd": 44
+      "working": 107,
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
-      "working": 51,
+      "working": 50,
       "hd": 25
     },
     "Nepali": {
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 162,
+      "working": 161,
       "hd": 84
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 179,
       "hd": 72
     },
     "Urdu": {
@@ -113,11 +113,6 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "7X Music (360p)",
-      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -190,11 +185,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "B4U Movies (576p)",
       "url": "http://66.102.126.10:8000/play/a01n/index.m3u8",
       "reason": "URLError"
@@ -238,11 +228,6 @@
       "name": "Bharat Samachar (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Bharat Samachar (576p)",
-      "url": "https://tvsen3.aynaott.com/m94BZDYb/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "BRK News (720p)",
@@ -860,6 +845,11 @@
       "reason": "HTTP 404"
     },
     {
+      "name": "Nickelodeon (576p) [Geo-blocked]",
+      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
+      "reason": "HTTP 456"
+    },
+    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -993,11 +983,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1158,6 +1143,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
