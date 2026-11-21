@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 06:28 UTC",
-  "fingerprint": "a678291592820b4804a8b551d5260f0b",
+  "updated_at": "2026-11-21 07:44 UTC",
+  "fingerprint": "2c75395eba50e4f9489cd168db2e44ec",
   "total": 1969,
-  "working": 1722,
-  "in_grace_period": 8,
-  "dead": 247,
-  "hd_channels": 695,
+  "working": 1727,
+  "in_grace_period": 12,
+  "dead": 242,
+  "hd_channels": 693,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
+      "working": 95,
       "hd": 48
     },
     "Bhojpuri": {
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 157,
-      "hd": 73
+      "working": 158,
+      "hd": 71
     },
     "Gujarati": {
       "total": 49,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 700,
-      "hd": 264
+      "working": 701,
+      "hd": 265
     },
     "Kannada": {
       "total": 88,
@@ -59,7 +59,7 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 106,
+      "working": 109,
       "hd": 44
     },
     "Marathi": {
@@ -79,8 +79,8 @@
     },
     "Other": {
       "total": 24,
-      "working": 20,
-      "hd": 11
+      "working": 19,
+      "hd": 10
     },
     "Punjabi": {
       "total": 168,
@@ -104,7 +104,7 @@
     },
     "Urdu": {
       "total": 22,
-      "working": 20,
+      "working": 21,
       "hd": 6
     }
   },
@@ -620,16 +620,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Janam TV (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
-      "name": "Janam TV (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Jaya Plus (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
       "reason": "HTTP 404"
@@ -653,11 +643,6 @@
       "name": "Kairali Arabia (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Kalika TV (576p)",
-      "url": "http://server.applelive.in/kalikatv/kalikatv.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Kanak News (576p)",
@@ -697,7 +682,7 @@
     {
       "name": "Mahimai TV (576p)",
       "url": "https://mahimai.iptelevision.live/mahimaitv/video.m3u8",
-      "reason": "HTTP 400"
+      "reason": "URLError"
     },
     {
       "name": "Manoranjan TV (576p)",
@@ -792,7 +777,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -865,6 +850,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Peques TV (720p)",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "reason": "HTTP 504"
+    },
+    {
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
@@ -933,11 +923,6 @@
       "name": "Rupasi Bangla (576p)",
       "url": "https://tvsen6.aynaott.com/a4L7Tcqv/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Sach Bedhadak (576p)",
-      "url": "https://sbnews.nexcdn.online/sbnews/live/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sadhna Plus News (576p)",
@@ -1083,11 +1068,6 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
@@ -1253,11 +1233,6 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Zainabia Channel",
-      "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Zee 24 Ghanta (576p)",
