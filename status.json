@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 05:29 UTC",
-  "fingerprint": "9272560f0b0da48c890a16937beab3a6",
+  "updated_at": "2026-11-21 06:28 UTC",
+  "fingerprint": "a678291592820b4804a8b551d5260f0b",
   "total": 1969,
   "working": 1722,
-  "in_grace_period": 7,
+  "in_grace_period": 8,
   "dead": 247,
-  "hd_channels": 694,
+  "hd_channels": 695,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 698,
-      "hd": 263
+      "working": 700,
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -59,7 +59,7 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 108,
+      "working": 106,
       "hd": 44
     },
     "Marathi": {
@@ -69,8 +69,8 @@
     },
     "Nepali": {
       "total": 6,
-      "working": 5,
-      "hd": 2
+      "working": 6,
+      "hd": 3
     },
     "Odia": {
       "total": 38,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 180,
+      "working": 181,
       "hd": 72
     },
     "Urdu": {
@@ -450,11 +450,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -625,6 +620,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Janam TV (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
+      "name": "Janam TV (576p)",
+      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtvdev/playlist.m3u8",
+      "reason": "HTTP 503"
+    },
+    {
       "name": "Jaya Plus (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
       "reason": "HTTP 404"
@@ -678,6 +683,11 @@
       "name": "Kolkata TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HKOLKATATV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Kolkata TV (576p)",
+      "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Mahaa Max (576p)",
@@ -753,11 +763,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -1218,11 +1223,6 @@
       "name": "VIP News (360p)",
       "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Vision Beats (720p)",
-      "url": "http://a-edge.bliscdn.com/Visionbeats/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Vistaar News (576p)",
