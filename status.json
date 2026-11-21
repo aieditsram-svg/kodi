@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-21 19:46 UTC",
-  "fingerprint": "48d5d0f9ee2ae0098dbfbde40d3d193c",
+  "updated_at": "2026-11-21 20:26 UTC",
+  "fingerprint": "9cad8a36f65552060bb938ff7211573b",
   "total": 1969,
-  "working": 1727,
-  "in_grace_period": 19,
-  "dead": 242,
+  "working": 1726,
+  "in_grace_period": 15,
+  "dead": 243,
   "hd_channels": 691,
   "languages": {
     "Assamese": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 158,
+      "working": 157,
       "hd": 73
     },
     "Gujarati": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 704,
+      "working": 703,
       "hd": 265
     },
     "Kannada": {
@@ -958,6 +958,11 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Sansad TV 1 HD (1080p)",
+      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
