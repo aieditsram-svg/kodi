@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 20:26 UTC",
-  "fingerprint": "9cad8a36f65552060bb938ff7211573b",
+  "updated_at": "2026-11-21 21:13 UTC",
+  "fingerprint": "de366c734f5b774022e9d74365f7b911",
   "total": 1969,
-  "working": 1726,
-  "in_grace_period": 15,
-  "dead": 243,
-  "hd_channels": 691,
+  "working": 1720,
+  "in_grace_period": 12,
+  "dead": 249,
+  "hd_channels": 686,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 45,
-      "hd": 20
+      "working": 44,
+      "hd": 19
     },
     "Haryanvi": {
       "total": 1,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 703,
-      "hd": 265
+      "working": 698,
+      "hd": 261
     },
     "Kannada": {
       "total": 88,
@@ -89,7 +89,7 @@
     },
     "Santali": {
       "total": 2,
-      "working": 2,
+      "working": 1,
       "hd": 1
     },
     "Tamil": {
@@ -113,6 +113,11 @@
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "7X Music (360p)",
+      "url": "https://cdn2.in/7xPunjabihls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9X Jalwa (576p)",
@@ -148,6 +153,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -645,8 +655,8 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Kolkata TV (576p)",
-      "url": "https://tvsen6.aynaott.com/kolkatatv/index.m3u8",
+      "name": "KTV Bangla (720p)",
+      "url": "https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -865,6 +875,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Pradesh24 Gujarati (1080p)",
+      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Prameya News7 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8",
       "reason": "HTTP 403"
@@ -1000,6 +1015,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1108,6 +1133,11 @@
       "name": "StarPlus HD (1080p)",
       "url": "https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Steelbird Music (720p) [Not 24/7]",
+      "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "STV Haryana News (576p)",
