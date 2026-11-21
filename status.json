@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 21:13 UTC",
-  "fingerprint": "de366c734f5b774022e9d74365f7b911",
+  "updated_at": "2026-11-21 21:54 UTC",
+  "fingerprint": "d424427559c7eefbac73520bed9f0ca2",
   "total": 1969,
-  "working": 1720,
-  "in_grace_period": 12,
-  "dead": 249,
-  "hd_channels": 686,
+  "working": 1719,
+  "in_grace_period": 11,
+  "dead": 250,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 96,
+      "working": 95,
       "hd": 47
     },
     "Bhojpuri": {
@@ -45,7 +45,7 @@
     "Hindi": {
       "total": 811,
       "working": 698,
-      "hd": 261
+      "hd": 264
     },
     "Kannada": {
       "total": 88,
@@ -155,11 +155,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
       "reason": "TimeoutError"
@@ -193,6 +188,11 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "B4U Kadak (576p)",
+      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -1098,6 +1098,11 @@
       "name": "Star Bharat HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-BHARAT/index.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "Star Jalsha (1080p) [Geo-blocked]",
+      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
+      "reason": "HTTP 458"
     },
     {
       "name": "Star Jalsha HD (1080p)",
