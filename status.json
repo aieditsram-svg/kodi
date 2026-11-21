@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-21 14:28 UTC",
-  "fingerprint": "35692daa48cbd6a950814f3a13c4e7ed",
+  "updated_at": "2026-11-21 15:17 UTC",
+  "fingerprint": "9cc481b0af19f4c85be821a3c2062f90",
   "total": 1969,
-  "working": 1715,
-  "in_grace_period": 12,
-  "dead": 254,
-  "hd_channels": 683,
+  "working": 1714,
+  "in_grace_period": 23,
+  "dead": 255,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 94,
-      "hd": 46
+      "working": 93,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 34,
@@ -700,11 +700,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Manoranjan TV (576p)",
-      "url": "https://tvsen6.aynaott.com/vhu6qz5Nsd/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mantavya News (576p)",
       "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
       "reason": "HTTP 404"
@@ -780,6 +775,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -807,7 +807,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News Hour (576p)",
@@ -1283,6 +1283,11 @@
       "name": "YRF Music (1080p)",
       "url": "https://d14c63magvk61v.cloudfront.net/strm/channels/yrfmusic/master.m3u8",
       "reason": "URLError"
+    },
+    {
+      "name": "ZB Cartoon (1080p)",
+      "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "ZB Cinema (1080p)",
