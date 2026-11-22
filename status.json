@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 00:32 UTC",
-  "fingerprint": "415ecc40518d32797b42c4debdca9a10",
+  "updated_at": "2026-11-22 01:48 UTC",
+  "fingerprint": "d9e51fe7388c9d297a1c0b2434b4d35c",
   "total": 1969,
-  "working": 1716,
-  "in_grace_period": 9,
-  "dead": 253,
-  "hd_channels": 685,
+  "working": 1718,
+  "in_grace_period": 21,
+  "dead": 251,
+  "hd_channels": 688,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -29,8 +29,8 @@
     },
     "English": {
       "total": 176,
-      "working": 155,
-      "hd": 71
+      "working": 157,
+      "hd": 73
     },
     "Gujarati": {
       "total": 49,
@@ -44,13 +44,13 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 699,
+      "working": 698,
       "hd": 263
     },
     "Kannada": {
       "total": 88,
-      "working": 70,
-      "hd": 34
+      "working": 71,
+      "hd": 35
     },
     "Konkani": {
       "total": 3,
@@ -520,13 +520,13 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Good News Today (720p)",
-      "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
+      "name": "Goldmines Movies (576p)",
+      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
       "reason": "HTTP 404"
     },
     {
-      "name": "Grace TV (360p)",
-      "url": "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8",
+      "name": "Good News Today (720p)",
+      "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -573,11 +573,6 @@
       "name": "IBC 24 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HC10/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "India Ahead (576p)",
-      "url": "https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8",
-      "reason": "TimeoutError"
     },
     {
       "name": "India News (576p)",
@@ -883,11 +878,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Power TV (576p)",
-      "url": "https://mumt06.tangotv.in/qYyB8fXVPOWERTV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Pradesh24 Gujarati (1080p)",
