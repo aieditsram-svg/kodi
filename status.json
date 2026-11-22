@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 09:26 UTC",
-  "fingerprint": "41bce15541af87766e9a8a69d42ce74c",
+  "updated_at": "2026-11-22 10:16 UTC",
+  "fingerprint": "49310a3e2b870e3de039b0fbcb345fd5",
   "total": 1969,
-  "working": 1717,
-  "in_grace_period": 7,
-  "dead": 252,
-  "hd_channels": 688,
+  "working": 1721,
+  "in_grace_period": 14,
+  "dead": 248,
+  "hd_channels": 682,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 45,
-      "hd": 20
+      "working": 46,
+      "hd": 21
     },
     "Haryanvi": {
       "total": 1,
@@ -44,8 +44,8 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
-      "hd": 262
+      "working": 698,
+      "hd": 255
     },
     "Kannada": {
       "total": 88,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 178,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -425,11 +425,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Cinema (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Cinema HD (1080p)",
       "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8",
       "reason": "URLError"
@@ -448,11 +443,6 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -538,11 +528,6 @@
       "name": "Goldmines Bollywood",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Goldmines Movies (576p)",
-      "url": "https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Good News Today (720p)",
@@ -710,11 +695,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Mantavya News (576p)",
-      "url": "https://mumt07.tangotv.in/zHjX9OFlMANTAVYA24X7NEWS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -812,7 +792,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News India 24x7 (1080p)",
