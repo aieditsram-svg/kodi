@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 07:47 UTC",
-  "fingerprint": "a02d72673cd34bd8cf1a881357608a0c",
+  "updated_at": "2026-11-22 08:36 UTC",
+  "fingerprint": "f96214b30f974693bcdb7cba461986b2",
   "total": 1969,
-  "working": 1718,
-  "in_grace_period": 14,
-  "dead": 251,
+  "working": 1720,
+  "in_grace_period": 11,
+  "dead": 249,
   "hd_channels": 690,
   "languages": {
     "Assamese": {
@@ -34,8 +34,8 @@
     },
     "Gujarati": {
       "total": 49,
-      "working": 44,
-      "hd": 19
+      "working": 45,
+      "hd": 20
     },
     "Haryanvi": {
       "total": 1,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 697,
+      "working": 698,
       "hd": 264
     },
     "Kannada": {
@@ -59,8 +59,8 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 108,
-      "hd": 44
+      "working": 107,
+      "hd": 43
     },
     "Marathi": {
       "total": 59,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 180,
       "hd": 72
     },
     "Urdu": {
@@ -150,9 +150,14 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "AMN TV (576p)",
       "url": "https://live.onecloudlive.in/amn/amntv/index.m3u8",
-      "reason": "TimeoutError"
+      "reason": "HTTP 403"
     },
     {
       "name": "Anand Wari TV (576p)",
@@ -870,11 +875,6 @@
       "reason": "URLError"
     },
     {
-      "name": "NTV Telugu (576p)",
-      "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8",
-      "reason": "HTTP 503"
-    },
-    {
       "name": "Peace of Mind TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HPEACEOFMIND/index.m3u8",
       "reason": "HTTP 403"
@@ -883,11 +883,6 @@
       "name": "Pogo (576p)",
       "url": "http://103.135.253.32:8080/POGO/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Pradesh24 Gujarati (1080p)",
-      "url": "https://stream2.livebox.co.in/pradesh24hls/live.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Prameya News7 (576p)",
@@ -1025,16 +1020,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -1153,6 +1138,11 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Sun Surya HD (1080p)",
+      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
+      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
