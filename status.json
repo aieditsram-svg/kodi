@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 18:12 UTC",
-  "fingerprint": "69891a6b63bc02539c51cd8a7f7ace8c",
+  "updated_at": "2026-11-22 19:01 UTC",
+  "fingerprint": "8e34e6e0e7379739ab8501a621093488",
   "total": 1969,
-  "working": 1667,
-  "in_grace_period": 6,
-  "dead": 302,
-  "hd_channels": 652,
+  "working": 1666,
+  "in_grace_period": 11,
+  "dead": 303,
+  "hd_channels": 651,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 134,
       "working": 89,
-      "hd": 45
+      "hd": 44
     },
     "Bhojpuri": {
       "total": 34,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 168,
+      "working": 167,
       "hd": 64
     },
     "Urdu": {
@@ -483,6 +483,11 @@
       "name": "ETV Music (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVABHIRUCHI/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Plus (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Plus HD (1080p)",
@@ -1260,11 +1265,6 @@
       "reason": "URLError"
     },
     {
-      "name": "Star Jalsha (1080p) [Geo-blocked]",
-      "url": "http://cdn98.com/play/live.php?extension=ts&mac=00:1A:79:99:54:11&play_token=o1cczsG9wV&stream=225805",
-      "reason": "HTTP 458"
-    },
-    {
       "name": "Star Jalsha HD (1080p)",
       "url": "http://103.135.253.32:8080/STAR-JALSHA-HD/index.m3u8",
       "reason": "URLError"
@@ -1502,6 +1502,11 @@
     {
       "name": "Zainabia Channel",
       "url": "https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "ZB Music (720p)",
+      "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
       "reason": "HTTP 404"
     },
     {
