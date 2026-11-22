@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 04:35 UTC",
-  "fingerprint": "371d4cfe409a83e6b2f1f050cc94dd66",
+  "updated_at": "2026-11-22 05:34 UTC",
+  "fingerprint": "44c54981b4da132673f2b2dea86c88c2",
   "total": 1969,
-  "working": 1711,
-  "in_grace_period": 8,
-  "dead": 258,
-  "hd_channels": 689,
+  "working": 1717,
+  "in_grace_period": 11,
+  "dead": 252,
+  "hd_channels": 690,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,7 +15,7 @@
     "Bengali": {
       "total": 134,
       "working": 95,
-      "hd": 47
+      "hd": 48
     },
     "Bhojpuri": {
       "total": 34,
@@ -30,7 +30,7 @@
     "English": {
       "total": 176,
       "working": 157,
-      "hd": 73
+      "hd": 72
     },
     "Gujarati": {
       "total": 49,
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 690,
+      "working": 696,
       "hd": 264
     },
     "Kannada": {
@@ -59,8 +59,8 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 107,
-      "hd": 43
+      "working": 108,
+      "hd": 44
     },
     "Marathi": {
       "total": 59,
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 179,
+      "working": 178,
       "hd": 72
     },
     "Urdu": {
@@ -158,11 +158,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -443,6 +438,11 @@
       "name": "ETV Andhra Pradesh (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/ETVAP/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "ETV Cinema (396p)",
+      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
+      "reason": "not a valid HLS manifest"
     },
     {
       "name": "ETV Cinema HD (1080p)",
@@ -785,26 +785,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Network 10 (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/Network10/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10 (720p)",
-      "url": "https://network10.livebox.co.in/network10outhls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Network 10",
-      "url": "https://network10.livebox.co.in/network10hls/live.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -832,7 +812,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "URLError"
+      "reason": "HTTP 404"
     },
     {
       "name": "News India 24x7 (1080p)",
@@ -892,7 +872,7 @@
     {
       "name": "Nickelodeon (576p) [Geo-blocked]",
       "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
+      "reason": "HTTP 429"
     },
     {
       "name": "NK TV 24x7 (1080p)",
@@ -1175,11 +1155,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
-    },
-    {
       "name": "Suriyan TV (576p)",
       "url": "https://stream.sscloud7.com/live/suriyantv/index.m3u8",
       "reason": "URLError"
@@ -1198,11 +1173,6 @@
       "name": "T News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HTNEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Taaza TV (576p)",
-      "url": "https://tvsen3.aynaott.com/yRMLky2j/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Taaza TV (576p)",
