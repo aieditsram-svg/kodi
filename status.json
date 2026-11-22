@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 06:31 UTC",
-  "fingerprint": "5ca3f7fcf1167d76f504c7db52eb3046",
+  "updated_at": "2026-11-22 07:47 UTC",
+  "fingerprint": "a02d72673cd34bd8cf1a881357608a0c",
   "total": 1969,
-  "working": 1719,
-  "in_grace_period": 13,
-  "dead": 250,
+  "working": 1718,
+  "in_grace_period": 14,
+  "dead": 251,
   "hd_channels": 690,
   "languages": {
     "Assamese": {
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 95,
+      "working": 94,
       "hd": 48
     },
     "Bhojpuri": {
@@ -99,7 +99,7 @@
     },
     "Telugu": {
       "total": 209,
-      "working": 178,
+      "working": 179,
       "hd": 72
     },
     "Urdu": {
@@ -145,11 +145,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "ABN Andhra Jyoti (720p)",
-      "url": "https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
@@ -188,11 +183,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -510,6 +500,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Goldmines (576p)",
+      "url": "https://tvsen6.aynaott.com/hKrngve2/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Goldmines 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8",
       "reason": "HTTP 403"
@@ -557,6 +552,11 @@
     {
       "name": "Harvest TV (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/HarvestTV/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Harvest USA (576p)",
+      "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -763,6 +763,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -980,8 +985,8 @@
       "reason": "URLError"
     },
     {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
       "reason": "HTTP 404"
     },
     {
