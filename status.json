@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-22 15:15 UTC",
-  "fingerprint": "c82259eb1078019d411dd653e82e4d83",
+  "updated_at": "2026-11-22 16:01 UTC",
+  "fingerprint": "412e7b9b196ff5771edb5ac78a1c2bc3",
   "total": 1969,
-  "working": 1668,
-  "in_grace_period": 11,
-  "dead": 301,
-  "hd_channels": 654,
+  "working": 1672,
+  "in_grace_period": 9,
+  "dead": 297,
+  "hd_channels": 656,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 134,
-      "working": 91,
+      "working": 92,
       "hd": 45
     },
     "Bhojpuri": {
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 176,
-      "working": 126,
+      "working": 127,
       "hd": 52
     },
     "Gujarati": {
@@ -44,12 +44,12 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 662,
-      "hd": 239
+      "working": 666,
+      "hd": 240
     },
     "Kannada": {
       "total": 88,
-      "working": 64,
+      "working": 65,
       "hd": 29
     },
     "Konkani": {
@@ -59,12 +59,12 @@
     },
     "Malayalam": {
       "total": 130,
-      "working": 100,
-      "hd": 38
+      "working": 102,
+      "hd": 39
     },
     "Marathi": {
       "total": 59,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Nepali": {
@@ -84,7 +84,7 @@
     },
     "Punjabi": {
       "total": 168,
-      "working": 157,
+      "working": 156,
       "hd": 57
     },
     "Santali": {
@@ -94,12 +94,12 @@
     },
     "Tamil": {
       "total": 193,
-      "working": 146,
+      "working": 147,
       "hd": 72
     },
     "Telugu": {
       "total": 209,
-      "working": 169,
+      "working": 170,
       "hd": 64
     },
     "Urdu": {
@@ -115,11 +115,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "7X Music (1080p)",
-      "url": "https://7xshreeshyam.akamaized.net/7XPunjabi/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "9X Jalwa (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8",
       "reason": "HTTP 403"
@@ -128,6 +123,11 @@
       "name": "9X Jhakaas (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H9XJHAKAAS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "9X Tashan (576p)",
+      "url": "https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "9XM (1080p)",
@@ -203,11 +203,6 @@
       "name": "Awakening TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "B4U Kadak (576p)",
-      "url": "https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "B4U Movies (576p)",
@@ -940,11 +935,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "Nickelodeon (576p) [Geo-blocked]",
-      "url": "http://dksmedia.tv/play/live.php?extension=ts&mac=00:1A:79:B6:60:3D&play_token=8FNt7g9GJ5&stream=1752848",
-      "reason": "HTTP 456"
-    },
-    {
       "name": "NK TV 24x7 (1080p)",
       "url": "https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8",
       "reason": "URLError"
@@ -1063,11 +1053,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sansad TV 1 HD (1080p)",
-      "url": "https://fta.ektv.in/live/718/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
@@ -1338,11 +1323,6 @@
       "name": "STV Haryana News (576p)",
       "url": "https://fta.ektv.in/live/607/master.m3u8",
       "reason": "HTTP 404"
-    },
-    {
-      "name": "Sun Surya HD (1080p)",
-      "url": "https://d3dt6rg724ecr3.cloudfront.net/SuryaTv/SuryaTV-HDR10-IN-index.m3u8",
-      "reason": "HTTP 403"
     },
     {
       "name": "Suriyan TV (576p)",
