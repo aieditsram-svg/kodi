@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-22 16:01 UTC",
-  "fingerprint": "412e7b9b196ff5771edb5ac78a1c2bc3",
+  "updated_at": "2026-11-22 16:45 UTC",
+  "fingerprint": "b8d4f8b1a6ad50908c8b9fca05dedbf5",
   "total": 1969,
-  "working": 1672,
-  "in_grace_period": 9,
-  "dead": 297,
+  "working": 1670,
+  "in_grace_period": 19,
+  "dead": 299,
   "hd_channels": 656,
   "languages": {
     "Assamese": {
@@ -44,7 +44,7 @@
     },
     "Hindi": {
       "total": 811,
-      "working": 666,
+      "working": 664,
       "hd": 240
     },
     "Kannada": {
@@ -168,6 +168,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -838,6 +843,11 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Network 10 (576p)",
+      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
