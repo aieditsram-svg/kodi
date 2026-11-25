@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-11-25 09:04 UTC",
-  "fingerprint": "61e97a99b818197ae4bb579c4c947358",
+  "updated_at": "2026-11-25 19:10 UTC",
+  "fingerprint": "17f02800ec9c1815c01103b59c31c47a",
   "total": 1858,
-  "working": 1691,
-  "in_grace_period": 22,
-  "dead": 167,
-  "hd_channels": 671,
+  "working": 1692,
+  "in_grace_period": 13,
+  "dead": 166,
+  "hd_channels": 675,
   "languages": {
     "Assamese": {
       "total": 43,
-      "working": 40,
+      "working": 41,
       "hd": 13
     },
     "Bengali": {
@@ -34,18 +34,18 @@
     },
     "Gujarati": {
       "total": 47,
-      "working": 44,
+      "working": 45,
       "hd": 20
     },
     "Hindi": {
       "total": 733,
       "working": 662,
-      "hd": 239
+      "hd": 241
     },
     "Kannada": {
       "total": 70,
       "working": 64,
-      "hd": 28
+      "hd": 29
     },
     "Konkani": {
       "total": 3,
@@ -54,8 +54,8 @@
     },
     "Malayalam": {
       "total": 136,
-      "working": 122,
-      "hd": 54
+      "working": 123,
+      "hd": 55
     },
     "Marathi": {
       "total": 45,
@@ -74,7 +74,7 @@
     },
     "Other": {
       "total": 24,
-      "working": 20,
+      "working": 18,
       "hd": 11
     },
     "Punjabi": {
@@ -351,6 +351,16 @@
     },
     {
       "name": "FashionTV (576p)",
+      "url": "http://163.61.226.31:9981/stream/channelid/448803688?profile=pass",
+      "reason": "RemoteDisconnected"
+    },
+    {
+      "name": "FashionTV (576p)",
+      "url": "http://163.61.226.31:9981/stream/channelid/943090988?profile=pass",
+      "reason": "RemoteDisconnected"
+    },
+    {
+      "name": "FashionTV (576p)",
       "url": "https://fta.ektv.in/live/144/144_0.m3u8",
       "reason": "HTTP 404"
     },
@@ -402,11 +412,6 @@
     {
       "name": "Good News Today (720p)",
       "url": "https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "GS TV (576p)",
-      "url": "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -488,11 +493,6 @@
       "name": "Jinvani Channel (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Jonack (576p)",
-      "url": "https://fta.ektv.in/live/676/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Joy TV (576p)",
@@ -612,7 +612,7 @@
     {
       "name": "News 24 (576p)",
       "url": "http://tvsen5.aynascope.net/News24/index.m3u8",
-      "reason": "HTTP 404"
+      "reason": "URLError"
     },
     {
       "name": "News Nation (576p)",
@@ -813,11 +813,6 @@
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
-    },
-    {
-      "name": "Thanima (1080p)",
-      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi TV (576p)",
