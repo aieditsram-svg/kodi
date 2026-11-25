@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-24 15:59 UTC",
-  "fingerprint": "0be09856aeccf4f5f5f965183c40f192",
-  "total": 1841,
-  "working": 1674,
-  "in_grace_period": 20,
-  "dead": 167,
-  "hd_channels": 657,
+  "updated_at": "2026-11-25 00:33 UTC",
+  "fingerprint": "8ace36120477b8a44d6e1308b6aca569",
+  "total": 1858,
+  "working": 1689,
+  "in_grace_period": 15,
+  "dead": 169,
+  "hd_channels": 667,
   "languages": {
     "Assamese": {
       "total": 43,
@@ -39,8 +39,8 @@
     },
     "Hindi": {
       "total": 733,
-      "working": 659,
-      "hd": 240
+      "working": 661,
+      "hd": 239
     },
     "Kannada": {
       "total": 70,
@@ -53,14 +53,14 @@
       "hd": 1
     },
     "Malayalam": {
-      "total": 119,
-      "working": 106,
-      "hd": 43
+      "total": 136,
+      "working": 120,
+      "hd": 52
     },
     "Marathi": {
       "total": 45,
       "working": 44,
-      "hd": 19
+      "hd": 20
     },
     "Nepali": {
       "total": 6,
@@ -94,8 +94,8 @@
     },
     "Telugu": {
       "total": 187,
-      "working": 171,
-      "hd": 63
+      "working": 170,
+      "hd": 64
     },
     "Urdu": {
       "total": 22,
@@ -104,6 +104,11 @@
     }
   },
   "dead_channels": [
+    {
+      "name": "6 TV Telugu (576p)",
+      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
+      "reason": "HTTP 404"
+    },
     {
       "name": "7S Music (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8",
@@ -247,6 +252,11 @@
     {
       "name": "DD Assam (576p)",
       "url": "https://fta.ektv.in/live/672/master.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "DD Kashir (576p)",
+      "url": "https://fta.ektv.in/live/248/master.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -530,6 +540,16 @@
       "reason": "HTTP 400"
     },
     {
+      "name": "Malabar Plus (720p)",
+      "url": "http://cloud.logichost.in:1935/live/mplus/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Malappuram Cable Vision (1080p)",
+      "url": "http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -583,11 +603,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Network 10 (576p)",
-      "url": "https://tvsen6.aynaott.com/3Cb2WLFz/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -730,16 +745,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Shemaroo TV (576p)",
-      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "Shubh Cinema TV (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8",
       "reason": "HTTP 403"
@@ -818,6 +823,11 @@
       "name": "Tarang TV (576p)",
       "url": "https://mumbai-edge.smartplaytv.in/tarang/index.m3u8",
       "reason": "TimeoutError"
+    },
+    {
+      "name": "Thanima (1080p)",
+      "url": "https://live.skystream.in/live/thanimatvtvm/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "Thanthi TV (576p)",
