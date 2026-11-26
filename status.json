@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-26 02:12 UTC",
-  "fingerprint": "4bf7e29a3942d77c7c566e681d9d9451",
+  "updated_at": "2026-11-26 10:57 UTC",
+  "fingerprint": "ffa68f428e23bc4062d1bad3e829187e",
   "total": 1873,
-  "working": 1702,
-  "in_grace_period": 14,
-  "dead": 171,
-  "hd_channels": 684,
+  "working": 1707,
+  "in_grace_period": 29,
+  "dead": 166,
+  "hd_channels": 679,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,7 +14,7 @@
     },
     "Bengali": {
       "total": 103,
-      "working": 91,
+      "working": 90,
       "hd": 45
     },
     "Bhojpuri": {
@@ -30,7 +30,7 @@
     "English": {
       "total": 140,
       "working": 128,
-      "hd": 53
+      "hd": 52
     },
     "Gujarati": {
       "total": 48,
@@ -39,13 +39,13 @@
     },
     "Hindi": {
       "total": 739,
-      "working": 663,
-      "hd": 247
+      "working": 668,
+      "hd": 244
     },
     "Kannada": {
       "total": 71,
       "working": 65,
-      "hd": 28
+      "hd": 29
     },
     "Konkani": {
       "total": 3,
@@ -75,12 +75,12 @@
     "Other": {
       "total": 27,
       "working": 21,
-      "hd": 13
+      "hd": 12
     },
     "Punjabi": {
       "total": 167,
       "working": 159,
-      "hd": 58
+      "hd": 57
     },
     "Santali": {
       "total": 2,
@@ -94,7 +94,7 @@
     },
     "Telugu": {
       "total": 188,
-      "working": 170,
+      "working": 171,
       "hd": 64
     },
     "Urdu": {
@@ -133,11 +133,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -227,7 +222,7 @@
     {
       "name": "Chintpurni Live (360p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HCHINTPURNILIVE/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "CTVN AKD Plus (576p)",
@@ -243,16 +238,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Dangal 2 (576p)",
-      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "Dangal TV (576p)",
-      "url": "https://tvsen3.aynaott.com/qPNg4LJK/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Assam (576p)",
@@ -330,11 +315,6 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "ETV Plus (396p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "ETV Plus HD (1080p)",
       "url": "https://d12ee3o8yfkkhd.cloudfront.net/c6a4b411295f47f48c908d2ac0605bad/index.m3u8",
       "reason": "URLError"
@@ -382,7 +362,7 @@
     {
       "name": "Fast1 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HFast1/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "First India News (576p)",
@@ -545,11 +525,6 @@
       "reason": "HTTP 400"
     },
     {
-      "name": "Mangalmay TV (576p)",
-      "url": "https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b",
-      "reason": "not a valid HLS manifest"
-    },
-    {
       "name": "Mastiii (576p) [Geo-blocked]",
       "url": "https://tvsen3.aynaott.com/er7jmpVF/index.m3u8",
       "reason": "TimeoutError"
@@ -603,11 +578,6 @@
       "name": "NDTV Rajasthan (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNDTVRAJASTHAN/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "News 1st (576p)",
@@ -732,7 +702,7 @@
     {
       "name": "Shaheedan Shahib (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSHAHEEDBABADEEPSINGH/index.m3u8",
-      "reason": "HTTP 403"
+      "reason": "HTTP 404"
     },
     {
       "name": "Shekinah TV (1080p)",
@@ -758,6 +728,11 @@
       "name": "Shemaroo TV (576p)",
       "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
       "reason": "HTTP 404"
+    },
+    {
+      "name": "Shiksha TV (720p)",
+      "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
+      "reason": "URLError"
     },
     {
       "name": "Shubh Cinema TV (576p)",
