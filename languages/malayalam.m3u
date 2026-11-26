@@ -1,5 +1,5 @@
 #EXTM3U
-# Working Malayalam channels, updated 2026-11-26 10:57 UTC
+# Working Malayalam channels, updated 2026-11-26 20:01 UTC
 #EXTINF:-1 tvg-id="24News.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xraizkS.png" tvg-language="Malayalam" group-title="Malayalam" height="396",24 News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 #EXTINF:-1 tvg-id="24News.in@SD" x-category="news" tvg-logo="https://i.imgur.com/xraizkS.png" tvg-language="Malayalam" group-title="Malayalam" height="720",24 News (576p)
@@ -123,7 +123,7 @@ https://live.skystream.in/live/krlatoday/index.m3u8
 https://cdn.pishow.tv/ott/live/243/master.m3u8
 #EXTINF:-1 tvg-id="KeralaVision.in@SD" x-category="entertainment" tvg-logo="https://i.imgur.com/SWNjyyp.png" tvg-language="Malayalam" group-title="Malayalam" height="720",Kerala Vision (576p)
 https://samitaorigin.tangotv.in/KERALAVISION/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="KiteVicters.in@SD" x-category="education" tvg-logo="https://i.imgur.com/kj4OEsb.png" tvg-language="Malayalam" group-title="Malayalam" height="720",KITE Victers (Kerala) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KiteVicters.in@SD" x-category="education" tvg-logo="https://i.imgur.com/kj4OEsb.png" tvg-language="Malayalam" group-title="Malayalam" height="1080",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MalabarPlus.in@SD" x-category="entertainment" tvg-logo="https://i.ibb.co/p6kf0FfH/1000151556.png" tvg-language="Malayalam" group-title="Malayalam" height="720",Malabar Plus (720p)
 http://cloud.logichost.in:1935/live/mplus/index.m3u8
