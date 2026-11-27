@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-27 02:46 UTC",
-  "fingerprint": "73d9c36b37d960dd046a89888ab6bb4a",
+  "updated_at": "2026-11-27 11:28 UTC",
+  "fingerprint": "19b72857861aab2d78afd47a69831a5a",
   "total": 1901,
-  "working": 1727,
-  "in_grace_period": 28,
-  "dead": 174,
-  "hd_channels": 686,
+  "working": 1728,
+  "in_grace_period": 12,
+  "dead": 173,
+  "hd_channels": 689,
   "languages": {
     "Assamese": {
       "total": 44,
-      "working": 42,
+      "working": 43,
       "hd": 14
     },
     "Bengali": {
       "total": 106,
-      "working": 93,
-      "hd": 45
+      "working": 92,
+      "hd": 46
     },
     "Bhojpuri": {
       "total": 32,
@@ -29,7 +29,7 @@
     },
     "English": {
       "total": 142,
-      "working": 129,
+      "working": 131,
       "hd": 55
     },
     "Gujarati": {
@@ -40,7 +40,7 @@
     "Hindi": {
       "total": 745,
       "working": 675,
-      "hd": 245
+      "hd": 246
     },
     "Kannada": {
       "total": 72,
@@ -70,7 +70,7 @@
     "Odia": {
       "total": 34,
       "working": 30,
-      "hd": 12
+      "hd": 13
     },
     "Other": {
       "total": 30,
@@ -89,7 +89,7 @@
     },
     "Tamil": {
       "total": 167,
-      "working": 149,
+      "working": 150,
       "hd": 73
     },
     "Telugu": {
@@ -138,6 +138,11 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "All Time Movies (576p)",
+      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -238,11 +243,6 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "DD Assam (576p)",
-      "url": "https://fta.ektv.in/live/672/master.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "DD Manipur (576p)",
@@ -580,11 +580,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "Movies Now HD (576p)",
-      "url": "http://27.124.71.27/Movies_Now/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "MTV HD (396p)",
       "url": "https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
       "reason": "HTTP 451"
@@ -725,6 +720,11 @@
       "reason": "URLError"
     },
     {
+      "name": "Sangeet Bangla (576p) [Geo-blocked]",
+      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Sansad TV 1 HD (1080p)",
       "url": "https://mumbai-edge.smartplaytv.in/Sansad1/index.m3u8",
       "reason": "TimeoutError"
@@ -863,11 +863,6 @@
       "name": "Times Now Navbharat (1080p) [Geo-blocked]",
       "url": "https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/navbharat/navbharat_master.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "Total TV Haryana (576p)",
-      "url": "https://mumt04.tangotv.in/m18aqlK4TOTALTV/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Travelxp 4K HDR (2160p) [Geo-blocked]",
