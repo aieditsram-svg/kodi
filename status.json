@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-27 11:28 UTC",
-  "fingerprint": "19b72857861aab2d78afd47a69831a5a",
+  "updated_at": "2026-11-27 20:11 UTC",
+  "fingerprint": "64e754b6581e7ee1db2b1dec2be544c7",
   "total": 1901,
   "working": 1728,
-  "in_grace_period": 12,
+  "in_grace_period": 21,
   "dead": 173,
-  "hd_channels": 689,
+  "hd_channels": 686,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -14,8 +14,8 @@
     },
     "Bengali": {
       "total": 106,
-      "working": 92,
-      "hd": 46
+      "working": 93,
+      "hd": 45
     },
     "Bhojpuri": {
       "total": 32,
@@ -35,11 +35,11 @@
     "Gujarati": {
       "total": 48,
       "working": 46,
-      "hd": 20
+      "hd": 19
     },
     "Hindi": {
       "total": 745,
-      "working": 675,
+      "working": 674,
       "hd": 246
     },
     "Kannada": {
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 191,
       "working": 174,
-      "hd": 66
+      "hd": 65
     },
     "Urdu": {
       "total": 22,
@@ -610,6 +610,11 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "News 1 India (576p)",
+      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -718,11 +723,6 @@
       "name": "Sangeet Bangla (576p)",
       "url": "http://103.165.93.31:8095/sangeetBangla/index.m3u8",
       "reason": "URLError"
-    },
-    {
-      "name": "Sangeet Bangla (576p) [Geo-blocked]",
-      "url": "https://tvsen6.aynaott.com/hT5jHczt/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "Sansad TV 1 HD (1080p)",
