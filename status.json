@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-11-28 02:42 UTC",
-  "fingerprint": "97720848dfda4564fb7ebe70c3977f9e",
+  "updated_at": "2026-11-28 10:55 UTC",
+  "fingerprint": "89bc63e76d6e03516754d725c63729dc",
   "total": 1904,
-  "working": 1725,
-  "in_grace_period": 17,
-  "dead": 179,
-  "hd_channels": 683,
+  "working": 1724,
+  "in_grace_period": 14,
+  "dead": 180,
+  "hd_channels": 687,
   "languages": {
     "Assamese": {
       "total": 44,
@@ -15,12 +15,12 @@
     "Bengali": {
       "total": 106,
       "working": 93,
-      "hd": 45
+      "hd": 47
     },
     "Bhojpuri": {
       "total": 33,
       "working": 32,
-      "hd": 12
+      "hd": 13
     },
     "Chhattisgarhi": {
       "total": 4,
@@ -30,7 +30,7 @@
     "English": {
       "total": 143,
       "working": 131,
-      "hd": 55
+      "hd": 56
     },
     "Gujarati": {
       "total": 48,
@@ -39,7 +39,7 @@
     },
     "Hindi": {
       "total": 745,
-      "working": 673,
+      "working": 672,
       "hd": 246
     },
     "Kannada": {
@@ -95,7 +95,7 @@
     "Telugu": {
       "total": 191,
       "working": 174,
-      "hd": 65
+      "hd": 66
     },
     "Urdu": {
       "total": 22,
@@ -107,11 +107,6 @@
     {
       "name": "4TV News (576p)",
       "url": "https://fta.ektv.in/live/647/master.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
-      "name": "6 TV Telugu (576p)",
-      "url": "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8",
       "reason": "HTTP 404"
     },
     {
@@ -138,11 +133,6 @@
       "name": "AKD Calcutta News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HAKDCALCUTTANEWS/index.m3u8",
       "reason": "HTTP 403"
-    },
-    {
-      "name": "All Time Movies (576p)",
-      "url": "https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8",
-      "reason": "HTTP 404"
     },
     {
       "name": "AMN TV (576p)",
@@ -248,6 +238,11 @@
       "name": "Dangal 2 (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HDANGAL2/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Dangal 2 (576p)",
+      "url": "https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "DD Manipur (576p)",
@@ -625,11 +620,6 @@
       "reason": "HTTP 403"
     },
     {
-      "name": "News 1 India (576p)",
-      "url": "https://tvsen6.aynaott.com/TaVfw58T/index.m3u8",
-      "reason": "HTTP 404"
-    },
-    {
       "name": "News 1st (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HNEWS1STKANNADA/index.m3u8",
       "reason": "HTTP 403"
@@ -785,6 +775,16 @@
       "reason": "HTTP 403"
     },
     {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen3.aynaott.com/27jCLCUX/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
+      "name": "Shemaroo TV (576p)",
+      "url": "https://tvsen6.aynaott.com/D3NDt6gn/index.m3u8",
+      "reason": "HTTP 404"
+    },
+    {
       "name": "Shiksha TV (720p)",
       "url": "http://103.89.46.106:8080/hls/shikshatvhd/index.m3u8",
       "reason": "URLError"
@@ -853,6 +853,11 @@
       "name": "Swadesh News (576p)",
       "url": "https://mumt03.tangotv.in/Dsly5z3HSWADESHNEWS/index.m3u8",
       "reason": "HTTP 403"
+    },
+    {
+      "name": "Swatantra TV (1080p)",
+      "url": "https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8",
+      "reason": "HTTP 404"
     },
     {
       "name": "T News (576p)",
